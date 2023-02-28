@@ -1735,6 +1735,7 @@
 
 ## react 
 
+- [crutchcorn/houseform](https://github.com/crutchcorn/houseform) - Simple to use React forms, where your validation and UI code live together in harmony.
 - [formkit/auto-animate](https://github.com/formkit/auto-animate) - A zero-config, drop-in animation utility that adds smooth transitions to your web app. You can use it with React, Vue, or any other JavaScript application.
 - [sodenn/2do-txt](https://github.com/sodenn/2do-txt) - todo.txt-compatible task manager
 - [aykutkardas/svgps.app](https://github.com/aykutkardas/svgps.app) - SVGPS converts your icons into a single JSON file that is ready to use in your frontend or mobile projects.
@@ -1774,6 +1775,7 @@
 
 ## react-native 
 
+- [crutchcorn/houseform](https://github.com/crutchcorn/houseform) - Simple to use React forms, where your validation and UI code live together in harmony.
 - [tamagui/tamagui](https://github.com/tamagui/tamagui) - The worlds fastest React UI kit also happens to work on Native + Web seamlessly 🙏
 - [ritz078/transform](https://github.com/ritz078/transform) - A polyglot web converter.
 - [vercel/swr](https://github.com/vercel/swr) - React Hooks for Data Fetching
