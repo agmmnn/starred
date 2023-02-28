@@ -770,6 +770,7 @@
 
 ## TypeScript 
 
+- [crutchcorn/houseform](https://github.com/crutchcorn/houseform) - Simple to use React forms, where your validation and UI code live together in harmony.
 - [danielroe/magic-regexp](https://github.com/danielroe/magic-regexp) - A compiled-away, type-safe, readable RegExp alternative
 - [antfu/taze](https://github.com/antfu/taze) - 🥦 A modern cli tool that keeps your deps fresh
 - [formkit/auto-animate](https://github.com/formkit/auto-animate) - A zero-config, drop-in animation utility that adds smooth transitions to your web app. You can use it with React, Vue, or any other JavaScript application.
