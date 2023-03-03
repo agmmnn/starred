@@ -164,6 +164,7 @@
 - [virtual-reality](#virtual-reality)
 - [visual-studio-code](#visual-studio-code)
 - [vue](#vue)
+- [vuejs](#vuejs)
 - [web](#web)
 - [webpack](#webpack)
 - [website](#website)
@@ -1205,6 +1206,7 @@
 
 ## nextjs 
 
+- [gptlabs/nextjs-openai](https://github.com/gptlabs/nextjs-openai) - Hooks and components for working with OpenAI streams.
 - [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source & self-hostable Heroku / Netlify alternative.
 - [shadcn/ui](https://github.com/shadcn/ui) - Beautifully designed components built with Radix UI and Tailwind CSS.
 - [stackbit/jamstackthemes](https://github.com/stackbit/jamstackthemes) - A list of themes and starters for JAMstack sites.
@@ -1303,6 +1305,7 @@
 
 ## others 
 
+- [alexkay/spek](https://github.com/alexkay/spek) - Acoustic spectrum analyser
 - [antfu/taze](https://github.com/antfu/taze) - 🥦 A modern cli tool that keeps your deps fresh
 - [raunofreiberg/vesper](https://github.com/raunofreiberg/vesper) - Peppermint and orange flavored dark theme for VSCode.
 - [davep/transcendent-textual](https://github.com/davep/transcendent-textual) - A personal project to gather up links to as many Textual sources, libraries and applications as possible.
@@ -2084,6 +2087,10 @@
 - [TanStack/table](https://github.com/TanStack/table) - 🤖 Headless UI for building powerful tables & datagrids for TS/JS -  React-Table, Vue-Table, Solid-Table, Svelte-Table
 - [njbrown/texturelab](https://github.com/njbrown/texturelab) - Free, Cross-Platform, GPU-Accelerated Procedural Texture Generator
 - [marktext/marktext](https://github.com/marktext/marktext) - 📝A simple and elegant markdown editor, available for Linux, macOS and Windows.
+
+## vuejs 
+
+- [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source & self-hostable Heroku / Netlify alternative.
 
 ## web 
 
