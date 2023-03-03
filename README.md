@@ -121,6 +121,7 @@
 
 ## C++ 
 
+- [alexkay/spek](https://github.com/alexkay/spek) - Acoustic spectrum analyser
 - [WerWolv/ImHex](https://github.com/WerWolv/ImHex) - 🔍 A Hex Editor for Reverse Engineers, Programmers and people who value their retinas when working at 3 AM.
 - [paolo-projects/auto-unlocker](https://github.com/paolo-projects/auto-unlocker) - Unlocker for VMWare macOS
 - [mausimus/ShaderGlass](https://github.com/mausimus/ShaderGlass) - Overlay for running GPU shaders on top of Windows desktop
@@ -770,6 +771,7 @@
 
 ## TypeScript 
 
+- [gptlabs/nextjs-openai](https://github.com/gptlabs/nextjs-openai) - Hooks and components for working with OpenAI streams.
 - [crutchcorn/houseform](https://github.com/crutchcorn/houseform) - Simple to use React forms, where your validation and UI code live together in harmony.
 - [danielroe/magic-regexp](https://github.com/danielroe/magic-regexp) - A compiled-away, type-safe, readable RegExp alternative
 - [antfu/taze](https://github.com/antfu/taze) - 🥦 A modern cli tool that keeps your deps fresh
