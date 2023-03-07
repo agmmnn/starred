@@ -775,6 +775,7 @@
 
 ## TypeScript 
 
+- [PlasmoHQ/examples](https://github.com/PlasmoHQ/examples) - 🔰 Example projects that demonstrate how to use the Plasmo Framework and integrate with popular tools
 - [clauderic/dnd-kit](https://github.com/clauderic/dnd-kit) - The modern, lightweight, performant, accessible and extensible drag & drop toolkit for React.
 - [gptlabs/nextjs-openai](https://github.com/gptlabs/nextjs-openai) - Hooks and components for working with OpenAI streams.
 - [crutchcorn/houseform](https://github.com/crutchcorn/houseform) - Simple to use React forms, where your validation and UI code live together in harmony.
