@@ -122,6 +122,7 @@
 
 ## C++ 
 
+- [DjDeveloperr/skia_canvas](https://github.com/DjDeveloperr/skia_canvas) - Fast HTML Canvas API implementation for Deno using Skia.
 - [alexkay/spek](https://github.com/alexkay/spek) - Acoustic spectrum analyser
 - [WerWolv/ImHex](https://github.com/WerWolv/ImHex) - 🔍 A Hex Editor for Reverse Engineers, Programmers and people who value their retinas when working at 3 AM.
 - [paolo-projects/auto-unlocker](https://github.com/paolo-projects/auto-unlocker) - Unlocker for VMWare macOS
@@ -393,6 +394,7 @@
 
 ## Others 
 
+- [thoughtspile/awesome-tiny-js](https://github.com/thoughtspile/awesome-tiny-js) - A collection of tiny JS libraries to put your bundle on a diet
 - [raunofreiberg/vesper](https://github.com/raunofreiberg/vesper) - Peppermint and orange flavored dark theme for VSCode.
 - [davep/transcendent-textual](https://github.com/davep/transcendent-textual) - A personal project to gather up links to as many Textual sources, libraries and applications as possible.
 - [archinetai/audio-ai-timeline](https://github.com/archinetai/audio-ai-timeline) - A timeline of the latest AI models for audio generation, starting in 2023!
@@ -480,7 +482,7 @@
 - [HelixNGC7293/DeforumStableDiffusionLocal](https://github.com/HelixNGC7293/DeforumStableDiffusionLocal) - Local version of Deforum Stable Diffusion, supports txt settings file input and animation features!
 - [m1guelpf/yt-whisper](https://github.com/m1guelpf/yt-whisper) - Using OpenAI's Whisper to automatically generate YouTube subtitles
 - [mikeroyal/Photogrammetry-Guide](https://github.com/mikeroyal/Photogrammetry-Guide) - Photogrammetry Guide. Learn all about the process of obtaining measurements and 3D models from photos. Creating topographic maps, meshes, or point clouds based on the real-world.
-- [scmanjarrez/CVEScannerV2](https://github.com/scmanjarrez/CVEScannerV2) - Nmap script that searches for probable vulnerabilities based on services discovered in open ports.
+- [scmanjarrez/CVEScannerV2](https://github.com/scmanjarrez/CVEScannerV2) - Nmap script that looks for probable vulnerabilities based on services discovered in open ports.
 - [laramies/theHarvester](https://github.com/laramies/theHarvester) - E-mails, subdomains and names Harvester - OSINT
 - [satwikkansal/wtfpython](https://github.com/satwikkansal/wtfpython) - What the f*ck Python? 😱
 - [carlospolop/hacktricks](https://github.com/carlospolop/hacktricks) - Welcome to the page where you will find each trick/technique/whatever I have learnt in CTFs, real life apps, and reading researches and news.
@@ -775,6 +777,7 @@
 
 ## TypeScript 
 
+- [agmmnn/fineartdown](https://github.com/agmmnn/fineartdown) - Download full size images from Fine Art America, Conde Nast Store, Photos.com and Pixels.com
 - [PlasmoHQ/examples](https://github.com/PlasmoHQ/examples) - 🔰 Example projects that demonstrate how to use the Plasmo Framework and integrate with popular tools
 - [clauderic/dnd-kit](https://github.com/clauderic/dnd-kit) - The modern, lightweight, performant, accessible and extensible drag & drop toolkit for React.
 - [gptlabs/nextjs-openai](https://github.com/gptlabs/nextjs-openai) - Hooks and components for working with OpenAI streams.
