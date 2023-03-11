@@ -260,6 +260,7 @@
 
 ## JavaScript 
 
+- [google/zx](https://github.com/google/zx) - A tool for writing better scripts
 - [pastelsky/bundlephobia](https://github.com/pastelsky/bundlephobia) - 🏋️ Find out the cost of adding a new frontend dependency to your project
 - [mermaid-js/mermaid](https://github.com/mermaid-js/mermaid) - Generation of diagrams like flowcharts or sequence diagrams from text in a similar manner as markdown
 - [ffmpegwasm/ffmpeg.wasm](https://github.com/ffmpegwasm/ffmpeg.wasm) - FFmpeg for browser and node, powered by WebAssembly
@@ -455,6 +456,7 @@
 
 ## Python 
 
+- [microsoft/visual-chatgpt](https://github.com/microsoft/visual-chatgpt) - VisualChatGPT
 - [lucidrains/phenaki-pytorch](https://github.com/lucidrains/phenaki-pytorch) - Implementation of Phenaki Video, which uses Mask GIT to produce text guided videos of up to 2 minutes in length, in Pytorch
 - [ultrafunkamsterdam/undetected-chromedriver](https://github.com/ultrafunkamsterdam/undetected-chromedriver) - Custom Selenium Chromedriver | Zero-Config | Passes ALL bot mitigation systems (like Distil / Imperva/ Datadadome / CloudFlare IUAM)
 - [mazen160/secrets-patterns-db](https://github.com/mazen160/secrets-patterns-db) - Secrets Patterns DB: The largest open-source Database for detecting secrets, API keys, passwords, tokens, and more.
@@ -653,7 +655,7 @@
 ## Rust 
 
 - [emersonford/tracing-indicatif](https://github.com/emersonford/tracing-indicatif) - Tracing layer that automatically creates and manages progress bars for active spans.
-- [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - Open source virtual / remote desktop infrastructure for everyone! The open source TeamViewer alternative. Display and control your PC and Android devices from anywhere at anytime.
+- [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - Virtual / remote desktop infrastructure for everyone! Open source TeamViewer / Citrix alternative.
 - [surrealdb/surrealdb](https://github.com/surrealdb/surrealdb) - A scalable, distributed, collaborative, document-graph database, for the realtime web
 - [BurntSushi/xsv](https://github.com/BurntSushi/xsv) - A fast CSV command line toolkit written in Rust.
 - [orlp/glidesort](https://github.com/orlp/glidesort) - A Rust implementation of Glidesort, my stable adaptive quicksort/mergesort hybrid sorting algorithm.
