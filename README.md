@@ -781,6 +781,7 @@
 
 ## TypeScript 
 
+- [pmndrs/react-three-fiber](https://github.com/pmndrs/react-three-fiber) - 🇨🇭 A React renderer for Three.js
 - [jlalmes/trpc-chrome](https://github.com/jlalmes/trpc-chrome) - tRPC adapter for Web Extensions 🧩
 - [agmmnn/fineartdown](https://github.com/agmmnn/fineartdown) - Download full size images from Fine Art America, Conde Nast Store, Photos.com and Pixels.com
 - [PlasmoHQ/examples](https://github.com/PlasmoHQ/examples) - 🔰 Example projects that demonstrate how to use the Plasmo Framework and integrate with popular tools
