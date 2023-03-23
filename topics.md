@@ -806,6 +806,7 @@
 
 ## google 
 
+- [acheong08/Bard](https://github.com/acheong08/Bard) - Reverse engineering of Google's Bard chatbot
 - [jarun/googler](https://github.com/jarun/googler) - :mag: Google from the terminal
 - [dessant/search-by-image](https://github.com/dessant/search-by-image) - Browser extension for reverse image search, available for Chrome, Edge and Safari
 - [meetDeveloper/freeDictionaryAPI](https://github.com/meetDeveloper/freeDictionaryAPI) - There was no free Dictionary API on the web when I wanted one for my friend, so I created one.
@@ -1324,6 +1325,7 @@
 
 ## others 
 
+- [antimatter15/alpaca.cpp](https://github.com/antimatter15/alpaca.cpp) - Locally run an Instruction-Tuned Chat-Style LLM
 - [hwchase17/langchain](https://github.com/hwchase17/langchain) - ⚡ Building applications with LLMs through composability ⚡
 - [dreamworksanimation/openmoonray](https://github.com/dreamworksanimation/openmoonray) - 
 - [machinetranslate/machinetranslate.org](https://github.com/machinetranslate/machinetranslate.org) - Open resources and community for machine translation
@@ -1833,6 +1835,7 @@
 
 ## reverse-engineering 
 
+- [acheong08/Bard](https://github.com/acheong08/Bard) - Reverse engineering of Google's Bard chatbot
 - [ax/apk.sh](https://github.com/ax/apk.sh) - apk.sh makes reverse engineering Android apps easier, automating some repetitive tasks like pulling, decoding, rebuilding and patching an APK.
 - [WerWolv/ImHex](https://github.com/WerWolv/ImHex) - 🔍 A Hex Editor for Reverse Engineers, Programmers and people who value their retinas when working at 3 AM.
 - [sharkdp/binocle](https://github.com/sharkdp/binocle) - a graphical tool to visualize binary data
