@@ -806,7 +806,7 @@
 
 ## google 
 
-- [acheong08/Bard](https://github.com/acheong08/Bard) - Reverse engineering of Google's Bard chatbot
+- [acheong08/Bard](https://github.com/acheong08/Bard) - Reverse engineering of Google's Bard API
 - [jarun/googler](https://github.com/jarun/googler) - :mag: Google from the terminal
 - [dessant/search-by-image](https://github.com/dessant/search-by-image) - Browser extension for reverse image search, available for Chrome, Edge and Safari
 - [meetDeveloper/freeDictionaryAPI](https://github.com/meetDeveloper/freeDictionaryAPI) - There was no free Dictionary API on the web when I wanted one for my friend, so I created one.
@@ -1325,6 +1325,7 @@
 
 ## others 
 
+- [openai/chatgpt-retrieval-plugin](https://github.com/openai/chatgpt-retrieval-plugin) - 
 - [antimatter15/alpaca.cpp](https://github.com/antimatter15/alpaca.cpp) - Locally run an Instruction-Tuned Chat-Style LLM
 - [hwchase17/langchain](https://github.com/hwchase17/langchain) - ⚡ Building applications with LLMs through composability ⚡
 - [dreamworksanimation/openmoonray](https://github.com/dreamworksanimation/openmoonray) - 
@@ -1788,7 +1789,7 @@
 - [trpc/trpc](https://github.com/trpc/trpc) - 🧙‍♀️  Move Fast and Break Nothing. End-to-end typesafe APIs made easy.
 - [pmndrs/react-spring](https://github.com/pmndrs/react-spring) - ✌️ A spring physics based React animation library
 - [airbnb/visx](https://github.com/airbnb/visx) - 🐯 visx | visualization components
-- [mantinedev/mantine](https://github.com/mantinedev/mantine) - React components library with native dark theme support
+- [mantinedev/mantine](https://github.com/mantinedev/mantine) - A fully featured React components library
 - [thebuilder/react-intersection-observer](https://github.com/thebuilder/react-intersection-observer) - React implementation of the Intersection Observer API to tell you when an element enters or leaves the viewport.
 - [uidotdev/usehooks](https://github.com/uidotdev/usehooks) - Easy to understand React Hook code recipes
 - [vercel/swr](https://github.com/vercel/swr) - React Hooks for Data Fetching
@@ -1835,7 +1836,7 @@
 
 ## reverse-engineering 
 
-- [acheong08/Bard](https://github.com/acheong08/Bard) - Reverse engineering of Google's Bard chatbot
+- [acheong08/Bard](https://github.com/acheong08/Bard) - Reverse engineering of Google's Bard API
 - [ax/apk.sh](https://github.com/ax/apk.sh) - apk.sh makes reverse engineering Android apps easier, automating some repetitive tasks like pulling, decoding, rebuilding and patching an APK.
 - [WerWolv/ImHex](https://github.com/WerWolv/ImHex) - 🔍 A Hex Editor for Reverse Engineers, Programmers and people who value their retinas when working at 3 AM.
 - [sharkdp/binocle](https://github.com/sharkdp/binocle) - a graphical tool to visualize binary data
@@ -2070,7 +2071,7 @@
 - [quicktype/quicktype](https://github.com/quicktype/quicktype) - Generate types and converters from JSON, Schema, and GraphQL
 - [refinedev/refine](https://github.com/refinedev/refine) - Build your React-based CRUD applications, without constraints.
 - [trpc/trpc](https://github.com/trpc/trpc) - 🧙‍♀️  Move Fast and Break Nothing. End-to-end typesafe APIs made easy.
-- [mantinedev/mantine](https://github.com/mantinedev/mantine) - React components library with native dark theme support
+- [mantinedev/mantine](https://github.com/mantinedev/mantine) - A fully featured React components library
 - [swc-project/swc](https://github.com/swc-project/swc) - Rust-based platform for the Web
 - [myxvisual/react-uwp](https://github.com/myxvisual/react-uwp) - 📱⌨ React Components that Implement Microsoft's UWP Design & Fluent Design.
 - [crimx/ext-saladict](https://github.com/crimx/ext-saladict) - 🥗 All-in-one professional pop-up dictionary and page translator which supports multiple search modes, page translations, new word notebook and PDF selection searching.
