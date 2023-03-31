@@ -978,7 +978,7 @@
 - [formkit/auto-animate](https://github.com/formkit/auto-animate) - A zero-config, drop-in animation utility that adds smooth transitions to your web app. You can use it with React, Vue, or any other JavaScript application.
 - [ionic-team/capacitor](https://github.com/ionic-team/capacitor) - Build cross-platform Native Progressive Web Apps for iOS, Android, and the Web ⚡️
 - [vasanthk/react-bits](https://github.com/vasanthk/react-bits) - ✨ React patterns, techniques, tips and tricks ✨
-- [medusajs/medusa](https://github.com/medusajs/medusa) - The open-source Shopify alternative ⚡️
+- [medusajs/medusa](https://github.com/medusajs/medusa) - Building blocks for digital commerce
 - [visgl/deck.gl](https://github.com/visgl/deck.gl) - WebGL2 powered visualization framework
 - [grommet/grommet](https://github.com/grommet/grommet) - a react-based framework that provides accessibility, modularity, responsiveness, and theming in a tidy package
 - [apify/crawlee](https://github.com/apify/crawlee) - Crawlee—A web scraping and browser automation library for Node.js that helps you build reliable crawlers. Fast.
@@ -1272,7 +1272,7 @@
 
 - [google/zx](https://github.com/google/zx) - A tool for writing better scripts
 - [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source & self-hostable Heroku / Netlify alternative.
-- [medusajs/medusa](https://github.com/medusajs/medusa) - The open-source Shopify alternative ⚡️
+- [medusajs/medusa](https://github.com/medusajs/medusa) - Building blocks for digital commerce
 - [apify/crawlee](https://github.com/apify/crawlee) - Crawlee—A web scraping and browser automation library for Node.js that helps you build reliable crawlers. Fast.
 - [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth) - Authentication for the Web.
 - [multiprocessio/datastation](https://github.com/multiprocessio/datastation) - App to easily query, script, and visualize data from every database, file, and API.
@@ -1787,7 +1787,7 @@
 - [mithi/react-philosophies](https://github.com/mithi/react-philosophies) - 🧘  Things I think about when I write React code 🧘
 - [vasanthk/react-bits](https://github.com/vasanthk/react-bits) - ✨ React patterns, techniques, tips and tricks ✨
 - [shadcn/ui](https://github.com/shadcn/ui) - Beautifully designed components built with Radix UI and Tailwind CSS.
-- [medusajs/medusa](https://github.com/medusajs/medusa) - The open-source Shopify alternative ⚡️
+- [medusajs/medusa](https://github.com/medusajs/medusa) - Building blocks for digital commerce
 - [grommet/grommet](https://github.com/grommet/grommet) - a react-based framework that provides accessibility, modularity, responsiveness, and theming in a tidy package
 - [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth) - Authentication for the Web.
 - [shuding/nextra](https://github.com/shuding/nextra) - Simple, powerful and flexible site generation framework with everything you love from Next.js.
