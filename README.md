@@ -165,14 +165,13 @@
 - [AutoHotkey/AutoHotkey](https://github.com/AutoHotkey/AutoHotkey) - AutoHotkey - macro-creation and automation-oriented scripting utility for Windows.
 - [Stellarium/stellarium](https://github.com/Stellarium/stellarium) - Stellarium is a free GPL software which renders realistic skies in real time with OpenGL. It is available for Linux/Unix, Windows and macOS. With Stellarium, you really see what you can see with your 
 - [sonic-pi-net/sonic-pi](https://github.com/sonic-pi-net/sonic-pi) - Code. Music. Live.
-- [pytorch/pytorch](https://github.com/pytorch/pytorch) - Tensors and Dynamic neural networks in Python with strong GPU acceleration
 - [wjakob/instant-meshes](https://github.com/wjakob/instant-meshes) - Interactive field-aligned mesh generator
 - [tensorflow/tensorflow](https://github.com/tensorflow/tensorflow) - An Open Source Machine Learning Framework for Everyone
 - [butor/blackbird](https://github.com/butor/blackbird) - Blackbird Bitcoin Arbitrage: a long/short market-neutral strategy
 
 ## CMake 
 
-- [dreamworksanimation/openmoonray](https://github.com/dreamworksanimation/openmoonray) - 
+- [dreamworksanimation/openmoonray](https://github.com/dreamworksanimation/openmoonray) - MoonRay is DreamWorks’ open-source, award-winning, state-of-the-art production MCRT renderer.
 - [ultralight-ux/Ultralight](https://github.com/ultralight-ux/Ultralight) - Next-generation HTML renderer for apps and games
 
 ## CSS 
@@ -651,6 +650,7 @@
 - [jupyter/jupyter](https://github.com/jupyter/jupyter) - Jupyter metapackage for installation, docs and chat
 - [the3dadvantage/Modeling-Cloth-2_8](https://github.com/the3dadvantage/Modeling-Cloth-2_8) - New modeling Cloth tools
 - [machin3io/MACHIN3tools](https://github.com/machin3io/MACHIN3tools) - MACHIN3tools is a free, continuously evolving collection of blender tools and pie menus in a single customizable package.
+- [pytorch/pytorch](https://github.com/pytorch/pytorch) - Tensors and Dynamic neural networks in Python with strong GPU acceleration
 - [JacquesLucke/animation_nodes](https://github.com/JacquesLucke/animation_nodes) - Node based visual scripting system designed for motion graphics in Blender.
 - [overmindstudios/BlenderUpdater](https://github.com/overmindstudios/BlenderUpdater) - Small crossplatform Python 3 application to update Blender to the latest buildbot version
 - [armory3d/armory](https://github.com/armory3d/armory) - 3D Engine with Blender Integration
