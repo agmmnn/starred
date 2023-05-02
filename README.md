@@ -341,6 +341,7 @@
 ## Jupyter Notebook 
 
 - [serp-ai/bark-with-voice-clone](https://github.com/serp-ai/bark-with-voice-clone) - 🔊 Text-prompted Generative Audio Model - With the ability to clone voices
+- [suno-ai/bark](https://github.com/suno-ai/bark) - 🔊 Text-Prompted Generative Audio Model
 - [sanchit-gandhi/whisper-jax](https://github.com/sanchit-gandhi/whisper-jax) - 
 - [Stability-AI/StableLM](https://github.com/Stability-AI/StableLM) - StableLM: Stability AI Language Models
 - [facebookresearch/segment-anything](https://github.com/facebookresearch/segment-anything) - The repository provides code for running inference with the SegmentAnything Model (SAM), links for downloading the trained model checkpoints, and example notebooks that show how to use the model.
@@ -469,7 +470,6 @@
 
 - [deep-floyd/IF](https://github.com/deep-floyd/IF) - 
 - [xtekky/gpt4free](https://github.com/xtekky/gpt4free) - decentralising the Ai Industry, just some language model api's...
-- [suno-ai/bark](https://github.com/suno-ai/bark) - 🔊 Text-Prompted Generative Audio Model
 - [nomic-ai/gpt4all](https://github.com/nomic-ai/gpt4all) - gpt4all: an ecosystem of open-source chatbots trained on a massive collections of clean assistant data including code, stories and dialogue
 - [openai/chatgpt-retrieval-plugin](https://github.com/openai/chatgpt-retrieval-plugin) - The ChatGPT Retrieval Plugin lets you easily search and find personal or work documents by asking questions in everyday language.
 - [acheong08/Bard](https://github.com/acheong08/Bard) - Reverse engineering of Google's Bard API
@@ -489,7 +489,7 @@
 - [openai/point-e](https://github.com/openai/point-e) - Point cloud diffusion for 3D model synthesis
 - [nschloe/perfplot](https://github.com/nschloe/perfplot) - :chart_with_upwards_trend: Performance analysis for Python snippets
 - [skypilot-org/skypilot](https://github.com/skypilot-org/skypilot) - SkyPilot is a framework for easily running machine learning workloads on any cloud through a unified interface.
-- [marqo-ai/marqo](https://github.com/marqo-ai/marqo) - Tensor search for humans.
+- [marqo-ai/marqo](https://github.com/marqo-ai/marqo) - Vector search for humans.
 - [p0dalirius/Coercer](https://github.com/p0dalirius/Coercer) - A python script to automatically coerce a Windows server to authenticate on an arbitrary machine through 12 methods.
 - [darrenburns/rich-pixels](https://github.com/darrenburns/rich-pixels) - A Rich-compatible library for writing pixel images and ASCII art to the terminal.
 - [flairNLP/flair](https://github.com/flairNLP/flair) - A very simple framework for state-of-the-art Natural Language Processing (NLP)
