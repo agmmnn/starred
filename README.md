@@ -898,7 +898,7 @@
 ## Vue 
 
 - [fayazara/onelink](https://github.com/fayazara/onelink) - Onelink is an experimental link-in-bio tool, where the data lives in the URL.
-- [gwen001/offsectools_www](https://github.com/gwen001/offsectools_www) - A vast collection of security tools.
+- [gwen001/offsectools_www](https://github.com/gwen001/offsectools_www) - A vast collection of security tools and resources curated by the community.
 - [requarks/wiki](https://github.com/requarks/wiki) - Wiki.js | A modern and powerful wiki app built on Node.js
 
 
