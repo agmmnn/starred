@@ -501,6 +501,7 @@
 
 ## cybersecurity 
 
+- [gwen001/offsectools_www](https://github.com/gwen001/offsectools_www) - A vast collection of security tools and resources curated by the community.
 - [WerWolv/ImHex](https://github.com/WerWolv/ImHex) - 🔍 A Hex Editor for Reverse Engineers, Programmers and people who value their retinas when working at 3 AM.
 - [bee-san/pyWhat](https://github.com/bee-san/pyWhat) - 🐸   Identify anything. pyWhat easily lets you identify emails, IP addresses, and more. Feed it a .pcap file or some text and it'll tell you what it is! 🧙‍♀️
 
@@ -1408,7 +1409,6 @@
 - [ThioJoe/Auto-Synced-Translated-Dubs](https://github.com/ThioJoe/Auto-Synced-Translated-Dubs) - Automatically translates the text of a video based on a subtitle file, and also uses AI voice to dub the video, and synced using the subtitle's timings
 - [DevSecOpsDocs/nuclearpond](https://github.com/DevSecOpsDocs/nuclearpond) - Nuclear Pond is a utility leveraging Nuclei to perform internet wide scans for the cost of a cup of coffee.
 - [zakird/crux-top-lists](https://github.com/zakird/crux-top-lists) - Downloadable snapshots of the Chrome Top Million Websites pulled from public CrUX data in BigQuery.
-- [gwen001/offsectools_www](https://github.com/gwen001/offsectools_www) - A vast collection of security tools.
 - [openai/point-e](https://github.com/openai/point-e) - Point cloud diffusion for 3D model synthesis
 - [musana/mx-takeover](https://github.com/musana/mx-takeover) - mx-takeover focuses DNS MX records and detects misconfigured MX records.
 - [willymaps/snowfall](https://github.com/willymaps/snowfall) - Visualizing snowfall from Oct. – Dec. across the U.S. in 2022
