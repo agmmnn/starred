@@ -791,6 +791,7 @@
 
 ## Svelte 
 
+- [michael/editable-website](https://github.com/michael/editable-website) - A SvelteKit template for building CMS-free editable websites
 - [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source & self-hostable Heroku / Netlify alternative.
 
 ## Swift 
@@ -810,6 +811,7 @@
 
 ## TypeScript 
 
+- [userpixel/micromustache](https://github.com/userpixel/micromustache) - Ⓜ An extremely fast and small sub-implementation of the {{mustache}} template engine for JavaScript
 - [steven-tey/precedent](https://github.com/steven-tey/precedent) - An opinionated collection of components, hooks, and utilities for your Next.js project.
 - [yoavbls/pretty-ts-errors](https://github.com/yoavbls/pretty-ts-errors) - 🔵 Make TypeScript errors prettier and human-readable in VSCode 🎀
 - [unocss/unocss](https://github.com/unocss/unocss) - The instant on-demand atomic CSS engine.
