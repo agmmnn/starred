@@ -999,6 +999,8 @@
 
 ## javascript 
 
+- [userpixel/micromustache](https://github.com/userpixel/micromustache) - Ⓜ An extremely fast and small sub-implementation of the {{mustache}} template engine for JavaScript
+- [michael/editable-website](https://github.com/michael/editable-website) - A SvelteKit template for building CMS-free editable websites
 - [developit/snarkdown](https://github.com/developit/snarkdown) - :smirk_cat: A snarky 1kb Markdown parser written in JavaScript
 - [reactjs/react.dev](https://github.com/reactjs/react.dev) - The React documentation website
 - [google/zx](https://github.com/google/zx) - A tool for writing better scripts
@@ -2035,6 +2037,7 @@
 
 ## svelte 
 
+- [michael/editable-website](https://github.com/michael/editable-website) - A SvelteKit template for building CMS-free editable websites
 - [yoavbls/pretty-ts-errors](https://github.com/yoavbls/pretty-ts-errors) - 🔵 Make TypeScript errors prettier and human-readable in VSCode 🎀
 - [aykutkardas/svgps.app](https://github.com/aykutkardas/svgps.app) - SVGPS converts your icons into a single JSON file that is ready to use in your frontend or mobile projects.
 - [TGlide/svelte-radial-menu](https://github.com/TGlide/svelte-radial-menu) - Radial Menu Experiment. Based on Rauno's Work
