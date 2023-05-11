@@ -125,6 +125,7 @@
 
 ## C++ 
 
+- [nomic-ai/gpt4all](https://github.com/nomic-ai/gpt4all) - gpt4all: an ecosystem of open-source chatbots trained on a massive collections of clean assistant data including code, stories and dialogue
 - [DjDeveloperr/skia_canvas](https://github.com/DjDeveloperr/skia_canvas) - Fast HTML Canvas API implementation for Deno using Skia.
 - [alexkay/spek](https://github.com/alexkay/spek) - Acoustic spectrum analyser
 - [WerWolv/ImHex](https://github.com/WerWolv/ImHex) - 🔍 A Hex Editor for Reverse Engineers, Programmers and people who value their retinas when working at 3 AM.
@@ -475,7 +476,6 @@
 - [openai/shap-e](https://github.com/openai/shap-e) - Generate 3D objects conditioned on text or images
 - [deep-floyd/IF](https://github.com/deep-floyd/IF) - 
 - [xtekky/gpt4free](https://github.com/xtekky/gpt4free) - decentralising the Ai Industry, just some language model api's...
-- [nomic-ai/gpt4all](https://github.com/nomic-ai/gpt4all) - gpt4all: an ecosystem of open-source chatbots trained on a massive collections of clean assistant data including code, stories and dialogue
 - [openai/chatgpt-retrieval-plugin](https://github.com/openai/chatgpt-retrieval-plugin) - The ChatGPT Retrieval Plugin lets you easily search and find personal or work documents by asking questions in everyday language.
 - [acheong08/Bard](https://github.com/acheong08/Bard) - Reverse engineering of Google's Bard API
 - [hwchase17/langchain](https://github.com/hwchase17/langchain) - ⚡ Building applications with LLMs through composability ⚡
@@ -811,6 +811,7 @@
 
 ## TypeScript 
 
+- [ajthinking/data-story](https://github.com/ajthinking/data-story) - A visual process builder
 - [vadimdemedes/ink-ui](https://github.com/vadimdemedes/ink-ui) - 💄 Ink-redible command-line interfaces made easy
 - [vadimdemedes/ink](https://github.com/vadimdemedes/ink) - 🌈 React for interactive command-line apps
 - [userpixel/micromustache](https://github.com/userpixel/micromustache) - Ⓜ An extremely fast and small sub-implementation of the {{mustache}} template engine for JavaScript
