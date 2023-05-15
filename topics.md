@@ -1372,6 +1372,7 @@
 
 ## others 
 
+- [pingdotgg/uploadthing](https://github.com/pingdotgg/uploadthing) - File uploads for modern web devs
 - [handlebars-lang/handlebars.js](https://github.com/handlebars-lang/handlebars.js) - Minimal templating on steroids.
 - [modularml/mojo](https://github.com/modularml/mojo) - The Mojo Programming Language
 - [openai/shap-e](https://github.com/openai/shap-e) - Generate 3D objects conditioned on text or images
