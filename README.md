@@ -223,7 +223,7 @@
 - [projectdiscovery/nuclei](https://github.com/projectdiscovery/nuclei) - Fast and customizable vulnerability scanner based on simple YAML based DSL.
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗
 - [charmbracelet/vhs](https://github.com/charmbracelet/vhs) - Your CLI home video recorder 📼
-- [owasp-amass/amass](https://github.com/owasp-amass/amass) - In-depth Attack Surface Mapping and Asset Discovery
+- [owasp-amass/amass](https://github.com/owasp-amass/amass) - In-depth attack surface mapping and asset discovery
 - [maaslalani/slides](https://github.com/maaslalani/slides) - Terminal based presentation tool
 - [knqyf263/pet](https://github.com/knqyf263/pet) - Simple command-line snippet manager, written in Go.
 - [rhysd/changelog-from-release](https://github.com/rhysd/changelog-from-release) - Simple changelog generator via GitHub releases
@@ -343,6 +343,7 @@
 
 ## Jupyter Notebook 
 
+- [microsoft/guidance](https://github.com/microsoft/guidance) - A guidance language for controlling large language models.
 - [serp-ai/bark-with-voice-clone](https://github.com/serp-ai/bark-with-voice-clone) - 🔊 Text-prompted Generative Audio Model - With the ability to clone voices
 - [suno-ai/bark](https://github.com/suno-ai/bark) - 🔊 Text-Prompted Generative Audio Model
 - [sanchit-gandhi/whisper-jax](https://github.com/sanchit-gandhi/whisper-jax) - JAX implementation of OpenAI's Whisper model for up to 70x speed-up on TPU.
@@ -678,7 +679,7 @@
 
 ## Rust 
 
-- [mitsuhiko/rye](https://github.com/mitsuhiko/rye) - an experimental alternative to poetry/pip/pipenv/pyenv/venv/virtualenv/pdm/hatch/…
+- [mitsuhiko/rye](https://github.com/mitsuhiko/rye) - An Experimental Package Management Solution for Python
 - [rustformers/llm](https://github.com/rustformers/llm) - Run inference for Large Language Models on CPU, with Rust 🦀🚀🦙
 - [emersonford/tracing-indicatif](https://github.com/emersonford/tracing-indicatif) - Tracing layer that automatically creates and manages progress bars for active spans.
 - [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - Virtual / remote desktop infrastructure for everyone! Open source TeamViewer / Citrix alternative.
