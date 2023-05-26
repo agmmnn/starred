@@ -346,7 +346,6 @@
 
 - [dair-ai/Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) - 🐙 Guides, papers, lecture, notebooks and resources for prompt engineering
 - [microsoft/guidance](https://github.com/microsoft/guidance) - A guidance language for controlling large language models.
-- [serp-ai/bark-with-voice-clone](https://github.com/serp-ai/bark-with-voice-clone) - 🔊 Text-prompted Generative Audio Model - With the ability to clone voices
 - [suno-ai/bark](https://github.com/suno-ai/bark) - 🔊 Text-Prompted Generative Audio Model
 - [sanchit-gandhi/whisper-jax](https://github.com/sanchit-gandhi/whisper-jax) - JAX implementation of OpenAI's Whisper model for up to 70x speed-up on TPU.
 - [Stability-AI/StableLM](https://github.com/Stability-AI/StableLM) - StableLM: Stability AI Language Models
@@ -475,9 +474,11 @@
 
 ## Python 
 
+- [freedmand/semantra](https://github.com/freedmand/semantra) - Multi-tool for semantic search
 - [openai/shap-e](https://github.com/openai/shap-e) - Generate 3D objects conditioned on text or images
 - [deep-floyd/IF](https://github.com/deep-floyd/IF) - 
 - [xtekky/gpt4free](https://github.com/xtekky/gpt4free) - decentralising the Ai Industry, just some language model api's...
+- [serp-ai/bark-with-voice-clone](https://github.com/serp-ai/bark-with-voice-clone) - 🔊 Text-prompted Generative Audio Model - With the ability to clone voices
 - [openai/chatgpt-retrieval-plugin](https://github.com/openai/chatgpt-retrieval-plugin) - The ChatGPT Retrieval Plugin lets you easily find personal or work documents by asking questions in natural language.
 - [acheong08/Bard](https://github.com/acheong08/Bard) - Python SDK/API for reverse engineered Google Bard
 - [hwchase17/langchain](https://github.com/hwchase17/langchain) - ⚡ Building applications with LLMs through composability ⚡
@@ -814,6 +815,7 @@
 
 ## TypeScript 
 
+- [motifland/markprompt](https://github.com/motifland/markprompt) - Enterprise-grade AI chatbots for your website and docs
 - [vadimdemedes/pastel](https://github.com/vadimdemedes/pastel) - 🎨 Next.js-like framework for CLIs made with Ink
 - [Blazity/next-enterprise](https://github.com/Blazity/next-enterprise) - 💼 An enterprise-grade Next.js boilerplate for high-performance, maintainable apps. Packed with features like Tailwind CSS, TypeScript, ESLint, Prettier, testing tools, and more to accelerate your deve
 - [pingdotgg/uploadthing](https://github.com/pingdotgg/uploadthing) - File uploads for modern web devs
