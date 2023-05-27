@@ -237,7 +237,7 @@
 - [meetDeveloper/freeDictionaryAPI](https://github.com/meetDeveloper/freeDictionaryAPI) - There was no free Dictionary API on the web when I wanted one for my friend, so I created one.
 - [swapagarwal/mediumship](https://github.com/swapagarwal/mediumship) - :books: Read all Medium stories for free!
 - [ocornut/imgui](https://github.com/ocornut/imgui) - Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies
-- [ccxt/ccxt](https://github.com/ccxt/ccxt) - A JavaScript / Python / PHP cryptocurrency trading API with support for more than 100 bitcoin/altcoin exchanges
+- [ccxt/ccxt](https://github.com/ccxt/ccxt) - A JavaScript / TypeScript / Python / C# / PHP cryptocurrency trading API with support for more than 100 bitcoin/altcoin exchanges
 
 ## artificial-intelligence 
 
@@ -328,7 +328,7 @@
 - [Akagi201/cryptotrader](https://github.com/Akagi201/cryptotrader) - A cryptocurrency trader for all famous exchanges
 - [askmike/gekko](https://github.com/askmike/gekko) - A bitcoin trading bot written in node - https://gekko.wizb.it/
 - [butor/blackbird](https://github.com/butor/blackbird) - Blackbird Bitcoin Arbitrage: a long/short market-neutral strategy
-- [ccxt/ccxt](https://github.com/ccxt/ccxt) - A JavaScript / Python / PHP cryptocurrency trading API with support for more than 100 bitcoin/altcoin exchanges
+- [ccxt/ccxt](https://github.com/ccxt/ccxt) - A JavaScript / TypeScript / Python / C# / PHP cryptocurrency trading API with support for more than 100 bitcoin/altcoin exchanges
 - [bitrinjani/r2](https://github.com/bitrinjani/r2) - R2 Bitcoin Arbitrager is an automatic arbitrage trading system powered by Node.js + TypeScript.
 
 ## bootstrap 
@@ -337,7 +337,7 @@
 
 ## bot 
 
-- [ccxt/ccxt](https://github.com/ccxt/ccxt) - A JavaScript / Python / PHP cryptocurrency trading API with support for more than 100 bitcoin/altcoin exchanges
+- [ccxt/ccxt](https://github.com/ccxt/ccxt) - A JavaScript / TypeScript / Python / C# / PHP cryptocurrency trading API with support for more than 100 bitcoin/altcoin exchanges
 
 ## c 
 
@@ -481,7 +481,7 @@
 - [michaelgrosner/tribeca](https://github.com/michaelgrosner/tribeca) - A high frequency, market making cryptocurrency trading platform in node.js
 - [manu354/cryptocurrency-arbitrage](https://github.com/manu354/cryptocurrency-arbitrage) - A cryptocurrency arbitrage opportunity calculator. Over 800 currencies and 50 markets.
 - [Akagi201/cryptotrader](https://github.com/Akagi201/cryptotrader) - A cryptocurrency trader for all famous exchanges
-- [ccxt/ccxt](https://github.com/ccxt/ccxt) - A JavaScript / Python / PHP cryptocurrency trading API with support for more than 100 bitcoin/altcoin exchanges
+- [ccxt/ccxt](https://github.com/ccxt/ccxt) - A JavaScript / TypeScript / Python / C# / PHP cryptocurrency trading API with support for more than 100 bitcoin/altcoin exchanges
 
 ## csharp 
 
@@ -724,7 +724,7 @@
 
 - [manu354/cryptocurrency-arbitrage](https://github.com/manu354/cryptocurrency-arbitrage) - A cryptocurrency arbitrage opportunity calculator. Over 800 currencies and 50 markets.
 - [Akagi201/cryptotrader](https://github.com/Akagi201/cryptotrader) - A cryptocurrency trader for all famous exchanges
-- [ccxt/ccxt](https://github.com/ccxt/ccxt) - A JavaScript / Python / PHP cryptocurrency trading API with support for more than 100 bitcoin/altcoin exchanges
+- [ccxt/ccxt](https://github.com/ccxt/ccxt) - A JavaScript / TypeScript / Python / C# / PHP cryptocurrency trading API with support for more than 100 bitcoin/altcoin exchanges
 
 ## express 
 
@@ -1122,7 +1122,7 @@
 
 - [ml-tooling/best-of-web-python](https://github.com/ml-tooling/best-of-web-python) - 🏆  A ranked list of awesome python libraries for web development. Updated weekly.
 - [ocornut/imgui](https://github.com/ocornut/imgui) - Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies
-- [ccxt/ccxt](https://github.com/ccxt/ccxt) - A JavaScript / Python / PHP cryptocurrency trading API with support for more than 100 bitcoin/altcoin exchanges
+- [ccxt/ccxt](https://github.com/ccxt/ccxt) - A JavaScript / TypeScript / Python / C# / PHP cryptocurrency trading API with support for more than 100 bitcoin/altcoin exchanges
 
 ## linux 
 
