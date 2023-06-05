@@ -430,7 +430,7 @@
 - [joaocarvalhoopen/How_to_learn_modern_Rust](https://github.com/joaocarvalhoopen/How_to_learn_modern_Rust) - A guide to the adventurer.
 - [reanalytics-databoutique/webscraping-open-project](https://github.com/reanalytics-databoutique/webscraping-open-project) - The web scraping open project repository aims to share knowledge and experiences about web scraping with Python
 - [agmmnn/turkish-nlp-resources](https://github.com/agmmnn/turkish-nlp-resources) - 🔡 List of Tools, Libraries, Models, Datasets and other resources for Turkish NLP. https://turkce.ml
-- [kaymal/acik-veri](https://github.com/kaymal/acik-veri) - Türkiye'nin açık veri kaynakları
+- [kaymal/acik-veri](https://github.com/kaymal/acik-veri) - Türkiye'nin açık veri kaynakları | Curated list of open data platforms of Turkiye
 - [openai/dalle-2-preview](https://github.com/openai/dalle-2-preview) - 
 - [payloadbox/sql-injection-payload-list](https://github.com/payloadbox/sql-injection-payload-list) - 🎯 SQL Injection Payload List
 - [trekhleb/promote-your-next-startup](https://github.com/trekhleb/promote-your-next-startup) - 🚀 Free resources you may use to promote your next startup
