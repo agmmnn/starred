@@ -1367,7 +1367,7 @@
 
 ## open-data 
 
-- [kaymal/acik-veri](https://github.com/kaymal/acik-veri) - Türkiye'nin açık veri kaynakları
+- [kaymal/acik-veri](https://github.com/kaymal/acik-veri) - Türkiye'nin açık veri kaynakları | Curated list of open data platforms of Turkiye
 
 ## open-source 
 
