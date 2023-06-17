@@ -818,7 +818,9 @@
 
 ## TypeScript 
 
-- [vercel-labs/ai](https://github.com/vercel-labs/ai) - Build AI-powered applications with React and Svelte
+- [vercel/satori](https://github.com/vercel/satori) - Enlightened library to convert HTML and CSS to SVG
+- [phosphor-icons/homepage](https://github.com/phosphor-icons/homepage) - The homepage of Phosphor Icons, a flexible icon family for everyone
+- [vercel-labs/ai](https://github.com/vercel-labs/ai) - Build AI-powered applications with React, Svelte, and Vue
 - [fisand/uno-shadcn-ui](https://github.com/fisand/uno-shadcn-ui) - 
 - [withastro/starlight](https://github.com/withastro/starlight) - 🌟 Build beautiful, high-performance documentation websites with Astro
 - [motifland/markprompt](https://github.com/motifland/markprompt) - Enterprise-grade AI chatbots for your website and docs
