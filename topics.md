@@ -805,6 +805,7 @@
 
 - [o2sh/onefetch](https://github.com/o2sh/onefetch) - Command-line Git information tool
 - [logseq/logseq](https://github.com/logseq/logseq) - A privacy-first, open-source platform for knowledge management and collaboration. Download link:  http://github.com/logseq/logseq/releases. roadmap: http://trello.com/b/8txSM12G/roadmap
+- [files-community/Files](https://github.com/files-community/Files) - Building the best file manager experience for Windows
 - [orhun/git-cliff](https://github.com/orhun/git-cliff) - A highly customizable Changelog Generator that follows Conventional Commit specifications ⛰️
 - [pyscaffold/pyscaffold](https://github.com/pyscaffold/pyscaffold) - 🛠 Python project template generator with batteries included
 - [requarks/wiki](https://github.com/requarks/wiki) - Wiki.js | A modern and powerful wiki app built on Node.js
@@ -895,6 +896,7 @@
 
 ## hacktoberfest 
 
+- [gautamkrishnar/blog-post-workflow](https://github.com/gautamkrishnar/blog-post-workflow) - Show your latest blog posts from any sources or StackOverflow activity or Youtube Videos on your GitHub profile/project readme automatically using the RSS feed
 - [saleor/saleor](https://github.com/saleor/saleor) - Saleor Core: the high performance, composable, headless commerce API.
 - [DjDeveloperr/skia_canvas](https://github.com/DjDeveloperr/skia_canvas) - Fast HTML Canvas API implementation for Deno using Skia.
 - [mermaid-js/mermaid](https://github.com/mermaid-js/mermaid) - Generation of diagrams like flowcharts or sequence diagrams from text in a similar manner as markdown
@@ -1619,7 +1621,7 @@
 - [hjwdzh/QuadriFlow](https://github.com/hjwdzh/QuadriFlow) - QuadriFlow: A Scalable and Robust Method for Quadrangulation
 - [balena-io/etcher](https://github.com/balena-io/etcher) - Flash OS images to SD cards & USB drives, safely and easily.
 - [yali4/tureng](https://github.com/yali4/tureng) - Gezinti esnasında anlamını bilmediğiniz terimleri öğrenmenizi sağlayan Google Chrome eklentisidir.
-- [PixarAnimationStudios/USD](https://github.com/PixarAnimationStudios/USD) - Universal Scene Description
+- [PixarAnimationStudios/OpenUSD](https://github.com/PixarAnimationStudios/OpenUSD) - Universal Scene Description
 - [marcopavanello/real-snow](https://github.com/marcopavanello/real-snow) - Real Snow add-on for Blender
 - [Yichen-Dou/MSLiveLink-OC-Blender](https://github.com/Yichen-Dou/MSLiveLink-OC-Blender) - Quixel Megascans Plugin for Octane Blender Edition
 - [rlguy/Blender-FLIP-Fluids](https://github.com/rlguy/Blender-FLIP-Fluids) - The FLIP Fluids addon is a tool that helps you set up, run, and render high quality liquid fluid effects all within Blender, the free and open source 3D creation suite.
@@ -2326,6 +2328,7 @@
 
 ## wordpress 
 
+- [gautamkrishnar/blog-post-workflow](https://github.com/gautamkrishnar/blog-post-workflow) - Show your latest blog posts from any sources or StackOverflow activity or Youtube Videos on your GitHub profile/project readme automatically using the RSS feed
 - [wpscanteam/wpscan](https://github.com/wpscanteam/wpscan) - WPScan WordPress security scanner. Written for security professionals and blog maintainers to test the security of their WordPress websites. Contact us via contact@wpscan.com
 
 ## xcode 
