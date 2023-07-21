@@ -173,7 +173,7 @@
 
 ## CMake 
 
-- [ultralight-ux/Ultralight](https://github.com/ultralight-ux/Ultralight) - Next-generation HTML renderer for apps and games
+- [ultralight-ux/Ultralight](https://github.com/ultralight-ux/Ultralight) - Ultra-portable web-browser engine for game and app developers.
 
 ## CSS 
 
@@ -202,6 +202,7 @@
 
 ## Go 
 
+- [BishopFox/jsluice](https://github.com/BishopFox/jsluice) - Extract URLs, paths, secrets, and other interesting bits from JavaScript
 - [charmbracelet/gum](https://github.com/charmbracelet/gum) - A tool for glamorous shell scripts 🎀
 - [fatedier/frp](https://github.com/fatedier/frp) - A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.
 - [nektos/act](https://github.com/nektos/act) - Run your GitHub Actions locally 🚀
@@ -272,6 +273,10 @@
 
 ## JavaScript 
 
+- [pot-app/pot-desktop](https://github.com/pot-app/pot-desktop) - 🌈一个跨平台的划词翻译软件 | A cross-platform software for text translation.
+- [vercel/next.js](https://github.com/vercel/next.js) - The React Framework
+- [facebook/react](https://github.com/facebook/react) - The library for web and native user interfaces
+- [lucide-icons/lucide](https://github.com/lucide-icons/lucide) - Beautiful & consistent icon toolkit made by the community. Open-source project and a fork of Feather Icons.
 - [shuding/cobe](https://github.com/shuding/cobe) - 5kB WebGL globe lib.
 - [gautamkrishnar/blog-post-workflow](https://github.com/gautamkrishnar/blog-post-workflow) - Show your latest blog posts from any sources or StackOverflow activity or Youtube Videos on your GitHub profile/project readme automatically using the RSS feed
 - [handlebars-lang/handlebars.js](https://github.com/handlebars-lang/handlebars.js) - Minimal templating on steroids.
@@ -828,6 +833,7 @@
 
 ## TypeScript 
 
+- [AntonioErdeljac/next13-ai-saas](https://github.com/AntonioErdeljac/next13-ai-saas) - 
 - [directus/directus](https://github.com/directus/directus) - The Modern Data Stack 🐰 — Directus is an instant REST+GraphQL API and intuitive no-code data collaboration app for any SQL database.
 - [avitorio/outstatic](https://github.com/avitorio/outstatic) - Outstatic - A static CMS for Next.js
 - [junhoyeo/threads-api](https://github.com/junhoyeo/threads-api) - Unofficial, Reverse-Engineered Node.js/TypeScript client for Meta's Threads. Supports Read and Write. Web UI Included.
