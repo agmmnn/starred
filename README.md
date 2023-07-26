@@ -275,6 +275,8 @@
 
 ## JavaScript 
 
+- [fastify/fastify](https://github.com/fastify/fastify) - Fast and low overhead web framework, for Node.js
+- [js-org/js.org](https://github.com/js-org/js.org) - Dedicated to JavaScript and its awesome community since 2015
 - [pot-app/pot-desktop](https://github.com/pot-app/pot-desktop) - 🌈一个跨平台的划词翻译软件 | A cross-platform software for text translation.
 - [vercel/next.js](https://github.com/vercel/next.js) - The React Framework
 - [facebook/react](https://github.com/facebook/react) - The library for web and native user interfaces
@@ -816,6 +818,7 @@
 
 ## Svelte 
 
+- [animotionjs/animotion](https://github.com/animotionjs/animotion) - 🪄 Create beautiful presentations with Svelte
 - [huntabyte/shadcn-svelte](https://github.com/huntabyte/shadcn-svelte) - shadcn/ui, but for Svelte.
 - [michael/editable-website](https://github.com/michael/editable-website) - A SvelteKit template for building CMS-free editable websites
 
@@ -836,6 +839,12 @@
 
 ## TypeScript 
 
+- [amplication/amplication](https://github.com/amplication/amplication) - 🔥🔥🔥 Open-source backend development platform. Build production-ready services without wasting time on repetitive coding.
+- [lerna/lerna](https://github.com/lerna/lerna) - :dragon: Lerna is a fast, modern build system for managing and publishing multiple JavaScript/TypeScript packages from the same repository.
+- [clercjs/clerc](https://github.com/clercjs/clerc) - 🖖🏻 Clerc: The full-featured cli library.
+- [melt-ui/melt-ui](https://github.com/melt-ui/melt-ui) - A set of headless, accessible component builders for Svelte.
+- [fabian-hiller/valibot](https://github.com/fabian-hiller/valibot) - The modular and type safe schema library for validating structural data 🤖
+- [emilkowalski/vaul](https://github.com/emilkowalski/vaul) - An unstyled drawer component for React.
 - [agmmnn/tauri-controls](https://github.com/agmmnn/tauri-controls) - 🚥 Native-looking window controls for Tauri 2. (React+Tailwind)
 - [AntonioErdeljac/next13-ai-saas](https://github.com/AntonioErdeljac/next13-ai-saas) - 
 - [directus/directus](https://github.com/directus/directus) - The Modern Data Stack 🐰 — Directus is an instant REST+GraphQL API and intuitive no-code data collaboration app for any SQL database.
