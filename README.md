@@ -823,7 +823,7 @@
 
 ## Svelte 
 
-- [huntabyte/primitives](https://github.com/huntabyte/primitives) - Headless Svelte components built on top of Melt UI. 🚀
+- [huntabyte/bits](https://github.com/huntabyte/bits) - Headless Svelte components built on top of Melt UI. 🚀
 - [paoloricciuti/svelte-action-balancer](https://github.com/paoloricciuti/svelte-action-balancer) - A svelte action to balance the text inside the an html node. Heavily inspired by react-wrap-balancer
 - [animotionjs/animotion](https://github.com/animotionjs/animotion) - 🪄 Create beautiful presentations with Svelte
 - [huntabyte/shadcn-svelte](https://github.com/huntabyte/shadcn-svelte) - shadcn/ui, but for Svelte.
