@@ -547,7 +547,7 @@
 - [bee-san/pyWhat](https://github.com/bee-san/pyWhat) - 🐸   Identify anything. pyWhat easily lets you identify emails, IP addresses, and more. Feed it a .pcap file or some text and it'll tell you what it is! 🧙‍♀️
 - [pyscript/pyscript](https://github.com/pyscript/pyscript) - Home Page: https://pyscript.net  Examples: https://pyscript.net/examples
 - [RaRe-Technologies/gensim](https://github.com/RaRe-Technologies/gensim) - Topic Modelling for Humans
-- [gradio-app/gradio](https://github.com/gradio-app/gradio) - Build and share delightful machine learning apps, in Python 🌟 Star to support our work!
+- [gradio-app/gradio](https://github.com/gradio-app/gradio) - Build and share delightful machine learning apps, all in Python. 🌟 Star to support our work!
 - [alexa/massive](https://github.com/alexa/massive) - Tools and Modeling Code for the MASSIVE dataset
 - [openvinotoolkit/open_model_zoo](https://github.com/openvinotoolkit/open_model_zoo) - Pre-trained Deep Learning models and demos (high quality and extremely fast)
 - [hpcaitech/ColossalAI](https://github.com/hpcaitech/ColossalAI) - Making large AI models cheaper, faster and more accessible
