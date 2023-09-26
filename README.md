@@ -277,6 +277,7 @@
 
 ## JavaScript 
 
+- [yannbertrand/macos-defaults](https://github.com/yannbertrand/macos-defaults) - Incomplete list of macOS `defaults` commands with demos ✨
 - [wooorm/starry-night](https://github.com/wooorm/starry-night) - Syntax highlighting, like GitHub
 - [fastify/fastify](https://github.com/fastify/fastify) - Fast and low overhead web framework, for Node.js
 - [js-org/js.org](https://github.com/js-org/js.org) - Dedicated to JavaScript and its awesome community since 2015
@@ -879,7 +880,6 @@
 - [vercel/satori](https://github.com/vercel/satori) - Enlightened library to convert HTML and CSS to SVG
 - [phosphor-icons/homepage](https://github.com/phosphor-icons/homepage) - The homepage of Phosphor Icons, a flexible icon family for everyone
 - [vercel/ai](https://github.com/vercel/ai) - Build AI-powered applications with React, Svelte, Vue, and Solid
-- [fisand/unocss-preset-shadcn](https://github.com/fisand/unocss-preset-shadcn) - 
 - [withastro/starlight](https://github.com/withastro/starlight) - 🌟 Build beautiful, accessible, high-performance documentation websites with Astro
 - [motifland/markprompt](https://github.com/motifland/markprompt) - Enterprise-grade AI chatbots for your website and docs
 - [vadimdemedes/pastel](https://github.com/vadimdemedes/pastel) - 🎨 Next.js-like framework for CLIs made with Ink
@@ -924,7 +924,7 @@
 - [vercel/cert-demo](https://github.com/vercel/cert-demo) - 
 - [egoist/dropcode](https://github.com/egoist/dropcode) - A simple and lightweight code snippet manager.
 - [apify/crawlee](https://github.com/apify/crawlee) - Crawlee—A web scraping and browser automation library for Node.js that helps you build reliable crawlers. Fast.
-- [oramasearch/orama](https://github.com/oramasearch/orama) - 🌌  Fast, in-memory, typo-tolerant, full-text and vector search engine written in TypeScript.
+- [oramasearch/orama](https://github.com/oramasearch/orama) - 🌌  Fast, in-memory, typo-tolerant, full-text and vector search engine in &lt;2kb.
 - [colinhacks/zod](https://github.com/colinhacks/zod) - TypeScript-first schema validation with static type inference
 - [f5/unovis](https://github.com/f5/unovis) - Modular data visualization framework for React, Angular, Svelte, and vanilla TypeScript or JavaScript
 - [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth) - Authentication for the Web.
@@ -984,6 +984,7 @@
 ## Vue 
 
 - [radix-vue/radix-vue](https://github.com/radix-vue/radix-vue) - Vue port of Radix UI Primitives. An open-source UI component library for building high-quality, accessible design systems and web apps.
+- [fisand/unocss-preset-shadcn](https://github.com/fisand/unocss-preset-shadcn) - 
 - [fayazara/onelink](https://github.com/fayazara/onelink) - Onelink is an experimental link-in-bio tool, where the data lives in the URL.
 - [gwen001/offsectools_www](https://github.com/gwen001/offsectools_www) - A vast collection of security tools and resources curated by the community.
 - [requarks/wiki](https://github.com/requarks/wiki) - Wiki.js | A modern and powerful wiki app built on Node.js
