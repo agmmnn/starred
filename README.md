@@ -948,7 +948,7 @@
 - [pmndrs/react-spring](https://github.com/pmndrs/react-spring) - ✌️ A spring physics based React animation library
 - [pmndrs/zustand](https://github.com/pmndrs/zustand) - 🐻 Bear necessities for state management in React
 - [airbnb/visx](https://github.com/airbnb/visx) - 🐯 visx | visualization components
-- [vitest-dev/vitest](https://github.com/vitest-dev/vitest) - A Vite-native test framework. It's fast!
+- [vitest-dev/vitest](https://github.com/vitest-dev/vitest) - Next generation testing framework powered by Vite.
 - [vercel/mongodb-starter](https://github.com/vercel/mongodb-starter) - A developer directory built on Next.js and MongoDB Atlas, deployed on Vercel with the Vercel + MongoDB integration.
 - [mantinedev/mantine](https://github.com/mantinedev/mantine) - A fully featured React components library
 - [thebuilder/react-intersection-observer](https://github.com/thebuilder/react-intersection-observer) - React implementation of the Intersection Observer API to tell you when an element enters or leaves the viewport.
