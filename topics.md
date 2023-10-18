@@ -1514,6 +1514,7 @@
 
 ## others 
 
+- [cloudflare/cloudflared](https://github.com/cloudflare/cloudflared) - Cloudflare Tunnel client (formerly Argo Tunnel)
 - [spdustin/ChatGPT-AutoExpert](https://github.com/spdustin/ChatGPT-AutoExpert) - 🚀🧠💬 Supercharged Custom Instructions for ChatGPT (non-coding) and ChatGPT Advanced Data Analysis (coding).
 - [forgetso/search-replace](https://github.com/forgetso/search-replace) - Search and Replace Extension for Chromium based browsers
 - [ethanniser/the-beth-stack](https://github.com/ethanniser/the-beth-stack) - An opinionated hypermedia-driven architecture for building web apps
