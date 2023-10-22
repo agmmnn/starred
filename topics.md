@@ -1352,6 +1352,7 @@
 
 ## mongodb 
 
+- [pdovhomilja/nextcrm-app](https://github.com/pdovhomilja/nextcrm-app) - NextCRM is a CRM build on top of the Next.JS 13.4 using TypeScript,  great UI library shadcn, Prisma and MongoDB as a database.  Uploadthings as a S3 blob for document storage.
 - [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source & self-hostable Heroku / Netlify alternative. Cloud version available here -&gt; https://app.coolify.io
 
 ## monitoring 
@@ -1517,6 +1518,7 @@
 
 ## others 
 
+- [HeyGen-Official/RealtimeAvatarDemo](https://github.com/HeyGen-Official/RealtimeAvatarDemo) - 
 - [tamagui/starter-free](https://github.com/tamagui/starter-free) - Tamagui React Native Starter Repo - Next, Expo, Solito
 - [cloudflare/cloudflared](https://github.com/cloudflare/cloudflared) - Cloudflare Tunnel client (formerly Argo Tunnel)
 - [spdustin/ChatGPT-AutoExpert](https://github.com/spdustin/ChatGPT-AutoExpert) - 🚀🧠💬 Supercharged Custom Instructions for ChatGPT (non-coding) and ChatGPT Advanced Data Analysis (coding).
@@ -2362,6 +2364,7 @@
 
 ## typescript 
 
+- [pdovhomilja/nextcrm-app](https://github.com/pdovhomilja/nextcrm-app) - NextCRM is a CRM build on top of the Next.JS 13.4 using TypeScript,  great UI library shadcn, Prisma and MongoDB as a database.  Uploadthings as a S3 blob for document storage.
 - [Ironclad/rivet](https://github.com/Ironclad/rivet) - The open-source visual AI programming environment and TypeScript library
 - [oven-sh/bun](https://github.com/oven-sh/bun) - Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
 - [dosco/llm-client](https://github.com/dosco/llm-client) - LLMClient - A Caching and Debugging Proxy Server for LLM Users and A Multi-LLM Client Library
