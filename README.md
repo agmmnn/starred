@@ -820,6 +820,7 @@
 
 ## Shell 
 
+- [cleanbrowsing/dnsperftest](https://github.com/cleanbrowsing/dnsperftest) - DNS Performance test
 - [mkorthof/freenom-script](https://github.com/mkorthof/freenom-script) - Freenom.com Domain Renewal and Dynamic DNS script
 - [ax/apk.sh](https://github.com/ax/apk.sh) - apk.sh makes reverse engineering Android apps easier, automating some repetitive tasks like pulling, decoding, rebuilding and patching an APK.
 - [agarrharr/awesome-cli-apps](https://github.com/agarrharr/awesome-cli-apps) - 🖥 📊 🕹 🛠 A curated list of command line apps
