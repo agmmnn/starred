@@ -1532,6 +1532,7 @@
 
 ## others 
 
+- [cleanbrowsing/dnsperftest](https://github.com/cleanbrowsing/dnsperftest) - DNS Performance test
 - [HeyGen-Official/RealtimeAvatarDemoV2](https://github.com/HeyGen-Official/RealtimeAvatarDemoV2) - 
 - [getcursor/cursor](https://github.com/getcursor/cursor) - An AI-powered code editor based on VSCode 🤖
 - [HeyGen-Official/RealtimeAvatarDemo](https://github.com/HeyGen-Official/RealtimeAvatarDemo) - 
