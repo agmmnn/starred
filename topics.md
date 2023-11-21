@@ -1533,7 +1533,7 @@
 
 ## others 
 
-- [tldraw/draw-a-ui](https://github.com/tldraw/draw-a-ui) - Draw a mockup and generate html for it
+- [tldraw/make-real](https://github.com/tldraw/make-real) - Draw a ui and make it real
 - [cleanbrowsing/dnsperftest](https://github.com/cleanbrowsing/dnsperftest) - DNS Performance test
 - [HeyGen-Official/RealtimeAvatarDemoV2](https://github.com/HeyGen-Official/RealtimeAvatarDemoV2) - 
 - [getcursor/cursor](https://github.com/getcursor/cursor) - An AI-powered code editor based on VSCode 🤖
