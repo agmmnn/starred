@@ -946,7 +946,7 @@
 - [saleor/saleor](https://github.com/saleor/saleor) - Saleor Core: the high performance, composable, headless commerce API.
 - [ritz078/transform](https://github.com/ritz078/transform) - A polyglot web converter.
 - [glideapps/quicktype](https://github.com/glideapps/quicktype) - Generate types and converters from JSON, Schema, and GraphQL
-- [refinedev/refine](https://github.com/refinedev/refine) - A React Framework for building  internal tools, admin panels, dashboards & B2B apps with unmatched flexibilty.
+- [refinedev/refine](https://github.com/refinedev/refine) - A React Framework for building  internal tools, admin panels, dashboards & B2B apps with unmatched flexibility.
 - [ml-tooling/best-of-web-python](https://github.com/ml-tooling/best-of-web-python) - 🏆  A ranked list of awesome python libraries for web development. Updated weekly.
 
 ## hacking 
@@ -986,7 +986,7 @@
 - [WerWolv/ImHex](https://github.com/WerWolv/ImHex) - 🔍 A Hex Editor for Reverse Engineers, Programmers and people who value their retinas when working at 3 AM.
 - [triggerdotdev/jsonhero-web](https://github.com/triggerdotdev/jsonhero-web) - JSON Hero is an open-source, beautiful JSON explorer for the web that lets you browse, search and navigate your JSON files at speed. 🚀. Built with 💜 by the Trigger.dev team.
 - [t3-oss/create-t3-app](https://github.com/t3-oss/create-t3-app) - The best way to start a full-stack, typesafe Next.js app
-- [refinedev/refine](https://github.com/refinedev/refine) - A React Framework for building  internal tools, admin panels, dashboards & B2B apps with unmatched flexibilty.
+- [refinedev/refine](https://github.com/refinedev/refine) - A React Framework for building  internal tools, admin panels, dashboards & B2B apps with unmatched flexibility.
 - [projectdiscovery/nuclei](https://github.com/projectdiscovery/nuclei) - Fast and customizable vulnerability scanner based on simple YAML based DSL.
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗
 - [huggingface/diffusers](https://github.com/huggingface/diffusers) - 🤗 Diffusers: State-of-the-art diffusion models for image and audio generation in PyTorch
@@ -1139,7 +1139,7 @@
 - [apify/crawlee](https://github.com/apify/crawlee) - Crawlee—A web scraping and browser automation library for Node.js that helps you build reliable crawlers. Fast.
 - [oramasearch/orama](https://github.com/oramasearch/orama) - 🌌  Fast, in-memory, typo-tolerant, full-text and vector search engine in &lt;2kb.
 - [TanStack/table](https://github.com/TanStack/table) - 🤖 Headless UI for building powerful tables & datagrids for TS/JS -  React-Table, Vue-Table, Solid-Table, Svelte-Table
-- [refinedev/refine](https://github.com/refinedev/refine) - A React Framework for building  internal tools, admin panels, dashboards & B2B apps with unmatched flexibilty.
+- [refinedev/refine](https://github.com/refinedev/refine) - A React Framework for building  internal tools, admin panels, dashboards & B2B apps with unmatched flexibility.
 - [eramdam/BetterTweetDeck](https://github.com/eramdam/BetterTweetDeck) - A browser extension to improve TweetDeck with a lot of features
 - [pyscript/pyscript](https://github.com/pyscript/pyscript) - Home Page: https://pyscript.net  Examples: https://pyscript.net/examples
 - [swc-project/swc](https://github.com/swc-project/swc) - Rust-based platform for the Web
@@ -1427,7 +1427,7 @@
 - [shuding/nextra](https://github.com/shuding/nextra) - Simple, powerful and flexible site generation framework with everything you love from Next.js.
 - [vercel/app-playground](https://github.com/vercel/app-playground) - https://app-dir.vercel.app/
 - [t3-oss/create-t3-app](https://github.com/t3-oss/create-t3-app) - The best way to start a full-stack, typesafe Next.js app
-- [refinedev/refine](https://github.com/refinedev/refine) - A React Framework for building  internal tools, admin panels, dashboards & B2B apps with unmatched flexibilty.
+- [refinedev/refine](https://github.com/refinedev/refine) - A React Framework for building  internal tools, admin panels, dashboards & B2B apps with unmatched flexibility.
 - [trpc/trpc](https://github.com/trpc/trpc) - 🧙‍♀️  Move Fast and Break Nothing. End-to-end typesafe APIs made easy.
 - [vercel/swr](https://github.com/vercel/swr) - React Hooks for Data Fetching
 - [AykutSarac/jsoncrack.com](https://github.com/AykutSarac/jsoncrack.com) - ✨ Innovative and open-source visualization application that transforms various data formats, such as JSON, YAML, XML, CSV and more, into interactive graphs.
@@ -1741,7 +1741,7 @@
 - [SBCV/Blender-Addon-Photogrammetry-Importer](https://github.com/SBCV/Blender-Addon-Photogrammetry-Importer) - Addon to import different photogrammetry formats into Blender
 - [mantissa-/MegaGrid](https://github.com/mantissa-/MegaGrid) - Simple Python script to randomly spam subdivisions
 - [mifi/lossless-cut](https://github.com/mifi/lossless-cut) - The swiss army knife of lossless video/audio editing
-- [ynshung/blender-colab](https://github.com/ynshung/blender-colab) - Render Blender 3.x and 2.9x scenes with Google Colaboratory
+- [ynshung/blender-colab](https://github.com/ynshung/blender-colab) - Render Blender 4.x scenes with Google Colaboratory
 - [ForestKatsch/VertexOven](https://github.com/ForestKatsch/VertexOven) - Vertex color baking addon for Blender
 - [hundredrabbits/Dotgrid](https://github.com/hundredrabbits/Dotgrid) - Minimalist Vector Tool
 - [mantissa-/RandoGrid](https://github.com/mantissa-/RandoGrid) - Blender addon to create tunnels of random angled grid lines
@@ -1773,7 +1773,7 @@
 - [marcopavanello/real-snow](https://github.com/marcopavanello/real-snow) - Real Snow add-on for Blender
 - [Yichen-Dou/MSLiveLink-OC-Blender](https://github.com/Yichen-Dou/MSLiveLink-OC-Blender) - Quixel Megascans Plugin for Octane Blender Edition
 - [rlguy/Blender-FLIP-Fluids](https://github.com/rlguy/Blender-FLIP-Fluids) - The FLIP Fluids addon is a tool that helps you set up, run, and render high quality liquid fluid effects all within Blender, the free and open source 3D creation suite.
-- [maxogden/menubar](https://github.com/maxogden/menubar) - ➖ high level way to create menubar desktop applications with electron
+- [max-mapper/menubar](https://github.com/max-mapper/menubar) - ➖ high level way to create menubar desktop applications with electron
 - [lovasoa/dezoom.sh](https://github.com/lovasoa/dezoom.sh) - Download and assemble tiled images. Dezoomify for bash. Depends on imagemagick
 - [magenta/magenta](https://github.com/magenta/magenta) - Magenta: Music and Art Generation with Machine Intelligence
 - [CaptainValor/gpt-2-colab](https://github.com/CaptainValor/gpt-2-colab) - train gpt-2 in colab
@@ -2088,7 +2088,7 @@
 - [vercel/app-playground](https://github.com/vercel/app-playground) - https://app-dir.vercel.app/
 - [triggerdotdev/jsonhero-web](https://github.com/triggerdotdev/jsonhero-web) - JSON Hero is an open-source, beautiful JSON explorer for the web that lets you browse, search and navigate your JSON files at speed. 🚀. Built with 💜 by the Trigger.dev team.
 - [ritz078/transform](https://github.com/ritz078/transform) - A polyglot web converter.
-- [refinedev/refine](https://github.com/refinedev/refine) - A React Framework for building  internal tools, admin panels, dashboards & B2B apps with unmatched flexibilty.
+- [refinedev/refine](https://github.com/refinedev/refine) - A React Framework for building  internal tools, admin panels, dashboards & B2B apps with unmatched flexibility.
 - [trpc/trpc](https://github.com/trpc/trpc) - 🧙‍♀️  Move Fast and Break Nothing. End-to-end typesafe APIs made easy.
 - [pmndrs/react-spring](https://github.com/pmndrs/react-spring) - ✌️ A spring physics based React animation library
 - [pmndrs/zustand](https://github.com/pmndrs/zustand) - 🐻 Bear necessities for state management in React
@@ -2441,7 +2441,7 @@
 - [type-challenges/type-challenges](https://github.com/type-challenges/type-challenges) - Collection of TypeScript type challenges with online judge
 - [ritz078/transform](https://github.com/ritz078/transform) - A polyglot web converter.
 - [glideapps/quicktype](https://github.com/glideapps/quicktype) - Generate types and converters from JSON, Schema, and GraphQL
-- [refinedev/refine](https://github.com/refinedev/refine) - A React Framework for building  internal tools, admin panels, dashboards & B2B apps with unmatched flexibilty.
+- [refinedev/refine](https://github.com/refinedev/refine) - A React Framework for building  internal tools, admin panels, dashboards & B2B apps with unmatched flexibility.
 - [trpc/trpc](https://github.com/trpc/trpc) - 🧙‍♀️  Move Fast and Break Nothing. End-to-end typesafe APIs made easy.
 - [mantinedev/mantine](https://github.com/mantinedev/mantine) - A fully featured React components library
 - [swc-project/swc](https://github.com/swc-project/swc) - Rust-based platform for the Web
