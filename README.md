@@ -559,7 +559,7 @@
 - [erdavids/Generative-Art](https://github.com/erdavids/Generative-Art) - A hub for all of my generative art projects
 - [redis/redis-py](https://github.com/redis/redis-py) - Redis Python Client
 - [bee-san/pyWhat](https://github.com/bee-san/pyWhat) - 🐸   Identify anything. pyWhat easily lets you identify emails, IP addresses, and more. Feed it a .pcap file or some text and it'll tell you what it is! 🧙‍♀️
-- [pyscript/pyscript](https://github.com/pyscript/pyscript) - Home Page: https://pyscript.net  Examples: https://pyscript.net/examples
+- [pyscript/pyscript](https://github.com/pyscript/pyscript) - Try PyScript: https://pyscript.com  Examples: https://tinyurl.com/pyscript-examples  Community: https://discord.gg/HxvBtukrg2
 - [piskvorky/gensim](https://github.com/piskvorky/gensim) - Topic Modelling for Humans
 - [gradio-app/gradio](https://github.com/gradio-app/gradio) - Build and share delightful machine learning apps, all in Python. 🌟 Star to support our work!
 - [alexa/massive](https://github.com/alexa/massive) - Tools and Modeling Code for the MASSIVE dataset
@@ -762,7 +762,7 @@
 - [trickster0/OffensiveRust](https://github.com/trickster0/OffensiveRust) - Rust Weaponization for Red Team Engagements.
 - [sharkdp/hyperfine](https://github.com/sharkdp/hyperfine) - A command-line benchmarking tool
 - [rhysd/fixred](https://github.com/rhysd/fixred) - Fix outdated links in files with redirect URLs
-- [meilisearch/meilisearch](https://github.com/meilisearch/meilisearch) - A lightning-fast search engine that fits effortlessly into your apps, websites, and workflow.
+- [meilisearch/meilisearch](https://github.com/meilisearch/meilisearch) - A lightning-fast search API that fits effortlessly into your apps, websites, and workflow.
 - [LukeMathWalker/zero-to-production](https://github.com/LukeMathWalker/zero-to-production) - Code for "Zero To Production In Rust", a book on API development using Rust.
 - [sbstp/attohttpc](https://github.com/sbstp/attohttpc) - Rust lightweight HTTP 1.1 client
 - [rwf2/Rocket](https://github.com/rwf2/Rocket) - A web framework for Rust.
