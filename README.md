@@ -634,7 +634,6 @@
 - [home-assistant/core](https://github.com/home-assistant/core) - :house_with_garden: Open source home automation that puts local control and privacy first.
 - [YunChunChen/NAS-DIP-pytorch](https://github.com/YunChunChen/NAS-DIP-pytorch) - [ECCV 2020] NAS-DIP: Learning Deep Image Prior with Neural Architecture Search
 - [facebookresearch/consistent_depth](https://github.com/facebookresearch/consistent_depth) - We estimate dense, flicker-free, geometrically consistent depth from monocular video, for example hand-held cell phone video.
-- [Yichen-Dou/OC-Blender-Helper-Addon](https://github.com/Yichen-Dou/OC-Blender-Helper-Addon) - A helper addon for Octane Blender edition
 - [ubisoft/mixer](https://github.com/ubisoft/mixer) - Add-on for real-time collaboration in Blender.
 - [facebookresearch/pifuhd](https://github.com/facebookresearch/pifuhd) - High-Resolution 3D Human Digitization from A Single Image.
 - [openai/image-gpt](https://github.com/openai/image-gpt) - 
@@ -675,7 +674,6 @@
 - [marcopavanello/real-snow](https://github.com/marcopavanello/real-snow) - Real Snow add-on for Blender
 - [animate1978/MB-Lab](https://github.com/animate1978/MB-Lab) - MB-Lab is a character creation tool for Blender 2.80+, based off ManuelBastioniLAB
 - [nutti/Screencast-Keys](https://github.com/nutti/Screencast-Keys) - Blender Add-on: Screencast Keys
-- [Yichen-Dou/MSLiveLink-OC-Blender](https://github.com/Yichen-Dou/MSLiveLink-OC-Blender) - Quixel Megascans Plugin for Octane Blender Edition
 - [magenta/magenta](https://github.com/magenta/magenta) - Magenta: Music and Art Generation with Machine Intelligence
 - [microsoft/DialoGPT](https://github.com/microsoft/DialoGPT) - Large-scale pretraining for dialogue
 - [mantissa-/RandoMesh](https://github.com/mantissa-/RandoMesh) - A Blender addon to add randomized geometry to any mesh
