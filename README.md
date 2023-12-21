@@ -206,6 +206,7 @@
 
 ## Go 
 
+- [pion/webrtc](https://github.com/pion/webrtc) - Pure Go implementation of the WebRTC API
 - [cloudflare/cloudflared](https://github.com/cloudflare/cloudflared) - Cloudflare Tunnel client (formerly Argo Tunnel)
 - [BishopFox/jsluice](https://github.com/BishopFox/jsluice) - Extract URLs, paths, secrets, and other interesting bits from JavaScript
 - [charmbracelet/gum](https://github.com/charmbracelet/gum) - A tool for glamorous shell scripts 🎀
@@ -494,7 +495,7 @@
 
 ## PHP 
 
-- [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source & self-hostable Heroku / Netlify / Vercel alternative. Cloud version available here -&gt; https://app.coolify.io
+- [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source & self-hostable Heroku / Netlify / Vercel alternative.
 - [ambionics/phpggc](https://github.com/ambionics/phpggc) - PHPGGC is a library of PHP unserialize() payloads along with a tool to generate them, from command line or programmatically.
 - [danielmiessler/SecLists](https://github.com/danielmiessler/SecLists) - SecLists is the security tester's companion. It's a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensi
 - [gregzaal/3D-Model-Haven](https://github.com/gregzaal/3D-Model-Haven) - Website code for 3dmodelhaven.com
@@ -912,7 +913,7 @@
 - [reactjs/react.dev](https://github.com/reactjs/react.dev) - The React documentation website
 - [pmndrs/react-three-fiber](https://github.com/pmndrs/react-three-fiber) - 🇨🇭 A React renderer for Three.js
 - [jlalmes/trpc-chrome](https://github.com/jlalmes/trpc-chrome) - tRPC adapter for Web Extensions 🧩
-- [agmmnn/fineartdown](https://github.com/agmmnn/fineartdown) - Download full size images from Fine Art America, Conde Nast Store, Photos.com and Pixels.com
+- [agmmnn/fineartdown](https://github.com/agmmnn/fineartdown) - Download high-resolution images from Fine Art America, Conde Nast Store, Photos.com, and Pixels.com. "the current reverse engineering approach is non-functional."
 - [PlasmoHQ/examples](https://github.com/PlasmoHQ/examples) - 🔰 Example projects that demonstrate how to use the Plasmo Framework and integrate with popular tools
 - [clauderic/dnd-kit](https://github.com/clauderic/dnd-kit) - The modern, lightweight, performant, accessible and extensible drag & drop toolkit for React.
 - [SpellcraftAI/nextjs-openai](https://github.com/SpellcraftAI/nextjs-openai) - Hooks and components for working with OpenAI streams.
