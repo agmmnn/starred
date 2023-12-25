@@ -252,7 +252,7 @@
 ## api 
 
 - [FlareSolverr/FlareSolverr](https://github.com/FlareSolverr/FlareSolverr) - Proxy server to bypass Cloudflare protection
-- [amplication/amplication](https://github.com/amplication/amplication) - 🇮🇱 Stand with Israel 🇮🇱   Open-source backend development platform. Build production-ready services without wasting time on repetitive coding.
+- [amplication/amplication](https://github.com/amplication/amplication) - 🔥🔥🔥 Open-source backend development platform. Build production-ready services without wasting time on repetitive coding.
 - [directus/directus](https://github.com/directus/directus) - The Modern Data Stack 🐰 — Directus is an instant REST+GraphQL API and intuitive no-code data collaboration app for any SQL database.
 - [projectdiscovery/fuzzing-templates](https://github.com/projectdiscovery/fuzzing-templates) - Community curated list of nuclei templates for finding "unknown" security vulnerabilities.
 - [trpc/trpc](https://github.com/trpc/trpc) - 🧙‍♀️  Move Fast and Break Nothing. End-to-end typesafe APIs made easy.
@@ -943,7 +943,7 @@
 
 ## graphql 
 
-- [amplication/amplication](https://github.com/amplication/amplication) - 🇮🇱 Stand with Israel 🇮🇱   Open-source backend development platform. Build production-ready services without wasting time on repetitive coding.
+- [amplication/amplication](https://github.com/amplication/amplication) - 🔥🔥🔥 Open-source backend development platform. Build production-ready services without wasting time on repetitive coding.
 - [directus/directus](https://github.com/directus/directus) - The Modern Data Stack 🐰 — Directus is an instant REST+GraphQL API and intuitive no-code data collaboration app for any SQL database.
 - [saleor/saleor](https://github.com/saleor/saleor) - Saleor Core: the high performance, composable, headless commerce API.
 - [ritz078/transform](https://github.com/ritz078/transform) - A polyglot web converter.
@@ -968,7 +968,7 @@
 
 - [FlareSolverr/FlareSolverr](https://github.com/FlareSolverr/FlareSolverr) - Proxy server to bypass Cloudflare protection
 - [yannbertrand/macos-defaults](https://github.com/yannbertrand/macos-defaults) - Incomplete list of macOS `defaults` commands with demos ✨
-- [amplication/amplication](https://github.com/amplication/amplication) - 🇮🇱 Stand with Israel 🇮🇱   Open-source backend development platform. Build production-ready services without wasting time on repetitive coding.
+- [amplication/amplication](https://github.com/amplication/amplication) - 🔥🔥🔥 Open-source backend development platform. Build production-ready services without wasting time on repetitive coding.
 - [lucide-icons/lucide](https://github.com/lucide-icons/lucide) - Beautiful & consistent icon toolkit made by the community. Open-source project and a fork of Feather Icons.
 - [gautamkrishnar/blog-post-workflow](https://github.com/gautamkrishnar/blog-post-workflow) - Show your latest blog posts from any sources or StackOverflow activity or Youtube Videos on your GitHub profile/project readme automatically using the RSS feed
 - [tauri-apps/plugins-workspace](https://github.com/tauri-apps/plugins-workspace) - All of the official Tauri plugins in one place!
@@ -996,7 +996,7 @@
 - [swisskyrepo/PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings) - A list of useful payloads and bypass for Web Application Security and Pentest/CTF
 - [bee-san/pyWhat](https://github.com/bee-san/pyWhat) - 🐸   Identify anything. pyWhat easily lets you identify emails, IP addresses, and more. Feed it a .pcap file or some text and it'll tell you what it is! 🧙‍♀️
 - [gradio-app/gradio](https://github.com/gradio-app/gradio) - Build and share delightful machine learning apps, all in Python. 🌟 Star to support our work!
-- [bloomberg/memray](https://github.com/bloomberg/memray) - The endgame Python memory profiler
+- [bloomberg/memray](https://github.com/bloomberg/memray) - Memray is a memory profiler for Python
 - [scrapy-plugins/scrapy-playwright](https://github.com/scrapy-plugins/scrapy-playwright) - 🎭 Playwright integration for Scrapy
 - [SURYAKANTSHARMA/CountryPicker](https://github.com/SURYAKANTSHARMA/CountryPicker) - A simple, customizable Country picker for picking country or dialing code. 🇮🇳 🇯🇵 🇰🇷 🇩🇪 🇨🇳 🇺🇸 🇫🇷 🇪🇸 🇮🇹 🇷🇺 🇬🇧
 - [dotnet/maui](https://github.com/dotnet/maui) - .NET MAUI is the .NET Multi-platform App UI, a framework for building native device applications spanning mobile, tablet, and desktop.
@@ -1114,7 +1114,7 @@
 - [dosco/llm-client](https://github.com/dosco/llm-client) - LLMClient - A Caching and Debugging Proxy Server for LLM Users and A Multi-LLM Client Library
 - [vercel/turbo](https://github.com/vercel/turbo) - Incremental bundler and build system optimized for JavaScript and TypeScript, written in Rust – including Turbopack and Turborepo.
 - [expo/expo](https://github.com/expo/expo) - An open-source platform for making universal native apps with React. Expo runs on Android, iOS, and the web.
-- [amplication/amplication](https://github.com/amplication/amplication) - 🇮🇱 Stand with Israel 🇮🇱   Open-source backend development platform. Build production-ready services without wasting time on repetitive coding.
+- [amplication/amplication](https://github.com/amplication/amplication) - 🔥🔥🔥 Open-source backend development platform. Build production-ready services without wasting time on repetitive coding.
 - [js-org/js.org](https://github.com/js-org/js.org) - Dedicated to JavaScript and its awesome community since 2015
 - [BishopFox/jsluice](https://github.com/BishopFox/jsluice) - Extract URLs, paths, secrets, and other interesting bits from JavaScript
 - [facebook/react](https://github.com/facebook/react) - The library for web and native user interfaces.
@@ -1406,6 +1406,7 @@
 
 ## nextjs 
 
+- [sadmann7/shadcn-table](https://github.com/sadmann7/shadcn-table) - Shadcn table component with server-side sorting, filtering, and pagination.
 - [timothymiller/t4-app](https://github.com/timothymiller/t4-app) - A powerful cross-platform UI toolkit for building actually native iOS, Android, macOS, Windows, Linux, and Progressive Web Apps with React (Native).
 - [chen-rn/CUA](https://github.com/chen-rn/CUA) - (no longer maintained) create-universal-app(CUA) is an opinionated template for creating fullstack universal apps (Expo, Next, tRPC, Prisma, Clerk, Solito, Tamagui)
 - [oedotme/generouted](https://github.com/oedotme/generouted) - Generated file-based routes for Vite
@@ -1418,7 +1419,7 @@
 - [steven-tey/precedent](https://github.com/steven-tey/precedent) - An opinionated collection of components, hooks, and utilities for your Next.js project.
 - [SpellcraftAI/nextjs-openai](https://github.com/SpellcraftAI/nextjs-openai) - Hooks and components for working with OpenAI streams.
 - [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source & self-hostable Heroku / Netlify / Vercel alternative.
-- [shadcn-ui/ui](https://github.com/shadcn-ui/ui) - Beautifully designed components built with Radix UI and Tailwind CSS.
+- [shadcn-ui/ui](https://github.com/shadcn-ui/ui) - Beautifully designed components that you can copy and paste into your apps. Accessible. Customizable. Open Source.
 - [stackbit/jamstackthemes](https://github.com/stackbit/jamstackthemes) - A list of themes and starters for JAMstack sites.
 - [medusajs/medusa](https://github.com/medusajs/medusa) - Building blocks for digital commerce
 - [shadcn-ui/taxonomy](https://github.com/shadcn-ui/taxonomy) - An open source application built using the new router, server components and everything new in Next.js 13.
@@ -1463,7 +1464,7 @@
 - [oven-sh/bun](https://github.com/oven-sh/bun) - Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
 - [dosco/llm-client](https://github.com/dosco/llm-client) - LLMClient - A Caching and Debugging Proxy Server for LLM Users and A Multi-LLM Client Library
 - [drizzle-team/drizzle-orm](https://github.com/drizzle-team/drizzle-orm) - Headless TypeScript ORM with a head. Runs on Node, Bun and Deno. Lives on the Edge and yes, it's a JavaScript ORM too 😅
-- [amplication/amplication](https://github.com/amplication/amplication) - 🇮🇱 Stand with Israel 🇮🇱   Open-source backend development platform. Build production-ready services without wasting time on repetitive coding.
+- [amplication/amplication](https://github.com/amplication/amplication) - 🔥🔥🔥 Open-source backend development platform. Build production-ready services without wasting time on repetitive coding.
 - [fastify/fastify](https://github.com/fastify/fastify) - Fast and low overhead web framework, for Node.js
 - [clercjs/clerc](https://github.com/clercjs/clerc) - 🖖🏻 Clerc: The full-featured cli library.
 - [google/zx](https://github.com/google/zx) - A tool for writing better scripts
@@ -1510,6 +1511,7 @@
 
 ## open-source 
 
+- [sadmann7/shadcn-table](https://github.com/sadmann7/shadcn-table) - Shadcn table component with server-side sorting, filtering, and pagination.
 - [facebook/docusaurus](https://github.com/facebook/docusaurus) - Easy to maintain open source documentation websites.
 - [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
 - [requarks/wiki](https://github.com/requarks/wiki) - Wiki.js | A modern and powerful wiki app built on Node.js
@@ -1923,7 +1925,7 @@
 - [matplotlib/cheatsheets](https://github.com/matplotlib/cheatsheets) - Official Matplotlib cheat sheets
 - [bokeh/bokeh](https://github.com/bokeh/bokeh) - Interactive Data Visualization in the browser, from  Python
 - [mwaskom/seaborn](https://github.com/mwaskom/seaborn) - Statistical data visualization in Python
-- [bloomberg/memray](https://github.com/bloomberg/memray) - The endgame Python memory profiler
+- [bloomberg/memray](https://github.com/bloomberg/memray) - Memray is a memory profiler for Python
 - [tiangolo/typer](https://github.com/tiangolo/typer) - Typer, build great CLIs. Easy to code. Based on Python type hints.
 - [multiprocessio/datastation](https://github.com/multiprocessio/datastation) - App to easily query, script, and visualize data from every database, file, and API.
 - [Ousret/charset_normalizer](https://github.com/Ousret/charset_normalizer) - Truly universal encoding detector in pure Python
@@ -2004,7 +2006,7 @@
 
 - [davep/transcendent-textual](https://github.com/davep/transcendent-textual) - A personal project to gather up links to as many Textual sources, libraries and applications as possible.
 - [ultrafunkamsterdam/undetected-chromedriver](https://github.com/ultrafunkamsterdam/undetected-chromedriver) - Custom Selenium Chromedriver | Zero-Config | Passes ALL bot mitigation systems (like Distil / Imperva/ Datadadome / CloudFlare IUAM)
-- [bloomberg/memray](https://github.com/bloomberg/memray) - The endgame Python memory profiler
+- [bloomberg/memray](https://github.com/bloomberg/memray) - Memray is a memory profiler for Python
 - [tiangolo/typer](https://github.com/tiangolo/typer) - Typer, build great CLIs. Easy to code. Based on Python type hints.
 - [scrapy-plugins/scrapy-playwright](https://github.com/scrapy-plugins/scrapy-playwright) - 🎭 Playwright integration for Scrapy
 - [kraanzu/termtyper](https://github.com/kraanzu/termtyper) - A typing application to level up your fingers!
@@ -2081,7 +2083,7 @@
 - [tamagui/tamagui](https://github.com/tamagui/tamagui) - Style React apps fast with 100% parity on React Native, an optional UI kit and optimizing compiler.
 - [mithi/react-philosophies](https://github.com/mithi/react-philosophies) - 🧘  Things I think about when I write React code 🧘
 - [vasanthk/react-bits](https://github.com/vasanthk/react-bits) - ✨ React patterns, techniques, tips and tricks ✨
-- [shadcn-ui/ui](https://github.com/shadcn-ui/ui) - Beautifully designed components built with Radix UI and Tailwind CSS.
+- [shadcn-ui/ui](https://github.com/shadcn-ui/ui) - Beautifully designed components that you can copy and paste into your apps. Accessible. Customizable. Open Source.
 - [medusajs/medusa](https://github.com/medusajs/medusa) - Building blocks for digital commerce
 - [grommet/grommet](https://github.com/grommet/grommet) - a react-based framework that provides accessibility, modularity, responsiveness, and theming in a tidy package
 - [f5/unovis](https://github.com/f5/unovis) - Modular data visualization framework for React, Angular, Svelte, Vue, and vanilla TypeScript or JavaScript
@@ -2415,7 +2417,7 @@
 - [vercel/turbo](https://github.com/vercel/turbo) - Incremental bundler and build system optimized for JavaScript and TypeScript, written in Rust – including Turbopack and Turborepo.
 - [drizzle-team/drizzle-orm](https://github.com/drizzle-team/drizzle-orm) - Headless TypeScript ORM with a head. Runs on Node, Bun and Deno. Lives on the Edge and yes, it's a JavaScript ORM too 😅
 - [expo/expo](https://github.com/expo/expo) - An open-source platform for making universal native apps with React. Expo runs on Android, iOS, and the web.
-- [amplication/amplication](https://github.com/amplication/amplication) - 🇮🇱 Stand with Israel 🇮🇱   Open-source backend development platform. Build production-ready services without wasting time on repetitive coding.
+- [amplication/amplication](https://github.com/amplication/amplication) - 🔥🔥🔥 Open-source backend development platform. Build production-ready services without wasting time on repetitive coding.
 - [melt-ui/melt-ui](https://github.com/melt-ui/melt-ui) - A set of headless, accessible component builders for Svelte.
 - [fabian-hiller/valibot](https://github.com/fabian-hiller/valibot) - The modular and type safe schema library for validating structural data 🤖
 - [directus/directus](https://github.com/directus/directus) - The Modern Data Stack 🐰 — Directus is an instant REST+GraphQL API and intuitive no-code data collaboration app for any SQL database.
@@ -2515,7 +2517,7 @@
 ## web 
 
 - [expo/expo](https://github.com/expo/expo) - An open-source platform for making universal native apps with React. Expo runs on Android, iOS, and the web.
-- [amplication/amplication](https://github.com/amplication/amplication) - 🇮🇱 Stand with Israel 🇮🇱   Open-source backend development platform. Build production-ready services without wasting time on repetitive coding.
+- [amplication/amplication](https://github.com/amplication/amplication) - 🔥🔥🔥 Open-source backend development platform. Build production-ready services without wasting time on repetitive coding.
 - [surrealdb/surrealdb](https://github.com/surrealdb/surrealdb) - A scalable, distributed, collaborative, document-graph database, for the realtime web
 - [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth) - Authentication for the Web.
 - [parcel-bundler/parcel](https://github.com/parcel-bundler/parcel) - The zero configuration build tool for the web. 📦🚀
