@@ -173,6 +173,7 @@
 - [sqlite](#sqlite)
 - [svelte](#svelte)
 - [swift](#swift)
+- [swiftui](#swiftui)
 - [tensorflow](#tensorflow)
 - [terminal](#terminal)
 - [testing](#testing)
@@ -976,6 +977,7 @@
 
 ## hacktoberfest 
 
+- [iina/iina](https://github.com/iina/iina) - The modern video player for macOS.
 - [FlareSolverr/FlareSolverr](https://github.com/FlareSolverr/FlareSolverr) - Proxy server to bypass Cloudflare protection
 - [yannbertrand/macos-defaults](https://github.com/yannbertrand/macos-defaults) - Incomplete list of macOS `defaults` commands with demos ✨
 - [amplication/amplication](https://github.com/amplication/amplication) - 🔥🔥🔥 Open-source backend development platform. Build production-ready services without wasting time on repetitive coding.
@@ -1321,6 +1323,8 @@
 
 ## macos 
 
+- [superhighfives/pika](https://github.com/superhighfives/pika) - An open-source colour picker app for macOS
+- [iina/iina](https://github.com/iina/iina) - The modern video player for macOS.
 - [yannbertrand/macos-defaults](https://github.com/yannbertrand/macos-defaults) - Incomplete list of macOS `defaults` commands with demos ✨
 - [rust-windowing/winit](https://github.com/rust-windowing/winit) - Window handling library in pure Rust
 - [agmmnn/tauri-controls](https://github.com/agmmnn/tauri-controls) - 🚥 Native-looking window controls for Tauri 2. React, Solid, Vue, Svelte+Tailwind.
@@ -1422,6 +1426,7 @@
 
 ## nextjs 
 
+- [meglerhagen/projectx](https://github.com/meglerhagen/projectx) - ProjectX aims to simplify financial management with a user-friendly interface and robust backend
 - [sadmann7/shadcn-table](https://github.com/sadmann7/shadcn-table) - shadcn table component with server-side sorting, filtering, and pagination.
 - [timothymiller/t4-app](https://github.com/timothymiller/t4-app) - A powerful cross-platform UI toolkit for building actually native iOS, Android, macOS, Windows, Linux, and Progressive Web Apps with React (Native).
 - [chen-rn/CUA](https://github.com/chen-rn/CUA) - (no longer maintained) create-universal-app(CUA) is an opinionated template for creating fullstack universal apps (Expo, Next, tRPC, Prisma, Clerk, Solito, Tamagui)
@@ -1527,6 +1532,7 @@
 
 ## open-source 
 
+- [meglerhagen/projectx](https://github.com/meglerhagen/projectx) - ProjectX aims to simplify financial management with a user-friendly interface and robust backend
 - [sadmann7/shadcn-table](https://github.com/sadmann7/shadcn-table) - shadcn table component with server-side sorting, filtering, and pagination.
 - [facebook/docusaurus](https://github.com/facebook/docusaurus) - Easy to maintain open source documentation websites.
 - [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
@@ -2098,7 +2104,7 @@
 - [aykutkardas/svgps.app](https://github.com/aykutkardas/svgps.app) - SVGPS converts your icons into a single JSON file that is ready to use in your frontend or mobile projects.
 - [pacocoursey/cmdk](https://github.com/pacocoursey/cmdk) - Fast, unstyled command menu React component.
 - [pmndrs/jotai](https://github.com/pmndrs/jotai) - 👻 Primitive and flexible state management for React
-- [tamagui/tamagui](https://github.com/tamagui/tamagui) - Style React apps fast with 100% parity on React Native, an optional UI kit and optimizing compiler.
+- [tamagui/tamagui](https://github.com/tamagui/tamagui) - Style React fast with 100% parity on React Native, an optional UI kit, and optimizing compiler.
 - [mithi/react-philosophies](https://github.com/mithi/react-philosophies) - 🧘  Things I think about when I write React code 🧘
 - [vasanthk/react-bits](https://github.com/vasanthk/react-bits) - ✨ React patterns, techniques, tips and tricks ✨
 - [shadcn-ui/ui](https://github.com/shadcn-ui/ui) - Beautifully designed components that you can copy and paste into your apps. Accessible. Customizable. Open Source.
@@ -2138,7 +2144,7 @@
 - [chen-rn/CUA](https://github.com/chen-rn/CUA) - (no longer maintained) create-universal-app(CUA) is an opinionated template for creating fullstack universal apps (Expo, Next, tRPC, Prisma, Clerk, Solito, Tamagui)
 - [expo/expo](https://github.com/expo/expo) - An open-source platform for making universal native apps with React. Expo runs on Android, iOS, and the web.
 - [houseform/houseform](https://github.com/houseform/houseform) - Simple to use React forms, where your validation and UI code live together in harmony.
-- [tamagui/tamagui](https://github.com/tamagui/tamagui) - Style React apps fast with 100% parity on React Native, an optional UI kit and optimizing compiler.
+- [tamagui/tamagui](https://github.com/tamagui/tamagui) - Style React fast with 100% parity on React Native, an optional UI kit, and optimizing compiler.
 - [ritz078/transform](https://github.com/ritz078/transform) - A polyglot web converter.
 - [vercel/swr](https://github.com/vercel/swr) - React Hooks for Data Fetching
 - [GetStream/Winds](https://github.com/GetStream/Winds) - A Beautiful Open Source RSS & Podcast App Powered by Getstream.io
@@ -2349,11 +2355,17 @@
 
 ## swift 
 
+- [superhighfives/pika](https://github.com/superhighfives/pika) - An open-source colour picker app for macOS
+- [iina/iina](https://github.com/iina/iina) - The modern video player for macOS.
 - [ionic-team/capacitor](https://github.com/ionic-team/capacitor) - Build cross-platform Native Progressive Web Apps for iOS, Android, and the Web ⚡️
 - [glideapps/quicktype](https://github.com/glideapps/quicktype) - Generate types and converters from JSON, Schema, and GraphQL
 - [luximetr/AnyFormatKit](https://github.com/luximetr/AnyFormatKit) - Simple text formatting in Swift
 - [SURYAKANTSHARMA/CountryPicker](https://github.com/SURYAKANTSHARMA/CountryPicker) - A simple, customizable Country picker for picking country or dialing code. 🇮🇳 🇯🇵 🇰🇷 🇩🇪 🇨🇳 🇺🇸 🇫🇷 🇪🇸 🇮🇹 🇷🇺 🇬🇧
 - [sh-khashimov/SwiftFortuneWheel](https://github.com/sh-khashimov/SwiftFortuneWheel) - The ultimate spinning wheel view that supports dynamic content and rich customization.
+
+## swiftui 
+
+- [superhighfives/pika](https://github.com/superhighfives/pika) - An open-source colour picker app for macOS
 
 ## tensorflow 
 
@@ -2424,6 +2436,7 @@
 
 ## typescript 
 
+- [meglerhagen/projectx](https://github.com/meglerhagen/projectx) - ProjectX aims to simplify financial management with a user-friendly interface and robust backend
 - [atilafassina/quantum](https://github.com/atilafassina/quantum) - Tauri + Solid add support for Android and iOS on top of desktop builds (linux, mac, windows).
 - [pdovhomilja/nextcrm-app](https://github.com/pdovhomilja/nextcrm-app) - NextCRM is a CRM build on top of the latest Next.JS 14.1.0 using TypeScript,  great UI library shadcn, Prisma and MongoDB as a database.  Uploadthings as a S3 blob for document storage.
 - [Ironclad/rivet](https://github.com/Ironclad/rivet) - The open-source visual AI programming environment and TypeScript library
@@ -2453,7 +2466,7 @@
 - [unjs/magic-regexp](https://github.com/unjs/magic-regexp) - A compiled-away, type-safe, readable RegExp alternative
 - [TGlide/svelte-radial-menu](https://github.com/TGlide/svelte-radial-menu) - Radial Menu Experiment. Based on Rauno's Work
 - [spacedriveapp/spacedrive](https://github.com/spacedriveapp/spacedrive) - Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.
-- [tamagui/tamagui](https://github.com/tamagui/tamagui) - Style React apps fast with 100% parity on React Native, an optional UI kit and optimizing compiler.
+- [tamagui/tamagui](https://github.com/tamagui/tamagui) - Style React fast with 100% parity on React Native, an optional UI kit, and optimizing compiler.
 - [shadcn-ui/taxonomy](https://github.com/shadcn-ui/taxonomy) - An open source application built using the new router, server components and everything new in Next.js 13.
 - [PlasmoHQ/plasmo](https://github.com/PlasmoHQ/plasmo) - 🧩 The Browser Extension Framework
 - [apify/crawlee](https://github.com/apify/crawlee) - Crawlee—A web scraping and browser automation library for Node.js to build reliable crawlers. In JavaScript and TypeScript. Extract data for AI, LLMs, RAG, or GPTs. Download HTML, PDF, JPG, PNG, and o
@@ -2557,7 +2570,7 @@
 
 - [vercel/turbo](https://github.com/vercel/turbo) - Incremental bundler and build system optimized for JavaScript and TypeScript, written in Rust – including Turbopack and Turborepo.
 - [pastelsky/bundlephobia](https://github.com/pastelsky/bundlephobia) - 🏋️ Find out the cost of adding a new frontend dependency to your project
-- [tamagui/tamagui](https://github.com/tamagui/tamagui) - Style React apps fast with 100% parity on React Native, an optional UI kit and optimizing compiler.
+- [tamagui/tamagui](https://github.com/tamagui/tamagui) - Style React fast with 100% parity on React Native, an optional UI kit, and optimizing compiler.
 - [electron-react-boilerplate/electron-react-boilerplate](https://github.com/electron-react-boilerplate/electron-react-boilerplate) - A Foundation for Scalable Cross-Platform Apps
 
 ## website 
@@ -2606,6 +2619,7 @@
 
 ## xcode 
 
+- [superhighfives/pika](https://github.com/superhighfives/pika) - An open-source colour picker app for macOS
 - [luximetr/AnyFormatKit](https://github.com/luximetr/AnyFormatKit) - Simple text formatting in Swift
 - [SURYAKANTSHARMA/CountryPicker](https://github.com/SURYAKANTSHARMA/CountryPicker) - A simple, customizable Country picker for picking country or dialing code. 🇮🇳 🇯🇵 🇰🇷 🇩🇪 🇨🇳 🇺🇸 🇫🇷 🇪🇸 🇮🇹 🇷🇺 🇬🇧
 
