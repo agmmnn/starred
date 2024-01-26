@@ -249,6 +249,7 @@
 
 ## HTML 
 
+- [forgetso/search-replace](https://github.com/forgetso/search-replace) - Search and Replace Extension for Chromium based browsers
 - [krystonschwarze/coolicons](https://github.com/krystonschwarze/coolicons) - coolicons is a carefully designed collection of 440+ icons with a focus on simplicity and consistency. Perfectly suited for web, application and mobile design.
 - [thedevdojo/pines](https://github.com/thedevdojo/pines) - The Pines UI library
 - [totaljs/flow](https://github.com/totaljs/flow) - Flow
@@ -467,7 +468,7 @@
 - [rothgar/awesome-tuis](https://github.com/rothgar/awesome-tuis) - List of projects that provide terminal user interfaces
 - [DovAmir/awesome-design-patterns](https://github.com/DovAmir/awesome-design-patterns) - A curated list of software and architecture related design patterns.
 - [jlevy/the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) - Master the command line, in one page
-- [public-api-lists/public-api-lists](https://github.com/public-api-lists/public-api-lists) - A collective list of free APIs for use in software and web development 🚀 (Clone of https://github.com/public-apis/public-apis)
+- [public-api-lists/public-api-lists](https://github.com/public-api-lists/public-api-lists) - A collective list of free APIs for use in software and web development 🚀
 - [ml-tooling/best-of-web-python](https://github.com/ml-tooling/best-of-web-python) - 🏆  A ranked list of awesome python libraries for web development. Updated weekly.
 - [ml-tooling/best-of-ml-python](https://github.com/ml-tooling/best-of-ml-python) - 🏆 A ranked list of awesome machine learning Python libraries. Updated weekly.
 - [QuadSpinner/Gaea-Quickstarts](https://github.com/QuadSpinner/Gaea-Quickstarts) - All Gaea Quickstart files to help you get started.
@@ -862,7 +863,6 @@
 - [tldraw/make-real](https://github.com/tldraw/make-real) - Draw a ui and make it real
 - [pdovhomilja/nextcrm-app](https://github.com/pdovhomilja/nextcrm-app) - NextCRM is a CRM build on top of the latest Next.JS 14.1.0 using TypeScript,  great UI library shadcn, Prisma and MongoDB as a database.  Uploadthings as a S3 blob for document storage.
 - [tamagui/starter-free](https://github.com/tamagui/starter-free) - Tamagui React Native Starter Repo - Next, Expo, Solito
-- [forgetso/search-replace](https://github.com/forgetso/search-replace) - Search and Replace Extension for Chromium based browsers
 - [ethanniser/the-beth-stack](https://github.com/ethanniser/the-beth-stack) - An opinionated hypermedia-driven architecture for building web apps
 - [adrianhajdin/pricewise](https://github.com/adrianhajdin/pricewise) - Dive into web scraping and build a Next.js 13 eCommerce price tracker within a single video that teaches you data scraping, cron jobs, sending emails, deployment, and more.
 - [Ironclad/rivet](https://github.com/Ironclad/rivet) - The open-source visual AI programming environment and TypeScript library
