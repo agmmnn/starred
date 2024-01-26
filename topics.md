@@ -1721,7 +1721,7 @@
 - [emk/heroku-buildpack-rust](https://github.com/emk/heroku-buildpack-rust) - A buildpack for Rust applications on Heroku, with full support for Rustup, cargo and build caching.
 - [egargo/pwygit](https://github.com/egargo/pwygit) - :partly_sunny: A simple weather information tool.
 - [http-rs/surf](https://github.com/http-rs/surf) - Fast and friendly HTTP client framework for async Rust
-- [public-api-lists/public-api-lists](https://github.com/public-api-lists/public-api-lists) - A collective list of free APIs for use in software and web development 🚀 (Clone of https://github.com/public-apis/public-apis)
+- [public-api-lists/public-api-lists](https://github.com/public-api-lists/public-api-lists) - A collective list of free APIs for use in software and web development 🚀
 - [jqlang/jq](https://github.com/jqlang/jq) - Command-line JSON processor
 - [microsoft/Windows-universal-samples](https://github.com/microsoft/Windows-universal-samples) - API samples for the Universal Windows Platform.
 - [openai/DALL-E](https://github.com/openai/DALL-E) - PyTorch package for the discrete VAE used for DALL·E.
