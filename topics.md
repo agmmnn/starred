@@ -1427,7 +1427,7 @@
 
 ## nextjs 
 
-- [meglerhagen/projectx](https://github.com/meglerhagen/projectx) - ProjectX aims to simplify financial management with a user-friendly interface and robust backend
+- [projectx-codehagen/projectx](https://github.com/projectx-codehagen/projectx) - ProjectX aims to simplify financial management with a user-friendly interface and robust backend
 - [sadmann7/shadcn-table](https://github.com/sadmann7/shadcn-table) - shadcn table component with server-side sorting, filtering, and pagination.
 - [timothymiller/t4-app](https://github.com/timothymiller/t4-app) - A powerful cross-platform UI toolkit for building actually native iOS, Android, macOS, Windows, Linux, and Progressive Web Apps with React (Native).
 - [chen-rn/CUA](https://github.com/chen-rn/CUA) - (no longer maintained) create-universal-app(CUA) is an opinionated template for creating fullstack universal apps (Expo, Next, tRPC, Prisma, Clerk, Solito, Tamagui)
@@ -1533,7 +1533,7 @@
 
 ## open-source 
 
-- [meglerhagen/projectx](https://github.com/meglerhagen/projectx) - ProjectX aims to simplify financial management with a user-friendly interface and robust backend
+- [projectx-codehagen/projectx](https://github.com/projectx-codehagen/projectx) - ProjectX aims to simplify financial management with a user-friendly interface and robust backend
 - [sadmann7/shadcn-table](https://github.com/sadmann7/shadcn-table) - shadcn table component with server-side sorting, filtering, and pagination.
 - [facebook/docusaurus](https://github.com/facebook/docusaurus) - Easy to maintain open source documentation websites.
 - [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
@@ -2435,7 +2435,7 @@
 
 ## typescript 
 
-- [meglerhagen/projectx](https://github.com/meglerhagen/projectx) - ProjectX aims to simplify financial management with a user-friendly interface and robust backend
+- [projectx-codehagen/projectx](https://github.com/projectx-codehagen/projectx) - ProjectX aims to simplify financial management with a user-friendly interface and robust backend
 - [atilafassina/quantum](https://github.com/atilafassina/quantum) - Tauri + Solid add support for Android and iOS on top of desktop builds (linux, mac, windows).
 - [pdovhomilja/nextcrm-app](https://github.com/pdovhomilja/nextcrm-app) - NextCRM is a CRM build on top of the latest Next.JS 14.1.0 using TypeScript,  great UI library shadcn, Prisma and MongoDB as a database.  Uploadthings as a S3 blob for document storage.
 - [Ironclad/rivet](https://github.com/Ironclad/rivet) - The open-source visual AI programming environment and TypeScript library
