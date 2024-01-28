@@ -857,7 +857,7 @@
 
 ## TypeScript 
 
-- [meglerhagen/projectx](https://github.com/meglerhagen/projectx) - ProjectX aims to simplify financial management with a user-friendly interface and robust backend
+- [projectx-codehagen/projectx](https://github.com/projectx-codehagen/projectx) - ProjectX aims to simplify financial management with a user-friendly interface and robust backend
 - [atilafassina/quantum](https://github.com/atilafassina/quantum) - Tauri + Solid add support for Android and iOS on top of desktop builds (linux, mac, windows).
 - [sadmann7/shadcn-table](https://github.com/sadmann7/shadcn-table) - shadcn table component with server-side sorting, filtering, and pagination.
 - [tldraw/make-real](https://github.com/tldraw/make-real) - Draw a ui and make it real
