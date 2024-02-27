@@ -56,7 +56,7 @@
 
 ## Assembly 
 
-- [corkami/pics](https://github.com/corkami/pics) - File formats explanations, logos redrawing...
+- [corkami/pics](https://github.com/corkami/pics) - File formats dissections and more...
 
 ## C 
 
