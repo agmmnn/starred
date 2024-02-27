@@ -1164,7 +1164,6 @@
 - [uncss/uncss](https://github.com/uncss/uncss) - Remove unused styles from CSS
 - [juliangarnier/anime](https://github.com/juliangarnier/anime) - JavaScript animation engine
 - [manojVivek/medium-unlimited](https://github.com/manojVivek/medium-unlimited) - A browser extension to read medium.com articles for free without membership.
-- [mui/material-ui](https://github.com/mui/material-ui) - MUI Core: Ready-to-use foundational React components, free forever. It includes Material UI, which implements Google's Material Design.
 - [electron-react-boilerplate/electron-react-boilerplate](https://github.com/electron-react-boilerplate/electron-react-boilerplate) - A Foundation for Scalable Cross-Platform Apps
 - [alyssaxuu/flowy](https://github.com/alyssaxuu/flowy) - The minimal javascript library to create flowcharts ✨
 - [axios/axios](https://github.com/axios/axios) - Promise based HTTP client for the browser and node.js
@@ -1660,7 +1659,7 @@
 - [p0dalirius/Coercer](https://github.com/p0dalirius/Coercer) - A python script to automatically coerce a Windows server to authenticate on an arbitrary machine through 12 methods.
 - [google/rune](https://github.com/google/rune) - Rune is a programming language developed to test ideas for improving security and efficiency.
 - [ymgenesis/Midjourney-Photography-Resource](https://github.com/ymgenesis/Midjourney-Photography-Resource) - A non-exhaustive resource testing and comparing various photography settings, film stocks, and terms in Midjourney
-- [corkami/pics](https://github.com/corkami/pics) - File formats explanations, logos redrawing...
+- [corkami/pics](https://github.com/corkami/pics) - File formats dissections and more...
 - [Y2Z/monolith](https://github.com/Y2Z/monolith) - ⬛️ CLI tool for saving complete web pages as a single HTML file
 - [fr0gger/Awesome_Malware_Techniques](https://github.com/fr0gger/Awesome_Malware_Techniques) - This is a repository of resource about Malware techniques
 - [ambionics/phpggc](https://github.com/ambionics/phpggc) - PHPGGC is a library of PHP unserialize() payloads along with a tool to generate them, from command line or programmatically.
@@ -2490,7 +2489,6 @@
 - [myxvisual/react-uwp](https://github.com/myxvisual/react-uwp) - 📱⌨ React Components that Implement Microsoft's UWP Design & Fluent Design.
 - [crimx/ext-saladict](https://github.com/crimx/ext-saladict) - 🥗 All-in-one professional pop-up dictionary and page translator which supports multiple search modes, page translations, new word notebook and PDF selection searching.
 - [rsify/pico](https://github.com/rsify/pico) - Take browser screenshots in Javascript  📸
-- [mui/material-ui](https://github.com/mui/material-ui) - MUI Core: Ready-to-use foundational React components, free forever. It includes Material UI, which implements Google's Material Design.
 - [electron-react-boilerplate/electron-react-boilerplate](https://github.com/electron-react-boilerplate/electron-react-boilerplate) - A Foundation for Scalable Cross-Platform Apps
 - [sentialx/multrin](https://github.com/sentialx/multrin) - Organize apps windows in tabs like in abandoned Windows Sets and more
 - [microsoft/vscode](https://github.com/microsoft/vscode) - Visual Studio Code
