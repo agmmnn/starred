@@ -129,7 +129,7 @@
 
 - [acidanthera/MacHyperVSupport](https://github.com/acidanthera/MacHyperVSupport) - Hyper-V integration support for macOS
 - [nomic-ai/gpt4all](https://github.com/nomic-ai/gpt4all) - gpt4all: run open-source LLMs anywhere
-- [DjDeveloperr/skia_canvas](https://github.com/DjDeveloperr/skia_canvas) - Fast HTML Canvas API implementation for Deno using Skia.
+- [DjDeveloperr/skia_canvas](https://github.com/DjDeveloperr/skia_canvas) - Fast HTML Canvas API implementation for Deno using Google Skia
 - [alexkay/spek](https://github.com/alexkay/spek) - Acoustic spectrum analyser
 - [WerWolv/ImHex](https://github.com/WerWolv/ImHex) - 🔍 A Hex Editor for Reverse Engineers, Programmers and people who value their retinas when working at 3 AM.
 - [paolo-projects/auto-unlocker](https://github.com/paolo-projects/auto-unlocker) - Unlocker for VMWare macOS
@@ -253,7 +253,7 @@
 - [thedevdojo/pines](https://github.com/thedevdojo/pines) - The Pines UI library
 - [totaljs/flow](https://github.com/totaljs/flow) - Flow
 - [machinetranslate/machinetranslate.org](https://github.com/machinetranslate/machinetranslate.org) - Open information and community for machine translation
-- [gethyas/doks](https://github.com/gethyas/doks) - Build beautiful, accessible, high-performance documentation websites
+- [gethyas/doks](https://github.com/gethyas/doks) - Everything you need to build a stellar documentation website. Fast, accessible, and easy to use.
 - [gwen001/offsectools_www](https://github.com/gwen001/offsectools_www) - A vast collection of security tools and resources curated by the community.
 - [willymaps/snowfall](https://github.com/willymaps/snowfall) - Visualizing snowfall from Oct. – Dec. across the U.S. in 2022
 - [cure53/HTTPLeaks](https://github.com/cure53/HTTPLeaks) - HTTPLeaks - All possible ways, a website can leak HTTP requests
