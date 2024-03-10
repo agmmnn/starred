@@ -666,7 +666,7 @@
 - [alessandro-zomparelli/tissue](https://github.com/alessandro-zomparelli/tissue) - Tissue - Blender's add-on for computational design
 - [nortikin/sverchok](https://github.com/nortikin/sverchok) - Sverchok
 - [marcopavanello/real-snow](https://github.com/marcopavanello/real-snow) - Real Snow add-on for Blender
-- [animate1978/MB-Lab](https://github.com/animate1978/MB-Lab) - MB-Lab is a character creation tool for Blender 2.80+, based off ManuelBastioniLAB
+- [animate1978/MB-Lab](https://github.com/animate1978/MB-Lab) - MB-Lab is a character creation tool for Blender 4.0 and above, based off ManuelBastioniLAB
 - [nutti/Screencast-Keys](https://github.com/nutti/Screencast-Keys) - Blender Add-on: Screencast Keys
 - [magenta/magenta](https://github.com/magenta/magenta) - Magenta: Music and Art Generation with Machine Intelligence
 - [microsoft/DialoGPT](https://github.com/microsoft/DialoGPT) - Large-scale pretraining for dialogue
