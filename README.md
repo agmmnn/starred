@@ -439,6 +439,7 @@
 - [getcursor/cursor](https://github.com/getcursor/cursor) - An AI-powered code editor based on VSCode 🤖
 - [dtinth/superwhite](https://github.com/dtinth/superwhite) - display a very bright white color on HDR-enabled displays
 - [Ignitetechnologies/Mindmap](https://github.com/Ignitetechnologies/Mindmap) - This repository will contain many mindmaps for cyber security technologies, methodologies, courses, and certifications in a tree structure to give brief details about them
+- [modularml/mojo](https://github.com/modularml/mojo) - The Mojo Programming Language
 - [raunofreiberg/vesper](https://github.com/raunofreiberg/vesper) - Peppermint and orange flavored dark theme for VSCode.
 - [davep/transcendent-textual](https://github.com/davep/transcendent-textual) - A personal project to gather up links to as many Textual sources, libraries and applications as possible.
 - [archinetai/audio-ai-timeline](https://github.com/archinetai/audio-ai-timeline) - A timeline of the latest AI models for audio generation, starting in 2023!
@@ -616,7 +617,7 @@
 - [Textualize/textual](https://github.com/Textualize/textual) - The lean application framework for Python.  Build sophisticated user interfaces with a simple Python API. Run your apps in the terminal and a web browser.
 - [megvii-research/ECCV2022-RIFE](https://github.com/megvii-research/ECCV2022-RIFE) - ECCV2022 - Real-Time Intermediate Flow Estimation for Video Frame Interpolation
 - [yoeo/guesslang](https://github.com/yoeo/guesslang) - Detect the programming language of a source code
-- [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) - A youtube-dl fork with additional features and fixes
+- [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) - A feature-rich command-line audio/video downloader
 - [nschloe/pipdate](https://github.com/nschloe/pipdate) - Small pip update helpers.
 - [python-poetry/poetry](https://github.com/python-poetry/poetry) - Python packaging and dependency management made easy
 - [iperov/DeepFaceLab](https://github.com/iperov/DeepFaceLab) - DeepFaceLab is the leading software for creating deepfakes.
@@ -815,7 +816,6 @@
 ## Shell 
 
 - [cleanbrowsing/dnsperftest](https://github.com/cleanbrowsing/dnsperftest) - DNS Performance test
-- [modularml/mojo](https://github.com/modularml/mojo) - The Mojo Programming Language
 - [mkorthof/freenom-script](https://github.com/mkorthof/freenom-script) - Freenom.com Domain Renewal and Dynamic DNS script
 - [ax/apk.sh](https://github.com/ax/apk.sh) - apk.sh makes reverse engineering Android apps easier, automating some repetitive tasks like pulling, decoding, rebuilding and patching an APK.
 - [six2dez/reconftw](https://github.com/six2dez/reconftw) - reconFTW is a tool designed to perform automated recon on a target domain by running the best set of tools to perform scanning and finding out vulnerabilities
