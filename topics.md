@@ -210,6 +210,7 @@
 
 ## ai 
 
+- [fofr/cog-face-to-many](https://github.com/fofr/cog-face-to-many) - Turn any face into a video game character, pixel art, claymation, 3D or toy
 - [Ironclad/rivet](https://github.com/Ironclad/rivet) - The open-source visual AI programming environment and TypeScript library
 - [jackmpcollins/magentic](https://github.com/jackmpcollins/magentic) - Seamlessly integrate LLMs as Python functions
 - [dosco/llm-client](https://github.com/dosco/llm-client) - LLMClient - JS/TS Use prompt signatures, Agents, Reasoning, Function calling, RAG and more. Based on the Stanford DSP Paper
