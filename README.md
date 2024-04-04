@@ -403,6 +403,7 @@
 
 ## Lua 
 
+- [AstroNvim/AstroNvim](https://github.com/AstroNvim/AstroNvim) - AstroNvim is an aesthetic and feature-rich neovim config that is extensible and easy to use with a great set of plugins
 - [scmanjarrez/CVEScannerV2](https://github.com/scmanjarrez/CVEScannerV2) - Nmap script that scans for probable vulnerabilities based on services discovered in open ports.
 - [rxi/lite](https://github.com/rxi/lite) - A lightweight text editor written in Lua
 
