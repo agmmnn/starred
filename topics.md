@@ -1616,7 +1616,6 @@
 - [krystonschwarze/coolicons](https://github.com/krystonschwarze/coolicons) - coolicons is a carefully designed collection of 440+ icons with a focus on simplicity and consistency. Perfectly suited for web, application and mobile design.
 - [karpathy/llama2.c](https://github.com/karpathy/llama2.c) - Inference Llama 2 in one file of pure C
 - [acidanthera/MacHyperVSupport](https://github.com/acidanthera/MacHyperVSupport) - Hyper-V integration support for macOS
-- [AntonioErdeljac/next13-ai-saas](https://github.com/AntonioErdeljac/next13-ai-saas) - 
 - [shuding/cobe](https://github.com/shuding/cobe) - 5kB WebGL globe lib.
 - [junhoyeo/threads-api](https://github.com/junhoyeo/threads-api) - Unofficial, Reverse-Engineered Node.js/TypeScript client for Meta's Threads. Web UI Included.
 - [ju-bezdek/langchain-decorators](https://github.com/ju-bezdek/langchain-decorators) - syntactic sugar 🍭 for langchain
