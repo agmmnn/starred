@@ -496,6 +496,7 @@
 
 ## compiler 
 
+- [gleam-lang/gleam](https://github.com/gleam-lang/gleam) - ⭐️ A friendly language for building type-safe, scalable systems!
 - [vercel/next.js](https://github.com/vercel/next.js) - The React Framework
 - [swc-project/swc](https://github.com/swc-project/swc) - Rust-based platform for the Web
 - [parcel-bundler/parcel](https://github.com/parcel-bundler/parcel) - The zero configuration build tool for the web. 📦🚀
