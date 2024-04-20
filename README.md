@@ -28,6 +28,7 @@
 - [MDX](#mdx)
 - [Makefile](#makefile)
 - [Mathematica](#mathematica)
+- [Meson](#meson)
 - [Mojo](#mojo)
 - [Nim](#nim)
 - [Nunjucks](#nunjucks)
@@ -425,12 +426,15 @@
 
 ## Makefile 
 
-- [frida/frida](https://github.com/frida/frida) - Clone this repo to build Frida
 - [kostya/benchmarks](https://github.com/kostya/benchmarks) - Some benchmarks of different languages
 
 ## Mathematica 
 
 - [dzhang314/YouTubeDrive](https://github.com/dzhang314/YouTubeDrive) - Store files as YouTube videos == infinite disk space
+
+## Meson 
+
+- [frida/frida](https://github.com/frida/frida) - Clone this repo to build Frida
 
 ## Mojo 
 
@@ -870,6 +874,7 @@
 
 ## TypeScript 
 
+- [tc39/proposal-signals](https://github.com/tc39/proposal-signals) - A proposal to add signals to JavaScript.
 - [projectx-codehagen/Badget](https://github.com/projectx-codehagen/Badget) - Badget aims to simplify financial management with a user-friendly interface and robust backend
 - [atilafassina/quantum](https://github.com/atilafassina/quantum) - Tauri + Solid add support for Android and iOS on top of desktop builds (linux, mac, windows).
 - [sadmann7/shadcn-table](https://github.com/sadmann7/shadcn-table) - A shadcn table component with server-side sorting, filtering, and pagination.
