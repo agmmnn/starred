@@ -452,7 +452,7 @@
 - [pemistahl/grex](https://github.com/pemistahl/grex) - A command-line tool and Rust library with Python bindings for generating regular expressions from user-provided test cases
 - [t3-oss/create-t3-app](https://github.com/t3-oss/create-t3-app) - The best way to start a full-stack, typesafe Next.js app
 - [cedricblondeau/world-cup-2022-cli-dashboard](https://github.com/cedricblondeau/world-cup-2022-cli-dashboard) - Watch live World Cup 2022 matches in your terminal. ⚽🏆
-- [antfu/ni](https://github.com/antfu/ni) - 💡 Use the right package manager
+- [antfu-collective/ni](https://github.com/antfu-collective/ni) - 💡 Use the right package manager
 - [trinib/Linux-Bash-Commands](https://github.com/trinib/Linux-Bash-Commands) - :godmode: Ultimate list of Linux bash commands, cheatsheets and resources
 - [projectdiscovery/katana](https://github.com/projectdiscovery/katana) - A next-generation crawling and spidering framework.
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗
@@ -1559,7 +1559,7 @@
 - [lerna/lerna](https://github.com/lerna/lerna) - :dragon: Lerna is a fast, modern build system for managing and publishing multiple JavaScript/TypeScript packages from the same repository.
 - [gethyas/doks](https://github.com/gethyas/doks) - Everything you need to build a stellar documentation website. Fast, accessible, and easy to use.
 - [apify/crawlee](https://github.com/apify/crawlee) - Crawlee—A web scraping and browser automation library for Node.js to build reliable crawlers. In JavaScript and TypeScript. Extract data for AI, LLMs, RAG, or GPTs. Download HTML, PDF, JPG, PNG, and o
-- [antfu/ni](https://github.com/antfu/ni) - 💡 Use the right package manager
+- [antfu-collective/ni](https://github.com/antfu-collective/ni) - 💡 Use the right package manager
 
 ## numpy 
 
@@ -1617,7 +1617,7 @@
 - [ethanniser/the-beth-stack](https://github.com/ethanniser/the-beth-stack) - An opinionated hypermedia-driven architecture for building web apps
 - [adrianhajdin/pricewise](https://github.com/adrianhajdin/pricewise) - Dive into web scraping and build a Next.js 13 eCommerce price tracker within a single video that teaches you data scraping, cron jobs, sending emails, deployment, and more.
 - [ispras/scrapy-puppeteer](https://github.com/ispras/scrapy-puppeteer) - Library that helps use puppeteer in scrapy.
-- [antfu/icones](https://github.com/antfu/icones) - ⚡️ Icon Explorer with Instant searching, powered by Iconify
+- [antfu-collective/icones](https://github.com/antfu-collective/icones) - ⚡️ Icon Explorer with Instant searching, powered by Iconify
 - [yoheinakajima/instagraph](https://github.com/yoheinakajima/instagraph) - Converts text input or URL into knowledge graph and displays
 - [antfu/shikiji](https://github.com/antfu/shikiji) - A syntax highlighter based on TextMate grammars. ESM rewrite of shiki, with more features and capabilities.
 - [lydiahallie/javascript-react-patterns](https://github.com/lydiahallie/javascript-react-patterns) - Repo related to the FrontendMasters course on JavaScript and React patterns
@@ -1656,7 +1656,7 @@
 - [chenfei-wu/TaskMatrix](https://github.com/chenfei-wu/TaskMatrix) - 
 - [agmmnn/fineartdown](https://github.com/agmmnn/fineartdown) - Download high-resolution images from Fine Art America, Conde Nast Store, Photos.com, and Pixels.com. "the current reverse engineering approach is non-functional."
 - [alexkay/spek](https://github.com/alexkay/spek) - Acoustic spectrum analyser
-- [antfu/taze](https://github.com/antfu/taze) - 🥦 A modern cli tool that keeps your deps fresh
+- [antfu-collective/taze](https://github.com/antfu-collective/taze) - 🥦 A modern cli tool that keeps your deps fresh
 - [raunofreiberg/vesper](https://github.com/raunofreiberg/vesper) - Peppermint and orange flavored dark theme for VSCode.
 - [egoist/tailwindcss-icons](https://github.com/egoist/tailwindcss-icons) - Use any icon (100,000+) from Iconify, for TailwindCSS
 - [assetnote/wordlists](https://github.com/assetnote/wordlists) - Automated & Manual Wordlists provided by Assetnote
@@ -1903,7 +1903,7 @@
 ## package-manager 
 
 - [astral-sh/rye](https://github.com/astral-sh/rye) - a Hassle-Free Python Experience
-- [antfu/ni](https://github.com/antfu/ni) - 💡 Use the right package manager
+- [antfu-collective/ni](https://github.com/antfu-collective/ni) - 💡 Use the right package manager
 - [python-poetry/poetry](https://github.com/python-poetry/poetry) - Python packaging and dependency management made easy
 
 ## parsing 
