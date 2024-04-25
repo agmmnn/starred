@@ -515,6 +515,7 @@
 
 ## Python 
 
+- [meta-llama/llama3](https://github.com/meta-llama/llama3) - The official Meta Llama 3 GitHub site
 - [fofr/cog-face-to-many](https://github.com/fofr/cog-face-to-many) - Turn any face into a video game character, pixel art, claymation, 3D or toy
 - [Eltion/Tiktok-SSL-Pinning-Bypass](https://github.com/Eltion/Tiktok-SSL-Pinning-Bypass) - Bypass Tiktok SSL pinning on Android devices.
 - [elevenlabs/elevenlabs-python](https://github.com/elevenlabs/elevenlabs-python) - The official Python API for ElevenLabs Text to Speech.
