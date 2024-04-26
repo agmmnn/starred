@@ -174,7 +174,6 @@
 - [sonic-pi-net/sonic-pi](https://github.com/sonic-pi-net/sonic-pi) - Code. Music. Live.
 - [wjakob/instant-meshes](https://github.com/wjakob/instant-meshes) - Interactive field-aligned mesh generator
 - [tensorflow/tensorflow](https://github.com/tensorflow/tensorflow) - An Open Source Machine Learning Framework for Everyone
-- [butor/blackbird](https://github.com/butor/blackbird) - Blackbird Bitcoin Arbitrage: a long/short market-neutral strategy
 
 ## CMake 
 
