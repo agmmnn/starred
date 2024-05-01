@@ -210,6 +210,7 @@
 
 ## Go 
 
+- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3, Mistral, Gemma, and other large language models.
 - [pion/webrtc](https://github.com/pion/webrtc) - Pure Go implementation of the WebRTC API
 - [cloudflare/cloudflared](https://github.com/cloudflare/cloudflared) - Cloudflare Tunnel client (formerly Argo Tunnel)
 - [BishopFox/jsluice](https://github.com/BishopFox/jsluice) - Extract URLs, paths, secrets, and other interesting bits from JavaScript
@@ -875,6 +876,7 @@
 
 ## TypeScript 
 
+- [cellajs/cella](https://github.com/cellajs/cella) - TypeScript template to build SaaS with vite + hono + postgres + drizzle + react + shadcn.
 - [xyflow/xyflow](https://github.com/xyflow/xyflow) - React Flow | Svelte Flow - Powerful open source libraries for building node-based UIs with React (https://reactflow.dev) or Svelte (https://svelteflow.dev). Ready out-of-the-box and infinitely customi
 - [elysiajs/elysia](https://github.com/elysiajs/elysia) - Ergonomic Framework for Humans
 - [tc39/proposal-signals](https://github.com/tc39/proposal-signals) - A proposal to add signals to JavaScript.
