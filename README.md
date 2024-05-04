@@ -877,6 +877,7 @@
 
 ## TypeScript 
 
+- [HeyGen-Official/StreamingAvatarSDK](https://github.com/HeyGen-Official/StreamingAvatarSDK) - Streaming Avatar SDK
 - [cellajs/cella](https://github.com/cellajs/cella) - TypeScript template to build SaaS with vite + hono + postgres + drizzle + react + shadcn.
 - [xyflow/xyflow](https://github.com/xyflow/xyflow) - React Flow | Svelte Flow - Powerful open source libraries for building node-based UIs with React (https://reactflow.dev) or Svelte (https://svelteflow.dev). Ready out-of-the-box and infinitely customi
 - [elysiajs/elysia](https://github.com/elysiajs/elysia) - Ergonomic Framework for Humans
