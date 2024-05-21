@@ -2027,7 +2027,7 @@
 - [bloomberg/memray](https://github.com/bloomberg/memray) - Memray is a memory profiler for Python
 - [tiangolo/typer](https://github.com/tiangolo/typer) - Typer, build great CLIs. Easy to code. Based on Python type hints.
 - [multiprocessio/datastation](https://github.com/multiprocessio/datastation) - App to easily query, script, and visualize data from every database, file, and API.
-- [Ousret/charset_normalizer](https://github.com/Ousret/charset_normalizer) - Truly universal encoding detector in pure Python
+- [jawah/charset_normalizer](https://github.com/jawah/charset_normalizer) - Truly universal encoding detector in pure Python
 - [WestHealth/pyvis](https://github.com/WestHealth/pyvis) - Python package for creating and visualizing interactive network graphs.
 - [scrapy-plugins/scrapy-playwright](https://github.com/scrapy-plugins/scrapy-playwright) - 🎭 Playwright integration for Scrapy
 - [grantjenks/python-sortedcontainers](https://github.com/grantjenks/python-sortedcontainers) - Python Sorted Container Types: Sorted List, Sorted Dict, and Sorted Set
