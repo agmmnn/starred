@@ -619,7 +619,7 @@
 - [AMAI-GmbH/AI-Expert-Roadmap](https://github.com/AMAI-GmbH/AI-Expert-Roadmap) - Roadmap to becoming an Artificial Intelligence Expert in 2022
 - [microsoft/ML-For-Beginners](https://github.com/microsoft/ML-For-Beginners) - 12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all
 - [ml-tooling/best-of-ml-python](https://github.com/ml-tooling/best-of-ml-python) - 🏆 A ranked list of awesome machine learning Python libraries. Updated weekly.
-- [Griperis/BlenderDataVis](https://github.com/Griperis/BlenderDataVis) - Data visualisation addon for Blender
+- [zdenod/BlenderDataVis](https://github.com/zdenod/BlenderDataVis) - Data visualisation addon for Blender
 - [firmai/awesome-google-colab](https://github.com/firmai/awesome-google-colab) - Google Colaboratory Notebooks and Repositories (by @firmai)
 - [keras-team/keras](https://github.com/keras-team/keras) - Deep Learning for humans
 
