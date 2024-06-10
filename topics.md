@@ -188,6 +188,7 @@
 - [testing](#testing)
 - [twitter](#twitter)
 - [typescript](#typescript)
+- [ubuntu](#ubuntu)
 - [unity](#unity)
 - [unreal-engine](#unreal-engine)
 - [vim](#vim)
@@ -1573,6 +1574,7 @@
 
 ## nodejs 
 
+- [piku/piku](https://github.com/piku/piku) - The tiniest PaaS you've ever seen. Piku allows you to do git push deployments to your own servers.
 - [oven-sh/bun](https://github.com/oven-sh/bun) - Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
 - [dosco/llm-client](https://github.com/dosco/llm-client) - JS/TS library to make to easy to build with LLMs. Full support for various LLMs and VectorDBs, Agents, Function Calling, Chain-of-Thought, RAG, Semantic Router and more. Based on the popular Stanford 
 - [drizzle-team/drizzle-orm](https://github.com/drizzle-team/drizzle-orm) - Headless TypeScript ORM with a head. Runs on Node, Bun and Deno. Lives on the Edge and yes, it's a JavaScript ORM too 😅
@@ -2019,6 +2021,7 @@
 
 ## python 
 
+- [piku/piku](https://github.com/piku/piku) - The tiniest PaaS you've ever seen. Piku allows you to do git push deployments to your own servers.
 - [saleor/saleor](https://github.com/saleor/saleor) - Saleor Core: the high performance, composable, headless commerce API.
 - [astral-sh/rye](https://github.com/astral-sh/rye) - a Hassle-Free Python Experience
 - [xtekky/gpt4free](https://github.com/xtekky/gpt4free) - The official gpt4free repository | various collection of powerful language models
@@ -2160,6 +2163,7 @@
 
 ## raspberry-pi 
 
+- [piku/piku](https://github.com/piku/piku) - The tiniest PaaS you've ever seen. Piku allows you to do git push deployments to your own servers.
 - [sayanarijit/xplr](https://github.com/sayanarijit/xplr) - A hackable, minimal, fast TUI file explorer
 - [jarun/nnn](https://github.com/jarun/nnn) - n³ The unorthodox terminal file manager
 - [home-assistant/core](https://github.com/home-assistant/core) - :house_with_garden: Open source home automation that puts local control and privacy first.
@@ -2603,6 +2607,10 @@
 - [sentialx/multrin](https://github.com/sentialx/multrin) - Organize apps windows in tabs like in abandoned Windows Sets and more
 - [microsoft/vscode](https://github.com/microsoft/vscode) - Visual Studio Code
 - [bitrinjani/r2](https://github.com/bitrinjani/r2) - R2 Bitcoin Arbitrager is an automatic arbitrage trading system powered by Node.js + TypeScript.
+
+## ubuntu 
+
+- [piku/piku](https://github.com/piku/piku) - The tiniest PaaS you've ever seen. Piku allows you to do git push deployments to your own servers.
 
 ## unity 
 
