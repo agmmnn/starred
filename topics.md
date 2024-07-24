@@ -1554,7 +1554,7 @@
 ## nextjs 
 
 - [huuquyet/expo-next-tamagui-monorepo](https://github.com/huuquyet/expo-next-tamagui-monorepo) - Tamagui + Solito + Next + Expo + Zustand Monorepo
-- [agmmnn/streaming-avatar-playground](https://github.com/agmmnn/streaming-avatar-playground) - Next.js starter for HeyGen Interactive Streaming Avatar service with various features.
+- [agmmnn/interactive-avatar-playground](https://github.com/agmmnn/interactive-avatar-playground) - Next.js starter for HeyGen Interactive Streaming Avatar service with various features.
 - [vercel/ai-chatbot](https://github.com/vercel/ai-chatbot) - A full-featured, hackable Next.js AI chatbot built by Vercel
 - [fuma-nama/fumadocs](https://github.com/fuma-nama/fumadocs) - The powerful framework for building documentation sites in Next.js.
 - [Dokploy/dokploy](https://github.com/Dokploy/dokploy) - Open Source Alternative to Vercel, Netlify and Heroku.
