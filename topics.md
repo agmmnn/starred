@@ -1561,7 +1561,7 @@
 - [projectx-codehagen/Badget](https://github.com/projectx-codehagen/Badget) - Badget aims to simplify financial management with a user-friendly interface and robust backend
 - [sadmann7/shadcn-table](https://github.com/sadmann7/shadcn-table) - Shadcn table with server-side sorting, filtering, and pagination.
 - [timothymiller/t4-app](https://github.com/timothymiller/t4-app) - A powerful cross-platform UI toolkit for building actually native iOS, Android, macOS, Windows, Linux, and Progressive Web Apps with React (Native).
-- [chen-rn/CUA](https://github.com/chen-rn/CUA) - (no longer maintained) create-universal-app(CUA) is an opinionated template for creating fullstack universal apps (Expo, Next, tRPC, Prisma, Clerk, Solito, Tamagui)
+- [chen-rn/CUA](https://github.com/chen-rn/CUA) - (deprecateed) create-universal-app(CUA) is an opinionated template for creating fullstack universal apps (Expo, Next, tRPC, Prisma, Clerk, Solito, Tamagui)
 - [oedotme/generouted](https://github.com/oedotme/generouted) - Generated file-based routes for Vite
 - [Baroshem/next-security](https://github.com/Baroshem/next-security) - 🛡 Security plugin for Next.js based on OWASP and Helmet
 - [vercel/next.js](https://github.com/vercel/next.js) - The React Framework
@@ -2234,7 +2234,7 @@
 - [emilkowalski/sonner](https://github.com/emilkowalski/sonner) - An opinionated toast component for React.
 - [radix-ui/themes](https://github.com/radix-ui/themes) - Radix Themes is an open-source component library optimized for fast development, easy maintenance, and accessibility. Maintained by @workos.
 - [timothymiller/t4-app](https://github.com/timothymiller/t4-app) - A powerful cross-platform UI toolkit for building actually native iOS, Android, macOS, Windows, Linux, and Progressive Web Apps with React (Native).
-- [chen-rn/CUA](https://github.com/chen-rn/CUA) - (no longer maintained) create-universal-app(CUA) is an opinionated template for creating fullstack universal apps (Expo, Next, tRPC, Prisma, Clerk, Solito, Tamagui)
+- [chen-rn/CUA](https://github.com/chen-rn/CUA) - (deprecateed) create-universal-app(CUA) is an opinionated template for creating fullstack universal apps (Expo, Next, tRPC, Prisma, Clerk, Solito, Tamagui)
 - [oedotme/generouted](https://github.com/oedotme/generouted) - Generated file-based routes for Vite
 - [expo/expo](https://github.com/expo/expo) - An open-source framework for making universal native apps with React. Expo runs on Android, iOS, and the web.
 - [emilkowalski/vaul](https://github.com/emilkowalski/vaul) - An unstyled drawer component for React.
@@ -2294,7 +2294,7 @@
 ## react-native 
 
 - [timothymiller/t4-app](https://github.com/timothymiller/t4-app) - A powerful cross-platform UI toolkit for building actually native iOS, Android, macOS, Windows, Linux, and Progressive Web Apps with React (Native).
-- [chen-rn/CUA](https://github.com/chen-rn/CUA) - (no longer maintained) create-universal-app(CUA) is an opinionated template for creating fullstack universal apps (Expo, Next, tRPC, Prisma, Clerk, Solito, Tamagui)
+- [chen-rn/CUA](https://github.com/chen-rn/CUA) - (deprecateed) create-universal-app(CUA) is an opinionated template for creating fullstack universal apps (Expo, Next, tRPC, Prisma, Clerk, Solito, Tamagui)
 - [expo/expo](https://github.com/expo/expo) - An open-source framework for making universal native apps with React. Expo runs on Android, iOS, and the web.
 - [houseform/houseform](https://github.com/houseform/houseform) - Simple to use React forms, where your validation and UI code live together in harmony.
 - [tamagui/tamagui](https://github.com/tamagui/tamagui) - Style React fast with 100% parity on React Native, an optional UI kit, and optimizing compiler.
@@ -2306,7 +2306,7 @@
 
 - [atherosai/ui](https://github.com/atherosai/ui) - Simple UI examples from my social media
 - [nextui-org/nextui](https://github.com/nextui-org/nextui) - 🚀   Beautiful, fast and modern React UI library.
-- [chen-rn/CUA](https://github.com/chen-rn/CUA) - (no longer maintained) create-universal-app(CUA) is an opinionated template for creating fullstack universal apps (Expo, Next, tRPC, Prisma, Clerk, Solito, Tamagui)
+- [chen-rn/CUA](https://github.com/chen-rn/CUA) - (deprecateed) create-universal-app(CUA) is an opinionated template for creating fullstack universal apps (Expo, Next, tRPC, Prisma, Clerk, Solito, Tamagui)
 - [tremorlabs/tremor](https://github.com/tremorlabs/tremor) - React components to build charts and dashboards
 - [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source & self-hostable Heroku / Netlify / Vercel alternative.
 - [mithi/react-philosophies](https://github.com/mithi/react-philosophies) - 🧘  Things I think about when I write React code 🧘
@@ -2623,7 +2623,7 @@
 - [ax-llm/ax](https://github.com/ax-llm/ax) - Build LLM powered Agents and "Agentic workflows" based on the Stanford DSP paper.
 - [webpro-nl/knip](https://github.com/webpro-nl/knip) - ✂️  Find unused files, dependencies and exports in your JavaScript and TypeScript projects. Knip it before you ship it!
 - [timothymiller/t4-app](https://github.com/timothymiller/t4-app) - A powerful cross-platform UI toolkit for building actually native iOS, Android, macOS, Windows, Linux, and Progressive Web Apps with React (Native).
-- [chen-rn/CUA](https://github.com/chen-rn/CUA) - (no longer maintained) create-universal-app(CUA) is an opinionated template for creating fullstack universal apps (Expo, Next, tRPC, Prisma, Clerk, Solito, Tamagui)
+- [chen-rn/CUA](https://github.com/chen-rn/CUA) - (deprecateed) create-universal-app(CUA) is an opinionated template for creating fullstack universal apps (Expo, Next, tRPC, Prisma, Clerk, Solito, Tamagui)
 - [oedotme/generouted](https://github.com/oedotme/generouted) - Generated file-based routes for Vite
 - [tremorlabs/tremor](https://github.com/tremorlabs/tremor) - React components to build charts and dashboards
 - [vercel/turbo](https://github.com/vercel/turbo) - Build system optimized for JavaScript and TypeScript, written in Rust
