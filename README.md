@@ -906,7 +906,7 @@
 - [aws-samples/aws-genai-llm-chatbot](https://github.com/aws-samples/aws-genai-llm-chatbot) - A modular and comprehensive solution to deploy a Multi-LLM and Multi-RAG powered chatbot (Amazon Bedrock, Anthropic, HuggingFace, OpenAI, Meta, AI21, Cohere, Mistral) using AWS CDK on AWS
 - [katspaugh/wavesurfer.js](https://github.com/katspaugh/wavesurfer.js) - Audio waveform player
 - [vercel/ai-chatbot](https://github.com/vercel/ai-chatbot) - A full-featured, hackable Next.js AI chatbot built by Vercel
-- [fuma-nama/fumadocs](https://github.com/fuma-nama/fumadocs) - The powerful docs framework based on Next.js. Alternative to Nextra
+- [fuma-nama/fumadocs](https://github.com/fuma-nama/fumadocs) - The beautiful docs framework for Next.js. Alternative to Nextra
 - [Dokploy/dokploy](https://github.com/Dokploy/dokploy) - Open Source Alternative to Vercel, Netlify and Heroku.
 - [ajayyy/SponsorBlock](https://github.com/ajayyy/SponsorBlock) - Skip YouTube video sponsors (browser extension)
 - [HeyGen-Official/StreamingAvatarSDK](https://github.com/HeyGen-Official/StreamingAvatarSDK) - Streaming Avatar SDK
