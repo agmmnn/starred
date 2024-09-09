@@ -1584,7 +1584,7 @@
 - [huuquyet/expo-next-tamagui-monorepo](https://github.com/huuquyet/expo-next-tamagui-monorepo) - Tamagui + Solito + Next + Expo + Zustand Monorepo
 - [agmmnn/interactive-avatar-playground](https://github.com/agmmnn/interactive-avatar-playground) - Next.js starter for HeyGen Interactive Streaming Avatar service with various features.
 - [vercel/ai-chatbot](https://github.com/vercel/ai-chatbot) - A full-featured, hackable Next.js AI chatbot built by Vercel
-- [fuma-nama/fumadocs](https://github.com/fuma-nama/fumadocs) - The powerful docs framework based on Next.js. Alternative to Nextra
+- [fuma-nama/fumadocs](https://github.com/fuma-nama/fumadocs) - The beautiful docs framework for Next.js. Alternative to Nextra
 - [Dokploy/dokploy](https://github.com/Dokploy/dokploy) - Open Source Alternative to Vercel, Netlify and Heroku.
 - [atherosai/ui](https://github.com/atherosai/ui) - Simple UI examples from my social media
 - [projectx-codehagen/Badget](https://github.com/projectx-codehagen/Badget) - Badget aims to simplify financial management with a user-friendly interface and robust backend
@@ -2574,7 +2574,7 @@
 
 ## tailwindcss 
 
-- [fuma-nama/fumadocs](https://github.com/fuma-nama/fumadocs) - The powerful docs framework based on Next.js. Alternative to Nextra
+- [fuma-nama/fumadocs](https://github.com/fuma-nama/fumadocs) - The beautiful docs framework for Next.js. Alternative to Nextra
 - [projectx-codehagen/Badget](https://github.com/projectx-codehagen/Badget) - Badget aims to simplify financial management with a user-friendly interface and robust backend
 - [atilafassina/quantum](https://github.com/atilafassina/quantum) - Opinionated Tauri v2 Template with SolidStart
 - [tremorlabs/tremor](https://github.com/tremorlabs/tremor) - React components to build charts and dashboards
@@ -2663,7 +2663,7 @@
 
 - [wasp-lang/open-saas](https://github.com/wasp-lang/open-saas) - A free, open-source SaaS app starter for React & Node.js with superpowers. Full-featured. Community-driven.
 - [katspaugh/wavesurfer.js](https://github.com/katspaugh/wavesurfer.js) - Audio waveform player
-- [fuma-nama/fumadocs](https://github.com/fuma-nama/fumadocs) - The powerful docs framework based on Next.js. Alternative to Nextra
+- [fuma-nama/fumadocs](https://github.com/fuma-nama/fumadocs) - The beautiful docs framework for Next.js. Alternative to Nextra
 - [xyflow/xyflow](https://github.com/xyflow/xyflow) - React Flow | Svelte Flow - Powerful open source libraries for building node-based UIs with React (https://reactflow.dev) or Svelte (https://svelteflow.dev). Ready out-of-the-box and infinitely customi
 - [elysiajs/elysia](https://github.com/elysiajs/elysia) - Ergonomic Framework for Humans
 - [rolldown/rolldown](https://github.com/rolldown/rolldown) - Fast Rust bundler for JavaScript/TypeScript with Rollup-compatible API.
