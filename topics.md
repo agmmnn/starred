@@ -260,7 +260,7 @@
 
 ## android 
 
-- [atilafassina/quantum](https://github.com/atilafassina/quantum) - Opinionated Tauri v2 Template with SolidStart
+- [atilafassina/quantum](https://github.com/atilafassina/quantum) - Tauri + SolidStart. Batteries Included 🔋
 - [Eltion/Tiktok-SSL-Pinning-Bypass](https://github.com/Eltion/Tiktok-SSL-Pinning-Bypass) - Bypass Tiktok SSL pinning on Android devices.
 - [rust-windowing/winit](https://github.com/rust-windowing/winit) - Window handling library in pure Rust
 - [expo/expo](https://github.com/expo/expo) - An open-source framework for making universal native apps with React. Expo runs on Android, iOS, and the web.
@@ -1117,7 +1117,6 @@
 - [ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts) - Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more
 - [grafana/grafana](https://github.com/grafana/grafana) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more.
 - [huggingface/transformers](https://github.com/huggingface/transformers) - 🤗 Transformers: State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX.
-- [tauri-apps/tauri](https://github.com/tauri-apps/tauri) - Build smaller, faster, and more secure desktop applications with a web frontend.
 - [microsoft/wslg](https://github.com/microsoft/wslg) - Enabling the Windows Subsystem for Linux to include support for Wayland and X server related scenarios
 - [aio-libs/aiohttp](https://github.com/aio-libs/aiohttp) - Asynchronous HTTP client/server framework for asyncio and Python
 - [facebook/docusaurus](https://github.com/facebook/docusaurus) - Easy to maintain open source documentation websites.
@@ -1200,7 +1199,7 @@
 
 ## ios 
 
-- [atilafassina/quantum](https://github.com/atilafassina/quantum) - Opinionated Tauri v2 Template with SolidStart
+- [atilafassina/quantum](https://github.com/atilafassina/quantum) - Tauri + SolidStart. Batteries Included 🔋
 - [rust-windowing/winit](https://github.com/rust-windowing/winit) - Window handling library in pure Rust
 - [expo/expo](https://github.com/expo/expo) - An open-source framework for making universal native apps with React. Expo runs on Android, iOS, and the web.
 - [ionic-team/capacitor](https://github.com/ionic-team/capacitor) - Build cross-platform Native Progressive Web Apps for iOS, Android, and the Web ⚡️
@@ -1510,7 +1509,7 @@
 
 ## mobile 
 
-- [atilafassina/quantum](https://github.com/atilafassina/quantum) - Opinionated Tauri v2 Template with SolidStart
+- [atilafassina/quantum](https://github.com/atilafassina/quantum) - Tauri + SolidStart. Batteries Included 🔋
 - [expo/expo](https://github.com/expo/expo) - An open-source framework for making universal native apps with React. Expo runs on Android, iOS, and the web.
 - [nolimits4web/swiper](https://github.com/nolimits4web/swiper) - Most modern mobile touch slider with hardware accelerated transitions
 - [sensepost/objection](https://github.com/sensepost/objection) - 📱 objection - runtime mobile exploration
@@ -2401,7 +2400,7 @@
 
 - [yetone/get-selected-text](https://github.com/yetone/get-selected-text) - A tiny Rust library that allows you to easily obtain selected text across all platforms (macOS, Windows, Linux).
 - [ratatui/ratatui](https://github.com/ratatui/ratatui) - A Rust crate for cooking up terminal user interfaces (TUIs) 👨‍🍳🐀 https://ratatui.rs
-- [atilafassina/quantum](https://github.com/atilafassina/quantum) - Opinionated Tauri v2 Template with SolidStart
+- [atilafassina/quantum](https://github.com/atilafassina/quantum) - Tauri + SolidStart. Batteries Included 🔋
 - [rust-windowing/winit](https://github.com/rust-windowing/winit) - Window handling library in pure Rust
 - [dimusic/active-win-pos-rs](https://github.com/dimusic/active-win-pos-rs) - A small Rust library that lets you get position, size, title and a few other properties of the active window on Windows, MacOS and Linux
 - [rustformers/llm](https://github.com/rustformers/llm) - [Unmaintained, see README] An ecosystem of Rust libraries for working with large language models
@@ -2426,7 +2425,7 @@
 - [ssg/trid](https://github.com/ssg/trid) - Parser and data type for Turkish Citizenship ID numbers
 - [sunface/rust-by-practice](https://github.com/sunface/rust-by-practice) - Learning Rust By Practice,  narrowing the gap between beginner and skilled-dev through challenging examples, exercises and projects.
 - [mikaelmello/inquire](https://github.com/mikaelmello/inquire) - A Rust library for building interactive prompts
-- [tauri-apps/tauri](https://github.com/tauri-apps/tauri) - Build smaller, faster, and more secure desktop applications with a web frontend.
+- [tauri-apps/tauri](https://github.com/tauri-apps/tauri) - Build smaller, faster, and more secure desktop and mobile applications with a web frontend.
 - [starship/starship](https://github.com/starship/starship) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
 - [jplatte/turbo.fish](https://github.com/jplatte/turbo.fish) - ::&lt;&gt; ⠀ https://turbo.fish/ ⠀ &lt;&gt;::
 - [sharkdp/hyperfine](https://github.com/sharkdp/hyperfine) - A command-line benchmarking tool
@@ -2591,7 +2590,7 @@
 
 - [fuma-nama/fumadocs](https://github.com/fuma-nama/fumadocs) - The beautiful docs framework for Next.js. Alternative to Nextra
 - [projectx-codehagen/Badget](https://github.com/projectx-codehagen/Badget) - Badget aims to simplify financial management with a user-friendly interface and robust backend
-- [atilafassina/quantum](https://github.com/atilafassina/quantum) - Opinionated Tauri v2 Template with SolidStart
+- [atilafassina/quantum](https://github.com/atilafassina/quantum) - Tauri + SolidStart. Batteries Included 🔋
 - [tremorlabs/tremor](https://github.com/tremorlabs/tremor) - React components to build charts and dashboards
 - [agmmnn/badgewind](https://github.com/agmmnn/badgewind) - ▱ Tailwind-styled markdown SVG badges, basically shields.io but customizable with Tailwind.
 - [animotionjs/animotion](https://github.com/animotionjs/animotion) - 🪄 Create beautiful presentations with Svelte
@@ -2683,7 +2682,7 @@
 - [elysiajs/elysia](https://github.com/elysiajs/elysia) - Ergonomic Framework for Humans
 - [rolldown/rolldown](https://github.com/rolldown/rolldown) - Fast Rust bundler for JavaScript/TypeScript with Rollup-compatible API.
 - [projectx-codehagen/Badget](https://github.com/projectx-codehagen/Badget) - Badget aims to simplify financial management with a user-friendly interface and robust backend
-- [atilafassina/quantum](https://github.com/atilafassina/quantum) - Opinionated Tauri v2 Template with SolidStart
+- [atilafassina/quantum](https://github.com/atilafassina/quantum) - Tauri + SolidStart. Batteries Included 🔋
 - [pdovhomilja/nextcrm-app](https://github.com/pdovhomilja/nextcrm-app) - NextCRM is a CRM build on top of the latest Next.JS 14. using TypeScript,  great UI library shadcn, Prisma and MongoDB as a database.  Uploadthings as a S3 blob for document storage.
 - [Ironclad/rivet](https://github.com/Ironclad/rivet) - The open-source visual AI programming environment and TypeScript library
 - [oven-sh/bun](https://github.com/oven-sh/bun) - Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
