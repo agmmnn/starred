@@ -984,7 +984,7 @@
 
 - [wooorm/starry-night](https://github.com/wooorm/starry-night) - Syntax highlighting, like GitHub
 - [refined-github/refined-github](https://github.com/refined-github/refined-github) - :octocat: Browser extension that simplifies the GitHub interface and adds useful features
-- [rhysd/changelog-from-release](https://github.com/rhysd/changelog-from-release) - Simple changelog generator via GitHub releases
+- [rhysd/changelog-from-release](https://github.com/rhysd/changelog-from-release) - Simple changelog generator from GitHub releases
 
 ## go 
 
