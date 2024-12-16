@@ -263,7 +263,6 @@
 
 ## HTML 
 
-- [atherosai/ui](https://github.com/atherosai/ui) - Simple UI examples from my social media
 - [forgetso/search-replace](https://github.com/forgetso/search-replace) - Search and Replace Extension for Chromium based browsers
 - [krystonschwarze/coolicons](https://github.com/krystonschwarze/coolicons) - coolicons is a carefully designed collection of 440+ icons with a focus on simplicity and consistency. Perfectly suited for web, application and mobile design.
 - [thedevdojo/pines](https://github.com/thedevdojo/pines) - The Pines UI library
