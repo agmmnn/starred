@@ -115,7 +115,6 @@
 - [dnSpy/dnSpy](https://github.com/dnSpy/dnSpy) - .NET debugger and assembly editor
 - [hellzerg/optimizer](https://github.com/hellzerg/optimizer) - The finest Windows Optimizer
 - [gluschenko/unity-dark-skin](https://github.com/gluschenko/unity-dark-skin) - Switcher of UI theme in Unity Editor (light -&gt; dark) (.NET, WPF)
-- [MaxLuxon/UnityExperiments](https://github.com/MaxLuxon/UnityExperiments) - Collection of experimental Unity Projects
 - [radiatoryang/hedera](https://github.com/radiatoryang/hedera) - paint 3D ivy in the Unity Editor, watch procedurally generated meshes simulate growth and clinging in real-time
 - [Live-Charts/Live-Charts](https://github.com/Live-Charts/Live-Charts) - Simple, flexible, interactive & powerful charts, maps and gauges for .Net
 - [RandomEngy/VidCoder](https://github.com/RandomEngy/VidCoder) - A Blu-ray, DVD and video file transcoder for Windows.
@@ -847,6 +846,7 @@
 
 ## ShaderLab 
 
+- [luxonpi/UnityExperiments](https://github.com/luxonpi/UnityExperiments) - Collection of experimental Unity Projects
 - [roguecode/Unity-Simple-SRT](https://github.com/roguecode/Unity-Simple-SRT) - A super simple SRT subtitle parser
 - [keijiro/TestbedHDRP](https://github.com/keijiro/TestbedHDRP) - Testbed project for Unity HDRP (High Definition Render Pipeline)
 
