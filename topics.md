@@ -1755,6 +1755,7 @@
 
 ## others 
 
+- [google-gemini/multimodal-live-api-web-console](https://github.com/google-gemini/multimodal-live-api-web-console) - A react-based starter app for using the Multimodal Live API over websockets with Gemini
 - [upstash/jstack](https://github.com/upstash/jstack) - Build seriously fast, lightweight and end-to-end typesafe Next.js apps
 - [cyucelen/heygen-pipecat](https://github.com/cyucelen/heygen-pipecat) - 
 - [livekit-examples/realtime-playground](https://github.com/livekit-examples/realtime-playground) - Play with OpenAI's new Realtime API in your browser
