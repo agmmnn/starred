@@ -1763,6 +1763,7 @@
 
 ## others 
 
+- [SesameAILabs/csm](https://github.com/SesameAILabs/csm) - A Conversational Speech Generation Model
 - [allenai/olmocr](https://github.com/allenai/olmocr) - Toolkit for linearizing PDFs for LLM datasets/training
 - [hanshuaikang/Nping](https://github.com/hanshuaikang/Nping) - 🏎  Nping mean NB Ping, A Ping Tool in Rust with Real-Time Data and Visualizations
 - [google-gemini/multimodal-live-api-web-console](https://github.com/google-gemini/multimodal-live-api-web-console) - A react-based starter app for using the Multimodal Live API over websockets with Gemini
