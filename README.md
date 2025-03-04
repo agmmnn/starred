@@ -393,7 +393,7 @@
 - [openai/CLIP](https://github.com/openai/CLIP) - CLIP (Contrastive Language-Image Pretraining),  Predict the most relevant text snippet given an image
 - [dvschultz/ml-art-colabs](https://github.com/dvschultz/ml-art-colabs) - A list of Machine Learning Art Colabs
 - [jupyter-naas/awesome-notebooks](https://github.com/jupyter-naas/awesome-notebooks) - Data & AI Notebook templates catalog organized by tools, following the IMO (input, model, output) framework for easy usage and discovery..
-- [marceloprates/prettymaps](https://github.com/marceloprates/prettymaps) - A small set of Python functions to draw pretty maps from OpenStreetMap data. Based on osmnx, matplotlib and shapely libraries.
+- [marceloprates/prettymaps](https://github.com/marceloprates/prettymaps) - Draw pretty maps from OpenStreetMap data! Built with osmnx +matplotlib + shapely
 - [google-research/google-research](https://github.com/google-research/google-research) - Google Research
 - [biplobsd/OneClickRun](https://github.com/biplobsd/OneClickRun) - Another colab notebook!
 - [advimman/HiDT](https://github.com/advimman/HiDT) - Official repository for the paper "High-Resolution Daytime Translation Without Domain Labels" (CVPR2020, Oral)
@@ -898,6 +898,8 @@
 
 ## TypeScript 
 
+- [better-auth/better-auth](https://github.com/better-auth/better-auth) - The most comprehensive authentication framework for TypeScript
+- [rrweb-io/rrweb](https://github.com/rrweb-io/rrweb) - record and replay the web
 - [maplibre/maplibre-gl-js](https://github.com/maplibre/maplibre-gl-js) - MapLibre GL JS - Interactive vector tile maps in the browser
 - [visgl/react-map-gl](https://github.com/visgl/react-map-gl) - React friendly API wrapper around MapboxGL JS
 - [wxt-dev/wxt](https://github.com/wxt-dev/wxt) - ⚡ Next-gen Web Extension Framework
@@ -966,7 +968,7 @@
 - [junhoyeo/threads-api](https://github.com/junhoyeo/threads-api) - Unofficial, Reverse-Engineered Node.js/TypeScript client for Meta's Threads. Web UI Included.
 - [vercel/satori](https://github.com/vercel/satori) - Enlightened library to convert HTML and CSS to SVG
 - [phosphor-icons/homepage](https://github.com/phosphor-icons/homepage) - The homepage of Phosphor Icons, a flexible icon family for everyone
-- [vercel/ai](https://github.com/vercel/ai) - Build AI-powered applications with React, Svelte, Vue, and Solid
+- [vercel/ai](https://github.com/vercel/ai) - The AI Toolkit for TypeScript. From the creators of Next.js, the AI SDK is a free open-source library that gives you the tools you need to build AI-powered products.
 - [fisand/unocss-preset-shadcn](https://github.com/fisand/unocss-preset-shadcn) - 
 - [withastro/starlight](https://github.com/withastro/starlight) - 🌟 Build beautiful, accessible, high-performance documentation websites with Astro
 - [vadimdemedes/pastel](https://github.com/vadimdemedes/pastel) - 🎨 Next.js-like framework for CLIs made with Ink
