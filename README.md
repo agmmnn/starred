@@ -601,7 +601,7 @@
 - [turtlesoupy/this-word-does-not-exist](https://github.com/turtlesoupy/this-word-does-not-exist) - This Word Does Not Exist
 - [dmort27/epitran](https://github.com/dmort27/epitran) - A tool for transcribing orthographic text as IPA (International Phonetic Alphabet)
 - [scrapy-plugins/scrapy-playwright](https://github.com/scrapy-plugins/scrapy-playwright) - 🎭 Playwright integration for Scrapy
-- [stefan-it/turkish-bert](https://github.com/stefan-it/turkish-bert) - Turkish BERT/DistilBERT, ELECTRA and ConvBERT models
+- [stefan-it/turkish-bert](https://github.com/stefan-it/turkish-bert) - Turkish BERT/DistilBERT, ELECTRA, ConvBERT and T5 models
 - [grantjenks/python-sortedcontainers](https://github.com/grantjenks/python-sortedcontainers) - Python Sorted Container Types: Sorted List, Sorted Dict, and Sorted Set
 - [microsoft/playwright-python](https://github.com/microsoft/playwright-python) - Python version of the Playwright testing and automation library.
 - [httpie/cli](https://github.com/httpie/cli) - 🥧 HTTPie CLI  — modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more.
@@ -640,7 +640,7 @@
 - [egargo/pwygit](https://github.com/egargo/pwygit) - :partly_sunny: A simple weather information tool.
 - [jarun/googler](https://github.com/jarun/googler) - :mag: Google from the terminal
 - [sqlmapproject/sqlmap](https://github.com/sqlmapproject/sqlmap) - Automatic SQL injection and database takeover tool
-- [Ciphey/Ciphey](https://github.com/Ciphey/Ciphey) - ⚡ Automatically decrypt encryptions without knowing the key or cipher, decode encodings, and crack hashes ⚡
+- [bee-san/Ciphey](https://github.com/bee-san/Ciphey) - ⚡ Automatically decrypt encryptions without knowing the key or cipher, decode encodings, and crack hashes ⚡
 - [Python-World/python-mini-projects](https://github.com/Python-World/python-mini-projects) - A collection of simple python mini projects to enhance your python skills
 - [Textualize/textual](https://github.com/Textualize/textual) - The lean application framework for Python.  Build sophisticated user interfaces with a simple Python API. Run your apps in the terminal and a web browser.
 - [hzwer/ECCV2022-RIFE](https://github.com/hzwer/ECCV2022-RIFE) - ECCV2022 - Real-Time Intermediate Flow Estimation for Video Frame Interpolation
@@ -805,7 +805,7 @@
 - [johnthagen/min-sized-rust](https://github.com/johnthagen/min-sized-rust) - 🦀 How to minimize Rust binary size 📦
 - [ClementTsang/bottom](https://github.com/ClementTsang/bottom) - Yet another cross-platform graphical process/system monitor.
 - [Rigellute/spotify-tui](https://github.com/Rigellute/spotify-tui) - Spotify for the terminal written in Rust 🚀
-- [RustScan/RustScan](https://github.com/RustScan/RustScan) - 🤖 The Modern Port Scanner 🤖
+- [bee-san/RustScan](https://github.com/bee-san/RustScan) - 🤖 The Modern Port Scanner 🤖
 - [epi052/feroxbuster](https://github.com/epi052/feroxbuster) - A fast, simple, recursive content discovery tool written in Rust.
 - [kpcyrd/sniffglue](https://github.com/kpcyrd/sniffglue) - Secure multithreaded packet sniffer
 - [http-rs/surf](https://github.com/http-rs/surf) - Fast and friendly HTTP client framework for async Rust
