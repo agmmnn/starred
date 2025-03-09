@@ -2156,6 +2156,7 @@
 
 ## python 
 
+- [astral-sh/uv](https://github.com/astral-sh/uv) - An extremely fast Python package and project manager, written in Rust.
 - [darrenburns/posting](https://github.com/darrenburns/posting) - The modern API client that lives in your terminal.
 - [piku/piku](https://github.com/piku/piku) - The tiniest PaaS you've ever seen. Piku allows you to do git push deployments to your own servers.
 - [saleor/saleor](https://github.com/saleor/saleor) - Saleor Core: the high performance, composable, headless commerce API.
