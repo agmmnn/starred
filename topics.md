@@ -234,6 +234,7 @@
 
 ## ai 
 
+- [docling-project/docling](https://github.com/docling-project/docling) - Get your documents ready for gen AI
 - [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat) - 🤯 Lobe Chat - an open-source, modern-design AI chat framework. Supports Multi AI Providers( OpenAI / Claude 3 / Gemini / Ollama / DeepSeek / Qwen), Knowledge Base (file upload / knowledge management /
 - [yamadashy/repomix](https://github.com/yamadashy/repomix) - 📦 Repomix (formerly Repopack) is a powerful tool that packs your entire repository into a single, AI-friendly file. Perfect for when you need to feed your codebase to Large Language Models (LLMs) or o
 - [livekit/agents](https://github.com/livekit/agents) - Build real-time multimodal AI applications 🤖🎙️📹
@@ -1173,6 +1174,7 @@
 
 ## html 
 
+- [docling-project/docling](https://github.com/docling-project/docling) - Get your documents ready for gen AI
 - [ionic-team/capacitor](https://github.com/ionic-team/capacitor) - Build cross-platform Native Progressive Web Apps for iOS, Android, and the Web ⚡️
 - [pyscript/pyscript](https://github.com/pyscript/pyscript) - PyScript is an open source platform for Python in the browser. Try PyScript: https://pyscript.com  Examples: https://tinyurl.com/pyscript-examples  Community: https://discord.gg/HxvBtukrg2
 - [parcel-bundler/parcel](https://github.com/parcel-bundler/parcel) - The zero configuration build tool for the web. 📦🚀
@@ -1503,6 +1505,7 @@
 
 ## markdown 
 
+- [docling-project/docling](https://github.com/docling-project/docling) - Get your documents ready for gen AI
 - [shikijs/shiki](https://github.com/shikijs/shiki) - A beautiful yet powerful syntax highlighter
 - [agmmnn/badgewind](https://github.com/agmmnn/badgewind) - ▱ Tailwind-styled markdown SVG badges, basically shields.io but customizable with Tailwind.
 - [developit/snarkdown](https://github.com/developit/snarkdown) - :smirk_cat: A snarky 1kb Markdown parser written in JavaScript
