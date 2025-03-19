@@ -520,6 +520,7 @@
 
 ## Python 
 
+- [docling-project/docling](https://github.com/docling-project/docling) - Get your documents ready for gen AI
 - [SesameAILabs/csm](https://github.com/SesameAILabs/csm) - A Conversational Speech Generation Model
 - [allenai/olmocr](https://github.com/allenai/olmocr) - Toolkit for linearizing PDFs for LLM datasets/training
 - [cyucelen/heygen-pipecat](https://github.com/cyucelen/heygen-pipecat) - 
