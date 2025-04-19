@@ -206,7 +206,6 @@
 - [twitter](#twitter)
 - [typescript](#typescript)
 - [ubuntu](#ubuntu)
-- [ui-design](#ui-design)
 - [unity](#unity)
 - [unreal-engine](#unreal-engine)
 - [vim](#vim)
@@ -2016,6 +2015,7 @@
 - [overmindstudios/BlenderUpdaterCLI](https://github.com/overmindstudios/BlenderUpdaterCLI) - Command line version of BlenderUpdater
 - [sebastianstarke/AI4Animation](https://github.com/sebastianstarke/AI4Animation) - Bringing Characters to Life with Computer Brains in Unity
 - [eliemichel/MapsModelsImporter](https://github.com/eliemichel/MapsModelsImporter) - A Blender add-on to import models from google maps
+- [raysan5/raygui](https://github.com/raysan5/raygui) - A simple and easy-to-use immediate-mode gui library
 - [baowenbo/DAIN](https://github.com/baowenbo/DAIN) - Depth-Aware Video Frame Interpolation (CVPR 2019)
 - [opentoonz/opentoonz](https://github.com/opentoonz/opentoonz) - OpenToonz - An open-source full-featured 2D animation creation software
 - [darbyjohnston/DJV](https://github.com/darbyjohnston/DJV) - Professional media review software for VFX, animation, and film production
@@ -2823,11 +2823,6 @@
 ## ubuntu 
 
 - [piku/piku](https://github.com/piku/piku) - The tiniest PaaS you've ever seen. Piku allows you to do git push deployments to your own servers.
-
-## ui-design 
-
-- [lucide-icons/lucide](https://github.com/lucide-icons/lucide) - Beautiful & consistent icon toolkit made by the community. Open-source project and a fork of Feather Icons.
-- [raysan5/raygui](https://github.com/raysan5/raygui) - A simple and easy-to-use immediate-mode gui library
 
 ## unity 
 
