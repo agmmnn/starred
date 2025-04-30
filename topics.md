@@ -250,7 +250,7 @@
 - [Ironclad/rivet](https://github.com/Ironclad/rivet) - The open-source visual AI programming environment and TypeScript library
 - [jackmpcollins/magentic](https://github.com/jackmpcollins/magentic) - Seamlessly integrate LLMs as Python functions
 - [ax-llm/ax](https://github.com/ax-llm/ax) - The "official" unofficial DSPy framework. Build LLM powered agents and other workflows, based on the Stanford DSP paper.
-- [modular/max](https://github.com/modular/max) - The MAX Platform (includes Mojo)
+- [modular/modular](https://github.com/modular/modular) - The MAX Platform (includes Mojo)
 - [rustformers/llm](https://github.com/rustformers/llm) - [Unmaintained, see README] An ecosystem of Rust libraries for working with large language models
 - [TheLastBen/fast-stable-diffusion](https://github.com/TheLastBen/fast-stable-diffusion) - fast-stable-diffusion + DreamBooth
 - [hpcaitech/ColossalAI](https://github.com/hpcaitech/ColossalAI) - Making large AI models cheaper, faster and more accessible
@@ -1357,7 +1357,7 @@
 
 ## language 
 
-- [modular/max](https://github.com/modular/max) - The MAX Platform (includes Mojo)
+- [modular/modular](https://github.com/modular/modular) - The MAX Platform (includes Mojo)
 - [dariusk/corpora](https://github.com/dariusk/corpora) - A collection of small corpuses of interesting data for the creation of bots and similar stuff.
 - [jmsv/ety-python](https://github.com/jmsv/ety-python) - A Python module to discover the etymology of words
 - [ZeroX-DG/SnippetStore](https://github.com/ZeroX-DG/SnippetStore) - :tada: A snippet management app for developers :rocket:
@@ -1451,7 +1451,7 @@
 ## machine-learning 
 
 - [freedmand/semantra](https://github.com/freedmand/semantra) - Multi-tool for semantic search
-- [modular/max](https://github.com/modular/max) - The MAX Platform (includes Mojo)
+- [modular/modular](https://github.com/modular/modular) - The MAX Platform (includes Mojo)
 - [archinetai/audio-ai-timeline](https://github.com/archinetai/audio-ai-timeline) - A timeline of the latest AI models for audio generation, starting in 2023!
 - [mage-ai/mage-ai](https://github.com/mage-ai/mage-ai) - 🧙 Build, run, and manage data pipelines for integrating and transforming data.
 - [skypilot-org/skypilot](https://github.com/skypilot-org/skypilot) - SkyPilot: Run AI and batch jobs on any infra (Kubernetes or 16+ clouds). Get unified execution, cost savings, and high GPU availability via a simple interface.
