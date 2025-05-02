@@ -206,6 +206,7 @@
 - [twitter](#twitter)
 - [typescript](#typescript)
 - [ubuntu](#ubuntu)
+- [ui-design](#ui-design)
 - [unity](#unity)
 - [unreal-engine](#unreal-engine)
 - [vim](#vim)
@@ -250,7 +251,7 @@
 - [Ironclad/rivet](https://github.com/Ironclad/rivet) - The open-source visual AI programming environment and TypeScript library
 - [jackmpcollins/magentic](https://github.com/jackmpcollins/magentic) - Seamlessly integrate LLMs as Python functions
 - [ax-llm/ax](https://github.com/ax-llm/ax) - The "official" unofficial DSPy framework. Build LLM powered agents and other workflows, based on the Stanford DSP paper.
-- [modular/modular](https://github.com/modular/modular) - The MAX Platform (includes Mojo)
+- [modular/modular](https://github.com/modular/modular) - The Modular Platform (includes MAX & Mojo)
 - [rustformers/llm](https://github.com/rustformers/llm) - [Unmaintained, see README] An ecosystem of Rust libraries for working with large language models
 - [TheLastBen/fast-stable-diffusion](https://github.com/TheLastBen/fast-stable-diffusion) - fast-stable-diffusion + DreamBooth
 - [hpcaitech/ColossalAI](https://github.com/hpcaitech/ColossalAI) - Making large AI models cheaper, faster and more accessible
@@ -1357,7 +1358,7 @@
 
 ## language 
 
-- [modular/modular](https://github.com/modular/modular) - The MAX Platform (includes Mojo)
+- [modular/modular](https://github.com/modular/modular) - The Modular Platform (includes MAX & Mojo)
 - [dariusk/corpora](https://github.com/dariusk/corpora) - A collection of small corpuses of interesting data for the creation of bots and similar stuff.
 - [jmsv/ety-python](https://github.com/jmsv/ety-python) - A Python module to discover the etymology of words
 - [ZeroX-DG/SnippetStore](https://github.com/ZeroX-DG/SnippetStore) - :tada: A snippet management app for developers :rocket:
@@ -1451,7 +1452,7 @@
 ## machine-learning 
 
 - [freedmand/semantra](https://github.com/freedmand/semantra) - Multi-tool for semantic search
-- [modular/modular](https://github.com/modular/modular) - The MAX Platform (includes Mojo)
+- [modular/modular](https://github.com/modular/modular) - The Modular Platform (includes MAX & Mojo)
 - [archinetai/audio-ai-timeline](https://github.com/archinetai/audio-ai-timeline) - A timeline of the latest AI models for audio generation, starting in 2023!
 - [mage-ai/mage-ai](https://github.com/mage-ai/mage-ai) - 🧙 Build, run, and manage data pipelines for integrating and transforming data.
 - [skypilot-org/skypilot](https://github.com/skypilot-org/skypilot) - SkyPilot: Run AI and batch jobs on any infra (Kubernetes or 16+ clouds). Get unified execution, cost savings, and high GPU availability via a simple interface.
@@ -2015,7 +2016,6 @@
 - [overmindstudios/BlenderUpdaterCLI](https://github.com/overmindstudios/BlenderUpdaterCLI) - Command line version of BlenderUpdater
 - [sebastianstarke/AI4Animation](https://github.com/sebastianstarke/AI4Animation) - Bringing Characters to Life with Computer Brains in Unity
 - [eliemichel/MapsModelsImporter](https://github.com/eliemichel/MapsModelsImporter) - A Blender add-on to import models from google maps
-- [raysan5/raygui](https://github.com/raysan5/raygui) - A simple and easy-to-use immediate-mode gui library
 - [baowenbo/DAIN](https://github.com/baowenbo/DAIN) - Depth-Aware Video Frame Interpolation (CVPR 2019)
 - [opentoonz/opentoonz](https://github.com/opentoonz/opentoonz) - OpenToonz - An open-source full-featured 2D animation creation software
 - [darbyjohnston/DJV](https://github.com/darbyjohnston/DJV) - Professional media review software for VFX, animation, and film production
@@ -2823,6 +2823,11 @@
 ## ubuntu 
 
 - [piku/piku](https://github.com/piku/piku) - The tiniest PaaS you've ever seen. Piku allows you to do git push deployments to your own servers.
+
+## ui-design 
+
+- [lucide-icons/lucide](https://github.com/lucide-icons/lucide) - Beautiful & consistent icon toolkit made by the community. Open-source project and a fork of Feather Icons.
+- [raysan5/raygui](https://github.com/raysan5/raygui) - A simple and easy-to-use immediate-mode gui library
 
 ## unity 
 
