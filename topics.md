@@ -2057,7 +2057,7 @@
 - [onur/chip8](https://github.com/onur/chip8) - Rust ile CHIP-8 Emülatörü Geliştirme
 - [rust-random/rand](https://github.com/rust-random/rand) - A Rust library for random number generation.
 - [tholman/zenpen](https://github.com/tholman/zenpen) - A minimalist writing zone.
-- [microsoft/WSL](https://github.com/microsoft/WSL) - Issues found on WSL
+- [microsoft/WSL](https://github.com/microsoft/WSL) - Windows Subsystem for Linux
 - [felixse/FluentTerminal](https://github.com/felixse/FluentTerminal) - A Terminal Emulator based on UWP and web technologies.
 - [jackdp/Free-Color-Picker](https://github.com/jackdp/Free-Color-Picker) - An advanced color picker, screen magnifier and color palette manager. Windows 32 & 64-bit
 - [docopt/docopt](https://github.com/docopt/docopt) - Create *beautiful* command-line interfaces with Python
