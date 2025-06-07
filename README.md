@@ -118,7 +118,7 @@
 - [radiatoryang/hedera](https://github.com/radiatoryang/hedera) - paint 3D ivy in the Unity Editor, watch procedurally generated meshes simulate growth and clinging in real-time
 - [Live-Charts/Live-Charts](https://github.com/Live-Charts/Live-Charts) - Simple, flexible, interactive & powerful charts, maps and gauges for .Net
 - [RandomEngy/VidCoder](https://github.com/RandomEngy/VidCoder) - A Blu-ray, DVD and video file transcoder for Windows.
-- [ShareX/ShareX](https://github.com/ShareX/ShareX) - ShareX is a free and open source program that lets you capture or record any area of your screen and share it with a single press of a key. It also allows uploading images, text or other types of file
+- [ShareX/ShareX](https://github.com/ShareX/ShareX) - ShareX is a free and open-source application that enables users to capture or record any area of their screen with a single keystroke. It also supports uploading images, text, and various file types t
 - [YarnSpinnerTool/YarnSpinner](https://github.com/YarnSpinnerTool/YarnSpinner) - Yarn Spinner is a tool for building interactive dialogue in games!
 - [Tayx94/graphy](https://github.com/Tayx94/graphy) - Graphy is the ultimate, easy to use, feature packed FPS counter, stats monitor and debugger for your Unity project.
 - [wave-harmonic/crest](https://github.com/wave-harmonic/crest) - A class-leading water system implemented in Unity
