@@ -156,7 +156,7 @@
 - [patriciogonzalezvivo/glslViewer](https://github.com/patriciogonzalezvivo/glslViewer) - Console-based GLSL Sandbox for 2D/3D shaders
 - [effekseer/Effekseer](https://github.com/effekseer/Effekseer) - 
 - [opentoonz/opentoonz](https://github.com/opentoonz/opentoonz) - OpenToonz - An open-source full-featured 2D animation creation software
-- [darbyjohnston/DJV](https://github.com/darbyjohnston/DJV) - Professional media review software for VFX, animation, and film production
+- [darbyjohnston/DJV](https://github.com/darbyjohnston/DJV) - DJV is an open source application for playback and review of image sequences
 - [taichi-dev/taichi](https://github.com/taichi-dev/taichi) - Productive, portable, and performant GPU programming in Python.
 - [VirtualGL/virtualgl](https://github.com/VirtualGL/virtualgl) - Main VirtualGL repository
 - [electron/rcedit](https://github.com/electron/rcedit) - Command line tool to edit resources of exe
