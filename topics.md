@@ -162,6 +162,7 @@
 - [penetration-testing](#penetration-testing)
 - [pentesting](#pentesting)
 - [php](#php)
+- [physics](#physics)
 - [postgresql](#postgresql)
 - [powershell](#powershell)
 - [privacy](#privacy)
@@ -2077,7 +2078,6 @@
 - [jantic/DeOldify](https://github.com/jantic/DeOldify) - A Deep Learning based project for colorizing and restoring old images (and video!)
 - [demotomohiro/remocolab](https://github.com/demotomohiro/remocolab) - remocolab is a Python module to allow remote access to Google Colaboratory using SSH or TurboVNC.
 - [VirtualGL/virtualgl](https://github.com/VirtualGL/virtualgl) - Main VirtualGL repository
-- [natecraddock/projectile](https://github.com/natecraddock/projectile) - An artist-friendly tool for throwing stuff around inside Blender
 - [rasbt/deeplearning-models](https://github.com/rasbt/deeplearning-models) - A collection of various deep learning architectures, models, and tips
 - [aachman98/Sorcar](https://github.com/aachman98/Sorcar) - Procedural modeling in Blender using Node Editor
 - [alessandro-zomparelli/tissue](https://github.com/alessandro-zomparelli/tissue) - Tissue - Blender's add-on for computational design
@@ -2179,6 +2179,10 @@
 
 - [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source & self-hostable Heroku / Netlify / Vercel alternative.
 - [wxFormBuilder/wxFormBuilder](https://github.com/wxFormBuilder/wxFormBuilder) - A wxWidgets GUI Builder
+
+## physics 
+
+- [natecraddock/projectile](https://github.com/natecraddock/projectile) - An artist-friendly tool for throwing stuff around inside Blender
 
 ## postgresql 
 
