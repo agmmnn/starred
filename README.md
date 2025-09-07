@@ -181,6 +181,7 @@
 - [sonic-pi-net/sonic-pi](https://github.com/sonic-pi-net/sonic-pi) - Code. Music. Live.
 - [wjakob/instant-meshes](https://github.com/wjakob/instant-meshes) - Interactive field-aligned mesh generator
 - [tensorflow/tensorflow](https://github.com/tensorflow/tensorflow) - An Open Source Machine Learning Framework for Everyone
+- [armory3d/armory](https://github.com/armory3d/armory) - 3D Engine with Blender Integration
 
 ## CMake 
 
@@ -726,7 +727,6 @@
 - [pytorch/pytorch](https://github.com/pytorch/pytorch) - Tensors and Dynamic neural networks in Python with strong GPU acceleration
 - [JacquesLucke/animation_nodes](https://github.com/JacquesLucke/animation_nodes) - Node based visual scripting system designed for motion graphics in Blender.
 - [overmindstudios/BlenderUpdater](https://github.com/overmindstudios/BlenderUpdater) - Small crossplatform Python 3 application to update Blender to the latest buildbot version
-- [armory3d/armory](https://github.com/armory3d/armory) - 3D Engine with Blender Integration
 - [reteps/arbitrage-chances](https://github.com/reteps/arbitrage-chances) - Finding the best arbitrage opportunies for the top 100 cryptocurrencies in python3.
 - [keras-team/keras](https://github.com/keras-team/keras) - Deep Learning for humans
 - [ericjang/cryptocurrency_arbitrage](https://github.com/ericjang/cryptocurrency_arbitrage) - Automated Trading program that detects pairwise and triangular arbitrage opportunities on altcoin/bitcoin exchanges
