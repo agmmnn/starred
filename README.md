@@ -103,7 +103,7 @@
 - [Sanaxen/tecoGAN_app](https://github.com/Sanaxen/tecoGAN_app) - tecoGAN Windows application ( EXE )
 - [alelievr/HDRP-Custom-Passes](https://github.com/alelievr/HDRP-Custom-Passes) - A bunch of custom passes made for HDRP
 - [mxgmn/WaveFunctionCollapse](https://github.com/mxgmn/WaveFunctionCollapse) - Bitmap & tilemap generation from a single example with the help of ideas from quantum mechanics
-- [microsoft/PowerToys](https://github.com/microsoft/PowerToys) - Windows system utilities to maximize productivity
+- [microsoft/PowerToys](https://github.com/microsoft/PowerToys) - Microsoft PowerToys is a collection of utilities that help you customize Windows and streamline everyday tasks
 - [keijiro/Lasp](https://github.com/keijiro/Lasp) - Low-latency Audio Signal Processing plugin for Unity
 - [keijiro/LaspVfx](https://github.com/keijiro/LaspVfx) - Audio reactive Unity VFX with LASP
 - [keijiro/Rsvfx](https://github.com/keijiro/Rsvfx) - An example that shows how to connect RealSense depth camera to Unity VFX Graph
