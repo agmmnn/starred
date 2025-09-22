@@ -170,6 +170,7 @@
 - [privacy](#privacy)
 - [productivity](#productivity)
 - [programming](#programming)
+- [programming-language](#programming-language)
 - [project-management](#project-management)
 - [publishing](#publishing)
 - [pwa](#pwa)
@@ -2063,7 +2064,6 @@
 - [jagannatharjun/qbt-theme](https://github.com/jagannatharjun/qbt-theme) - collection of themes for qbittorrent
 - [jlampel/extra_lights](https://github.com/jlampel/extra_lights) - Adds physically based lights to Blender's Add menu
 - [jianbingfang/vscode-dup-checker](https://github.com/jianbingfang/vscode-dup-checker) - vscode extension to check and dedup duplicate lines
-- [hundredrabbits/Orca](https://github.com/hundredrabbits/Orca) - Esoteric Programming Language
 - [gregzaal/3D-Model-Haven](https://github.com/gregzaal/3D-Model-Haven) - Website code for 3dmodelhaven.com
 - [castano/nvidia-texture-tools](https://github.com/castano/nvidia-texture-tools) - Texture processing tools with support for Direct3D 10 and 11 formats.
 - [AcademySoftwareFoundation/MaterialX](https://github.com/AcademySoftwareFoundation/MaterialX) - MaterialX is an open standard for the exchange of rich material and look-development content across applications and renderers.
@@ -2232,6 +2232,13 @@
 - [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) - Master programming by recreating your favorite technologies from scratch.
 - [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) - freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.
 - [Chalarangelo/30-seconds-of-code](https://github.com/Chalarangelo/30-seconds-of-code) - Coding articles to level up your development skills
+
+## programming-language 
+
+- [gleam-lang/gleam](https://github.com/gleam-lang/gleam) - ⭐️ A friendly language for building type-safe, scalable systems!
+- [modular/modular](https://github.com/modular/modular) - The Modular Platform (includes MAX & Mojo)
+- [yoeo/guesslang](https://github.com/yoeo/guesslang) - Detect the programming language of a source code
+- [hundredrabbits/Orca](https://github.com/hundredrabbits/Orca) - Esoteric Programming Language
 
 ## project-management 
 
