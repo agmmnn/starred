@@ -267,6 +267,7 @@
 ## ai 
 
 - [opencode-ai/opencode](https://github.com/opencode-ai/opencode) - A powerful AI coding agent. Built for the terminal.
+- [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) - An open-source AI agent that brings the power of Gemini directly into your terminal.
 - [docling-project/docling](https://github.com/docling-project/docling) - Get your documents ready for gen AI
 - [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat) - 🤯 LobeHub - an open-source, modern design AI Agent Workspace. Supports multiple AI providers, Knowledge Base (file upload / RAG ), one click install MCP Marketplace and Artifacts / Thinking. One-click
 - [yamadashy/repomix](https://github.com/yamadashy/repomix) - 📦 Repomix is a powerful tool that packs your entire repository into a single, AI-friendly file. Perfect for when you need to feed your codebase to Large Language Models (LLMs) or other AI tools like C
@@ -295,6 +296,7 @@
 
 ## ai-agents 
 
+- [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) - An open-source AI agent that brings the power of Gemini directly into your terminal.
 - [dair-ai/Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) - 🐙 Guides, papers, lessons, notebooks and resources for prompt engineering, context engineering, RAG, and AI Agents.
 - [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - 🦜🔗 The platform for reliable agents.
 - [neuml/txtai](https://github.com/neuml/txtai) - 💡 All-in-one AI framework for semantic search, LLM orchestration and language model workflows
@@ -562,6 +564,7 @@
 
 ## cli 
 
+- [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) - An open-source AI agent that brings the power of Gemini directly into your terminal.
 - [darrenburns/posting](https://github.com/darrenburns/posting) - The modern API client that lives in your terminal.
 - [ratatui/ratatui](https://github.com/ratatui/ratatui) - A Rust crate for cooking up terminal user interfaces (TUIs) 👨‍🍳🐀 https://ratatui.rs
 - [timothymiller/t4-app](https://github.com/timothymiller/t4-app) - Full stack meta-framework for building iOS, Android, and Progressive Web Apps with Tamagui and deploying to Cloudflare.
@@ -1945,7 +1948,6 @@
 ## others 
 
 - [Bosgezenyan/rofi-nisanyansozluk.sh](https://github.com/Bosgezenyan/rofi-nisanyansozluk.sh) - Rofi için Nişanyan Sözlük: Çağdaş Türkçenin Etimolojisi
-- [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) - An open-source AI agent that brings the power of Gemini directly into your terminal.
 - [lynx-family/lynx](https://github.com/lynx-family/lynx) - Empower the Web community and invite more to build across platforms.
 - [rrweb-io/rrweb](https://github.com/rrweb-io/rrweb) - record and replay the web
 - [wxt-dev/wxt](https://github.com/wxt-dev/wxt) - ⚡ Next-gen Web Extension Framework
