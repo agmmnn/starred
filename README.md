@@ -260,7 +260,6 @@
 - [Wox-launcher/Wox](https://github.com/Wox-launcher/Wox) - A cross-platform launcher that simply works
 - [DNSCrypt/dnscrypt-proxy](https://github.com/DNSCrypt/dnscrypt-proxy) - dnscrypt-proxy 2 - A flexible DNS proxy, with support for encrypted DNS protocols.
 - [Akagi201/cryptotrader](https://github.com/Akagi201/cryptotrader) - A cryptocurrency trader for all famous exchanges
-- [ccxt/ccxt](https://github.com/ccxt/ccxt) - A cryptocurrency trading API with more than 100 exchanges in JavaScript / TypeScript / Python / C# / PHP / Go
 
 ## HLSL 
 
@@ -404,7 +403,7 @@
 - [biplobsd/OneClickRun](https://github.com/biplobsd/OneClickRun) - Another colab notebook!
 - [advimman/HiDT](https://github.com/advimman/HiDT) - Official repository for the paper "High-Resolution Daytime Translation Without Domain Labels" (CVPR2020, Oral)
 - [bmild/nerf](https://github.com/bmild/nerf) - Code release for NeRF (Neural Radiance Fields)
-- [ynshung/blender-colab](https://github.com/ynshung/blender-colab) - Render Blender 4.x scenes with Google Colaboratory
+- [ynshung/blender-colab](https://github.com/ynshung/blender-colab) - Render Blender 5.x scenes with Google Colaboratory
 - [fletchgraham/text_grapher](https://github.com/fletchgraham/text_grapher) - Render 3D animations as a series of text files.
 - [bendangnuksung/Image-OutPainting](https://github.com/bendangnuksung/Image-OutPainting) - 🏖 Keras Implementation of Painting outside the box
 - [rasbt/deeplearning-models](https://github.com/rasbt/deeplearning-models) - A collection of various deep learning architectures, models, and tips
@@ -734,6 +733,7 @@
 - [keras-team/keras](https://github.com/keras-team/keras) - Deep Learning for humans
 - [ericjang/cryptocurrency_arbitrage](https://github.com/ericjang/cryptocurrency_arbitrage) - Automated Trading program that detects pairwise and triangular arbitrage opportunities on altcoin/bitcoin exchanges
 - [maxme/bitcoin-arbitrage](https://github.com/maxme/bitcoin-arbitrage) - Bitcoin arbitrage - opportunity detector
+- [ccxt/ccxt](https://github.com/ccxt/ccxt) - A cryptocurrency trading API with more than 100 exchanges in JavaScript / TypeScript / Python / C# / PHP / Go
 
 ## QML 
 
