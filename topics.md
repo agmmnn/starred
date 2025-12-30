@@ -2174,7 +2174,7 @@
 - [eliemichel/MapsModelsImporter](https://github.com/eliemichel/MapsModelsImporter) - A Blender add-on to import models from google maps
 - [baowenbo/DAIN](https://github.com/baowenbo/DAIN) - Depth-Aware Video Frame Interpolation (CVPR 2019)
 - [opentoonz/opentoonz](https://github.com/opentoonz/opentoonz) - OpenToonz - An open-source full-featured 2D animation creation software
-- [grizzlypeak3d/DJV](https://github.com/grizzlypeak3d/DJV) - DJV is an open source application for playback and review of image sequences
+- [grizzlypeak3d/DJV](https://github.com/grizzlypeak3d/DJV) - DJV is an open source application for media playback and review
 - [DavidXanatos/priv10](https://github.com/DavidXanatos/priv10) - Privacy tool for windows with a built in firewall
 - [sybrenstuvel/random-blender-addons](https://github.com/sybrenstuvel/random-blender-addons) - My Blender addon scripts, in no particular order.
 - [mantissa-/SuperPoke](https://github.com/mantissa-/SuperPoke) - Iterative poking tool for Blender
