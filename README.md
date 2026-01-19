@@ -20,6 +20,7 @@
 - [HLSL](#hlsl)
 - [HTML](#html)
 - [Haml](#haml)
+- [Haskell](#haskell)
 - [Java](#java)
 - [JavaScript](#javascript)
 - [Jupyter Notebook](#jupyter-notebook)
@@ -288,6 +289,10 @@
 ## Haml 
 
 - [olivierlacan/keep-a-changelog](https://github.com/olivierlacan/keep-a-changelog) - If you build software, keep a changelog.
+
+## Haskell 
+
+- [kip-dili/kip](https://github.com/kip-dili/kip) - A programming language in Turkish where grammatical case and mood are part of the type system.
 
 ## Java 
 
@@ -905,6 +910,7 @@
 
 ## TypeScript 
 
+- [ilkerzg/ad-assets-generator](https://github.com/ilkerzg/ad-assets-generator) - 
 - [upstash/context7](https://github.com/upstash/context7) - Context7 MCP Server -- Up-to-date code documentation for LLMs and AI code editors
 - [mui/base-ui](https://github.com/mui/base-ui) - Unstyled UI components for building accessible web apps and design systems. From the creators of Radix, Floating UI, and Material UI.
 - [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) - An open-source AI agent that brings the power of Gemini directly into your terminal.
