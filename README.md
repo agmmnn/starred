@@ -301,6 +301,7 @@
 
 ## JavaScript 
 
+- [vercel-labs/agent-skills](https://github.com/vercel-labs/agent-skills) - 
 - [openai/openai-realtime-console](https://github.com/openai/openai-realtime-console) - React app for inspecting, building and debugging with the Realtime API
 - [anatolyzenkov/button-stealer](https://github.com/anatolyzenkov/button-stealer) - A Chrome extension that “steals” a button from every website you open.
 - [alyssaxuu/screenity](https://github.com/alyssaxuu/screenity) - The free and privacy-friendly screen recorder with no limits 🎥
@@ -910,6 +911,10 @@
 
 ## TypeScript 
 
+- [crxjs/chrome-extension-tools](https://github.com/crxjs/chrome-extension-tools) - Build cross-browser extensions with native HMR and zero-config setup
+- [NoeFabris/opencode-antigravity-auth](https://github.com/NoeFabris/opencode-antigravity-auth) - Enable Opencode to authenticate against Antigravity (Google's IDE) via OAuth so you can use Antigravity rate limits and access models like gemini-3-pro and claude-opus-4-5-thinking with your Google cr
+- [anomalyco/opencode](https://github.com/anomalyco/opencode) - The open source coding agent.
+- [vercel-labs/add-skill](https://github.com/vercel-labs/add-skill) - 
 - [ilkerzg/ad-assets-generator](https://github.com/ilkerzg/ad-assets-generator) - 
 - [upstash/context7](https://github.com/upstash/context7) - Context7 MCP Server -- Up-to-date code documentation for LLMs and AI code editors
 - [mui/base-ui](https://github.com/mui/base-ui) - Unstyled UI components for building accessible web apps and design systems. From the creators of Radix, Floating UI, and Material UI.
@@ -969,7 +974,7 @@
 - [oedotme/generouted](https://github.com/oedotme/generouted) - Generated file-based routes for Vite
 - [tremorlabs/tremor-npm](https://github.com/tremorlabs/tremor-npm) - React components to build charts and dashboards
 - [Baroshem/next-security](https://github.com/Baroshem/next-security) - 🛡 Security plugin for Next.js based on OWASP and Helmet
-- [agmmnn/badgewind](https://github.com/agmmnn/badgewind) - ▱ Tailwind-styled markdown SVG badges, basically shields.io but customizable with Tailwind.
+- [agmmnn/badgewind](https://github.com/agmmnn/badgewind) - ▱ Badgewind utility‑first, Tailwind‑styled SVG badges. Basically shields.io, but fully customizable with Tailwind classes.
 - [drizzle-team/drizzle-orm](https://github.com/drizzle-team/drizzle-orm) - ORM
 - [expo/expo](https://github.com/expo/expo) - An open-source framework for making universal native apps with React. Expo runs on Android, iOS, and the web.
 - [amplication/amplication](https://github.com/amplication/amplication) - Amplication brings order to the chaos of large-scale software development by creating Golden Paths for developers - streamlined workflows that drive consistency, enable high-quality code practices, si
