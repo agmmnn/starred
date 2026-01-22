@@ -271,6 +271,7 @@
 
 ## ai 
 
+- [Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI) - The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.
 - [opencode-ai/opencode](https://github.com/opencode-ai/opencode) - A powerful AI coding agent. Built for the terminal.
 - [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) - An open-source AI agent that brings the power of Gemini directly into your terminal.
 - [docling-project/docling](https://github.com/docling-project/docling) - Get your documents ready for gen AI
@@ -553,6 +554,7 @@
 
 ## chrome-extension 
 
+- [crxjs/chrome-extension-tools](https://github.com/crxjs/chrome-extension-tools) - Build cross-browser extensions with native HMR and zero-config setup
 - [ajayyy/SponsorBlock](https://github.com/ajayyy/SponsorBlock) - Skip YouTube video sponsors (browser extension)
 - [alyssaxuu/screenity](https://github.com/alyssaxuu/screenity) - The free and privacy-friendly screen recorder with no limits 🎥
 - [jlalmes/trpc-chrome](https://github.com/jlalmes/trpc-chrome) - tRPC adapter for Web Extensions 🧩
@@ -1200,6 +1202,7 @@
 
 ## google 
 
+- [NoeFabris/opencode-antigravity-auth](https://github.com/NoeFabris/opencode-antigravity-auth) - Enable Opencode to authenticate against Antigravity (Google's IDE) via OAuth so you can use Antigravity rate limits and access models like gemini-3-pro and claude-opus-4-5-thinking with your Google cr
 - [ax-llm/ax](https://github.com/ax-llm/ax) - The pretty much "official" DSPy framework for Typescript
 - [acheong08/Bard](https://github.com/acheong08/Bard) - Python SDK/API for reverse engineered Google Bard
 - [google/comprehensive-rust](https://github.com/google/comprehensive-rust) - This is the Rust course used by the Android team at Google. It provides you the material to quickly teach Rust.
@@ -1403,6 +1406,7 @@
 
 ## javascript 
 
+- [crxjs/chrome-extension-tools](https://github.com/crxjs/chrome-extension-tools) - Build cross-browser extensions with native HMR and zero-config setup
 - [aidenybai/react-scan](https://github.com/aidenybai/react-scan) - Scan for React performance issues and eliminate slow renders in your app
 - [openai/openai-realtime-console](https://github.com/openai/openai-realtime-console) - React app for inspecting, building and debugging with the Realtime API
 - [yamadashy/repomix](https://github.com/yamadashy/repomix) - 📦 Repomix is a powerful tool that packs your entire repository into a single, AI-friendly file. Perfect for when you need to feed your codebase to Large Language Models (LLMs) or other AI tools like C
@@ -1676,7 +1680,7 @@
 
 - [docling-project/docling](https://github.com/docling-project/docling) - Get your documents ready for gen AI
 - [shikijs/shiki](https://github.com/shikijs/shiki) - A beautiful yet powerful syntax highlighter
-- [agmmnn/badgewind](https://github.com/agmmnn/badgewind) - ▱ Tailwind-styled markdown SVG badges, basically shields.io but customizable with Tailwind.
+- [agmmnn/badgewind](https://github.com/agmmnn/badgewind) - ▱ Badgewind utility‑first, Tailwind‑styled SVG badges. Basically shields.io, but fully customizable with Tailwind classes.
 - [developit/snarkdown](https://github.com/developit/snarkdown) - :smirk_cat: A snarky 1kb Markdown parser written in JavaScript
 - [logseq/logseq](https://github.com/logseq/logseq) - A privacy-first, open-source platform for knowledge management and collaboration. Download link:  http://github.com/logseq/logseq/releases. roadmap: https://discuss.logseq.com/t/logseq-product-roadmap
 - [shuding/nextra](https://github.com/shuding/nextra) - Simple, powerful and flexible site generation framework with everything you love from Next.js.
@@ -1956,6 +1960,7 @@
 
 ## others 
 
+- [lbjlaq/Antigravity-Manager](https://github.com/lbjlaq/Antigravity-Manager) - Professional Antigravity Account Manager & Switcher. One-click seamless account switching for Antigravity Tools. Built with Tauri v2 + React (Rust).专业的 Antigravity 账号管理与切换工具。为 Antigravity 提供一键无缝账号切换功能
 - [anomalyco/opencode](https://github.com/anomalyco/opencode) - The open source coding agent.
 - [vercel-labs/add-skill](https://github.com/vercel-labs/add-skill) - 
 - [vercel-labs/agent-skills](https://github.com/vercel-labs/agent-skills) - 
@@ -2294,7 +2299,7 @@
 
 ## physics 
 
-- [natecraddock/projectile](https://github.com/natecraddock/projectile) - An artist-friendly tool for throwing stuff around inside Blender
+- [natecraddock/projectile](https://github.com/natecraddock/projectile) - Moved to https://github.com/develeon/projectile
 
 ## postgresql 
 
@@ -2360,6 +2365,7 @@
 
 ## python 
 
+- [Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI) - The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.
 - [astral-sh/uv](https://github.com/astral-sh/uv) - An extremely fast Python package and project manager, written in Rust.
 - [darrenburns/posting](https://github.com/darrenburns/posting) - The modern API client that lives in your terminal.
 - [piku/piku](https://github.com/piku/piku) - The tiniest PaaS you've ever seen. Piku allows you to do git push deployments to your own servers.
@@ -2476,6 +2482,7 @@
 
 ## pytorch 
 
+- [Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI) - The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.
 - [Denis2054/Transformers-for-NLP-2nd-Edition](https://github.com/Denis2054/Transformers-for-NLP-2nd-Edition) - Transformer models from BERT to GPT-4, environments from Hugging Face to OpenAI. Fine-tuning, training, and prompt engineering examples. A bonus section with ChatGPT, GPT-3.5-turbo, GPT-4, and DALL-E 
 - [flairNLP/flair](https://github.com/flairNLP/flair) - A very simple framework for state-of-the-art Natural Language Processing (NLP)
 - [nerfstudio-project/nerfstudio](https://github.com/nerfstudio-project/nerfstudio) - A collaboration friendly studio for NeRFs
@@ -2821,6 +2828,7 @@
 
 ## stable-diffusion 
 
+- [Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI) - The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.
 - [lkwq007/stablediffusion-infinity](https://github.com/lkwq007/stablediffusion-infinity) - Outpainting with Stable Diffusion on an infinite canvas
 - [TheLastBen/fast-stable-diffusion](https://github.com/TheLastBen/fast-stable-diffusion) - fast-stable-diffusion + DreamBooth
 - [huggingface/diffusers](https://github.com/huggingface/diffusers) - 🤗 Diffusers: State-of-the-art diffusion models for image, video, and audio generation in PyTorch.
@@ -2859,7 +2867,7 @@
 ## tailwind 
 
 - [Codehagen/Badget](https://github.com/Codehagen/Badget) - Badget aims to simplify financial management with a user-friendly interface and robust backend
-- [agmmnn/badgewind](https://github.com/agmmnn/badgewind) - ▱ Tailwind-styled markdown SVG badges, basically shields.io but customizable with Tailwind.
+- [agmmnn/badgewind](https://github.com/agmmnn/badgewind) - ▱ Badgewind utility‑first, Tailwind‑styled SVG badges. Basically shields.io, but fully customizable with Tailwind classes.
 - [tamagui/tamagui](https://github.com/tamagui/tamagui) - Style React fast with 100% parity on React Native, an optional UI kit, and optimizing compiler.
 
 ## tailwindcss 
@@ -2868,7 +2876,7 @@
 - [Codehagen/Badget](https://github.com/Codehagen/Badget) - Badget aims to simplify financial management with a user-friendly interface and robust backend
 - [atilafassina/quantum](https://github.com/atilafassina/quantum) - Tauri + SolidStart. Batteries Included 🔋
 - [tremorlabs/tremor-npm](https://github.com/tremorlabs/tremor-npm) - React components to build charts and dashboards
-- [agmmnn/badgewind](https://github.com/agmmnn/badgewind) - ▱ Tailwind-styled markdown SVG badges, basically shields.io but customizable with Tailwind.
+- [agmmnn/badgewind](https://github.com/agmmnn/badgewind) - ▱ Badgewind utility‑first, Tailwind‑styled SVG badges. Basically shields.io, but fully customizable with Tailwind classes.
 - [animotionjs/animotion](https://github.com/animotionjs/animotion) - 🪄 Create beautiful presentations with Svelte
 - [thedevdojo/pines](https://github.com/thedevdojo/pines) - The Pines UI library
 - [huntabyte/shadcn-svelte](https://github.com/huntabyte/shadcn-svelte) - shadcn/ui, but for Svelte. ✨
@@ -2984,6 +2992,7 @@
 
 ## typescript 
 
+- [crxjs/chrome-extension-tools](https://github.com/crxjs/chrome-extension-tools) - Build cross-browser extensions with native HMR and zero-config setup
 - [better-auth/better-auth](https://github.com/better-auth/better-auth) - The most comprehensive authentication framework for TypeScript
 - [maplibre/maplibre-gl-js](https://github.com/maplibre/maplibre-gl-js) - MapLibre GL JS - Interactive vector tile maps in the browser
 - [openai/openai-realtime-console](https://github.com/openai/openai-realtime-console) - React app for inspecting, building and debugging with the Realtime API
