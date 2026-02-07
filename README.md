@@ -775,6 +775,7 @@
 
 ## Rust 
 
+- [kane50613/takumi](https://github.com/kane50613/takumi) - JSX → Image. Faster next/og & satori alternative plus variable fonts, RTL, inline layout, WOFF2, WebP output support.
 - [YaLTeR/niri](https://github.com/YaLTeR/niri) - A scrollable-tiling Wayland compositor.
 - [tree-sitter/tree-sitter](https://github.com/tree-sitter/tree-sitter) - An incremental parsing system for programming tools
 - [get-convex/convex-backend](https://github.com/get-convex/convex-backend) - The open-source reactive database for app developers
@@ -889,7 +890,6 @@
 ## Shell 
 
 - [obra/superpowers](https://github.com/obra/superpowers) - An agentic skills framework & software development methodology that works.
-- [Bosgezenyan/rofi-nisanyansozluk.sh](https://github.com/Bosgezenyan/rofi-nisanyansozluk.sh) - Rofi için Nişanyan Sözlük: Çağdaş Türkçenin Etimolojisi
 - [githubnext/monaspace](https://github.com/githubnext/monaspace) - An innovative superfamily of fonts for code
 - [cleanbrowsing/dnsperftest](https://github.com/cleanbrowsing/dnsperftest) - DNS Performance test
 - [mkorthof/freenom-script](https://github.com/mkorthof/freenom-script) - Freenom.com Domain Renewal and Dynamic DNS script
@@ -933,6 +933,7 @@
 
 ## TypeScript 
 
+- [KeygraphHQ/shannon](https://github.com/KeygraphHQ/shannon) - Fully autonomous AI hacker to find actual exploits in your web apps. Shannon has achieved a 96.15% success rate on the hint-free, source-aware XBOW Benchmark.
 - [inokawa/virtua](https://github.com/inokawa/virtua) - A zero-config, fast and small (~3kB) virtual list (and grid) component for React, Vue, Solid and Svelte.
 - [captbaritone/webamp](https://github.com/captbaritone/webamp) - Winamp 2 reimplemented for the browser
 - [google-labs-code/jules-sdk](https://github.com/google-labs-code/jules-sdk) - 
