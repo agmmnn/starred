@@ -1593,6 +1593,7 @@
 
 ## llm 
 
+- [p-e-w/heretic](https://github.com/p-e-w/heretic) - Fully automatic censorship removal for language models
 - [NirDiamant/agents-towards-production](https://github.com/NirDiamant/agents-towards-production) - This repository delivers end-to-end, code-first tutorials covering every layer of production-grade GenAI agents, guiding you from spark to scale with proven patterns and reusable blueprints for real-w
 - [google/langextract](https://github.com/google/langextract) - A Python library for extracting structured information from unstructured text using LLMs with precise source grounding and interactive visualization.
 - [affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code) - Complete Claude Code configuration collection - agents, skills, hooks, commands, rules, MCPs. Battle-tested configs from an Anthropic hackathon winner.
@@ -1770,6 +1771,7 @@
 
 ## music 
 
+- [steipete/songsee](https://github.com/steipete/songsee) - 🌊 FFT so pretty, your ears will be jealous. See your sound—spectrograms, mel, chroma, and more.
 - [katspaugh/wavesurfer.js](https://github.com/katspaugh/wavesurfer.js) - Audio waveform player
 - [sonic-pi-net/sonic-pi](https://github.com/sonic-pi-net/sonic-pi) - Code. Music. Live.
 
@@ -1819,6 +1821,7 @@
 
 ## nextjs 
 
+- [shadcnspace/shadcnspace](https://github.com/shadcnspace/shadcnspace) - Open-source shadcn/ui blocks, components, and layouts built with React, Tailwind, and Base UI.
 - [livekit-examples/livestream](https://github.com/livekit-examples/livestream) - 
 - [huuquyet/expo-next-tamagui-monorepo](https://github.com/huuquyet/expo-next-tamagui-monorepo) - Tamagui + Solito + Next + Expo + Zustand Monorepo
 - [agmmnn/interactive-avatar-playground](https://github.com/agmmnn/interactive-avatar-playground) - Next.js starter for HeyGen Interactive Streaming Avatar service with various features.
@@ -1986,6 +1989,9 @@
 
 ## others 
 
+- [TanStack/hotkeys](https://github.com/TanStack/hotkeys) - Type-Safe keyboard shortcuts library with awesome devtools
+- [tobi/qmd](https://github.com/tobi/qmd) - mini cli search engine for your docs, knowledge bases, meeting notes, whatever. Tracking current sota approaches while being all local
+- [zeroclaw-labs/zeroclaw](https://github.com/zeroclaw-labs/zeroclaw) - Fast, small, and fully autonomous AI assistant infrastructure — deploy anywhere, swap anything 🦀
 - [ELPROFUG0/TexTab](https://github.com/ELPROFUG0/TexTab) - TexTab - macOS text utility app
 - [sanity-labs/react-logo-soup](https://github.com/sanity-labs/react-logo-soup) - normalizes and harmonizes logo visuals
 - [agmmnn/tureng-raycast](https://github.com/agmmnn/tureng-raycast) - ⏺ A fast, lightweight Tureng dictionary extension for Raycast with autocomplete, favorites, and selected text lookup.
@@ -2006,7 +2012,6 @@
 - [fal-ai/fal](https://github.com/fal-ai/fal) - ⚡ Fastest way to serve open source ML models to millions
 - [obra/superpowers](https://github.com/obra/superpowers) - An agentic skills framework & software development methodology that works.
 - [black-forest-labs/flux2](https://github.com/black-forest-labs/flux2) - Official inference repo for FLUX.2 models
-- [lbjlaq/Antigravity-Manager](https://github.com/lbjlaq/Antigravity-Manager) - Professional Antigravity Account Manager & Switcher. One-click seamless account switching for Antigravity Tools. Built with Tauri v2 + React (Rust).专业的 Antigravity 账号管理与切换工具。为 Antigravity 提供一键无缝账号切换功能
 - [anomalyco/opencode](https://github.com/anomalyco/opencode) - The open source coding agent.
 - [vercel-labs/skills](https://github.com/vercel-labs/skills) - The open agent skills tool - npx skills
 - [ilkerzg/ad-assets-generator](https://github.com/ilkerzg/ad-assets-generator) - 
@@ -2580,6 +2585,7 @@
 
 ## react 
 
+- [shadcnspace/shadcnspace](https://github.com/shadcnspace/shadcnspace) - Open-source shadcn/ui blocks, components, and layouts built with React, Tailwind, and Base UI.
 - [bklit/bklit-ui](https://github.com/bklit/bklit-ui) - Open-source UI & Charts library
 - [kane50613/takumi](https://github.com/kane50613/takumi) - JSX → Image. Faster next/og & satori alternative plus variable fonts, RTL, inline layout, WOFF2, WebP output support.
 - [inokawa/virtua](https://github.com/inokawa/virtua) - A zero-config, fast and small (~3kB) virtual list (and grid) component for React, Vue, Solid and Svelte.
@@ -2939,6 +2945,7 @@
 
 ## tailwindcss 
 
+- [shadcnspace/shadcnspace](https://github.com/shadcnspace/shadcnspace) - Open-source shadcn/ui blocks, components, and layouts built with React, Tailwind, and Base UI.
 - [fuma-nama/fumadocs](https://github.com/fuma-nama/fumadocs) - The beautiful & flexible React.js docs framework.
 - [Codehagen/Badget](https://github.com/Codehagen/Badget) - Badget aims to simplify financial management with a user-friendly interface and robust backend
 - [atilafassina/quantum](https://github.com/atilafassina/quantum) - Tauri + SolidStart. Batteries Included 🔋
@@ -3059,6 +3066,7 @@
 
 ## typescript 
 
+- [shadcnspace/shadcnspace](https://github.com/shadcnspace/shadcnspace) - Open-source shadcn/ui blocks, components, and layouts built with React, Tailwind, and Base UI.
 - [bklit/bklit-ui](https://github.com/bklit/bklit-ui) - Open-source UI & Charts library
 - [web-infra-dev/rsbuild](https://github.com/web-infra-dev/rsbuild) - Simple, fast, extensible build tool. Powered by Rspack 🦀
 - [software-mansion/TypeGPU](https://github.com/software-mansion/TypeGPU) - A modular and open-ended toolkit for WebGPU, with advanced type inference and the ability to write shaders in TypeScript
@@ -3210,6 +3218,7 @@
 
 ## visualization 
 
+- [steipete/songsee](https://github.com/steipete/songsee) - 🌊 FFT so pretty, your ears will be jealous. See your sound—spectrograms, mel, chroma, and more.
 - [jberg/butterchurn](https://github.com/jberg/butterchurn) - Butterchurn is a WebGL implementation of the Milkdrop Visualizer
 - [motion-canvas/motion-canvas](https://github.com/motion-canvas/motion-canvas) - Visualize Your Ideas With Code
 - [red-data-tools/YouPlot](https://github.com/red-data-tools/YouPlot) - A command line tool that draw plots on the terminal.
