@@ -134,6 +134,7 @@
 
 ## C++ 
 
+- [blackboardsh/electrobun](https://github.com/blackboardsh/electrobun) - Build ultra fast, tiny, and cross-platform desktop apps with Typescript.
 - [lynx-family/lynx](https://github.com/lynx-family/lynx) - Empower the Web community and invite more to build across platforms.
 - [ggml-org/whisper.cpp](https://github.com/ggml-org/whisper.cpp) - Port of OpenAI's Whisper model in C/C++
 - [acidanthera/MacHyperVSupport](https://github.com/acidanthera/MacHyperVSupport) - Hyper-V integration support for macOS
@@ -263,6 +264,7 @@
 - [Wox-launcher/Wox](https://github.com/Wox-launcher/Wox) - A cross-platform launcher that simply works
 - [DNSCrypt/dnscrypt-proxy](https://github.com/DNSCrypt/dnscrypt-proxy) - dnscrypt-proxy 2 - A flexible DNS proxy, with support for encrypted DNS protocols.
 - [Akagi201/cryptotrader](https://github.com/Akagi201/cryptotrader) - A cryptocurrency trader for all famous exchanges
+- [ccxt/ccxt](https://github.com/ccxt/ccxt) - A cryptocurrency trading API with more than 100 exchanges in JavaScript / TypeScript / Python / C# / PHP / Go
 
 ## HLSL 
 
@@ -304,6 +306,7 @@
 
 ## JavaScript 
 
+- [gsd-build/get-shit-done](https://github.com/gsd-build/get-shit-done) - A light-weight and powerful meta-prompting, context engineering and spec-driven development system for Claude Code and OpenCode.
 - [coreyhaines31/marketingskills](https://github.com/coreyhaines31/marketingskills) - Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.
 - [anvaka/map-of-reddit](https://github.com/anvaka/map-of-reddit) - Interactive map of reddit
 - [jberg/butterchurn](https://github.com/jberg/butterchurn) - Butterchurn is a WebGL implementation of the Milkdrop Visualizer
@@ -757,7 +760,6 @@
 - [keras-team/keras](https://github.com/keras-team/keras) - Deep Learning for humans
 - [ericjang/cryptocurrency_arbitrage](https://github.com/ericjang/cryptocurrency_arbitrage) - Automated Trading program that detects pairwise and triangular arbitrage opportunities on altcoin/bitcoin exchanges
 - [maxme/bitcoin-arbitrage](https://github.com/maxme/bitcoin-arbitrage) - Bitcoin arbitrage - opportunity detector
-- [ccxt/ccxt](https://github.com/ccxt/ccxt) - A cryptocurrency trading API with more than 100 exchanges in JavaScript / TypeScript / Python / C# / PHP / Go
 
 ## QML 
 
@@ -936,6 +938,8 @@
 
 ## TypeScript 
 
+- [millionco/react-doctor](https://github.com/millionco/react-doctor) - Let coding agents diagnose and fix your React code
+- [vercel-labs/portless](https://github.com/vercel-labs/portless) - Replace port numbers with stable, named .localhost URLs. For humans and agents.
 - [agmmnn/ray-menu](https://github.com/agmmnn/ray-menu) - 𖤓 Radial (pie) menu for the web. Infinite selection, submenus, keyboard nav, drag & drop, and theming.
 - [TanStack/hotkeys](https://github.com/TanStack/hotkeys) - Type-Safe keyboard shortcuts library with awesome devtools
 - [shadcnspace/shadcnspace](https://github.com/shadcnspace/shadcnspace) - Open-source shadcn/ui blocks, components, and layouts built with React, Tailwind, and Base UI.
@@ -1113,7 +1117,7 @@
 - [vercel/swr](https://github.com/vercel/swr) - React Hooks for Data Fetching
 - [eramdam/BetterTweetDeck](https://github.com/eramdam/BetterTweetDeck) - A browser extension to improve TweetDeck with a lot of features
 - [CartoDB/CartoColor](https://github.com/CartoDB/CartoColor) - CartoColors as a node module
-- [AykutSarac/jsoncrack.com](https://github.com/AykutSarac/jsoncrack.com) - ✨ Innovative and open-source visualization application that transforms various data formats, such as JSON, YAML, XML, CSV and more, into interactive graphs.
+- [AykutSarac/jsoncrack.com](https://github.com/AykutSarac/jsoncrack.com) - ✨ Innovative and open-source visualization application that transforms various data formats, such as JSON, YAML, XML and CSV into interactive graphs.
 - [bokeh/bokeh](https://github.com/bokeh/bokeh) - Interactive Data Visualization in the browser, from  Python
 - [multiprocessio/datastation](https://github.com/multiprocessio/datastation) - App to easily query, script, and visualize data from every database, file, and API.
 - [microsoft/playwright](https://github.com/microsoft/playwright) - Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.
