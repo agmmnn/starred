@@ -158,7 +158,7 @@
 - [patriciogonzalezvivo/glslViewer](https://github.com/patriciogonzalezvivo/glslViewer) - Console-based GLSL Sandbox for 2D/3D shaders
 - [effekseer/Effekseer](https://github.com/effekseer/Effekseer) - 
 - [opentoonz/opentoonz](https://github.com/opentoonz/opentoonz) - OpenToonz - An open-source full-featured 2D animation creation software
-- [grizzlypeak3d/DJV](https://github.com/grizzlypeak3d/DJV) - DJV is an open source application for media playback and review
+- [grizzlypeak3d/DJV](https://github.com/grizzlypeak3d/DJV) - DJV is an open source application featuring frame-accurate review for film, VFX & animation. Use it for dailies, shot review, A/B comparison, and post-production workflows where precision and speed ma
 - [taichi-dev/taichi](https://github.com/taichi-dev/taichi) - Productive, portable, and performant GPU programming in Python.
 - [VirtualGL/virtualgl](https://github.com/VirtualGL/virtualgl) - Main VirtualGL repository
 - [electron/rcedit](https://github.com/electron/rcedit) - Command line tool to edit resources of exe
@@ -264,7 +264,6 @@
 - [Wox-launcher/Wox](https://github.com/Wox-launcher/Wox) - A cross-platform launcher that simply works
 - [DNSCrypt/dnscrypt-proxy](https://github.com/DNSCrypt/dnscrypt-proxy) - dnscrypt-proxy 2 - A flexible DNS proxy, with support for encrypted DNS protocols.
 - [Akagi201/cryptotrader](https://github.com/Akagi201/cryptotrader) - A cryptocurrency trader for all famous exchanges
-- [ccxt/ccxt](https://github.com/ccxt/ccxt) - A cryptocurrency trading API with more than 100 exchanges in JavaScript / TypeScript / Python / C# / PHP / Go
 
 ## HLSL 
 
@@ -760,6 +759,7 @@
 - [keras-team/keras](https://github.com/keras-team/keras) - Deep Learning for humans
 - [ericjang/cryptocurrency_arbitrage](https://github.com/ericjang/cryptocurrency_arbitrage) - Automated Trading program that detects pairwise and triangular arbitrage opportunities on altcoin/bitcoin exchanges
 - [maxme/bitcoin-arbitrage](https://github.com/maxme/bitcoin-arbitrage) - Bitcoin arbitrage - opportunity detector
+- [ccxt/ccxt](https://github.com/ccxt/ccxt) - A cryptocurrency trading API with more than 100 exchanges in JavaScript / TypeScript / Python / C# / PHP / Go
 
 ## QML 
 
@@ -779,6 +779,7 @@
 
 ## Rust 
 
+- [block/goose](https://github.com/block/goose) - an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM
 - [zeroclaw-labs/zeroclaw](https://github.com/zeroclaw-labs/zeroclaw) - Fast, small, and fully autonomous AI assistant infrastructure — deploy anywhere, swap anything 🦀
 - [kane50613/takumi](https://github.com/kane50613/takumi) - JSX → Image. Faster next/og & satori alternative plus variable fonts, RTL, inline layout, WOFF2, WebP output support.
 - [niri-wm/niri](https://github.com/niri-wm/niri) - A scrollable-tiling Wayland compositor.
@@ -938,6 +939,7 @@
 
 ## TypeScript 
 
+- [Ryandonofrio3/osgrep](https://github.com/Ryandonofrio3/osgrep) - Open Source Semantic Search for your AI Agent
 - [millionco/react-doctor](https://github.com/millionco/react-doctor) - Let coding agents diagnose and fix your React code
 - [vercel-labs/portless](https://github.com/vercel-labs/portless) - Replace port numbers with stable, named .localhost URLs. For humans and agents.
 - [agmmnn/ray-menu](https://github.com/agmmnn/ray-menu) - 𖤓 Radial (pie) menu for the web. Infinite selection, submenus, keyboard nav, drag & drop, and theming.
@@ -994,7 +996,7 @@
 - [agmmnn/interactive-avatar-playground](https://github.com/agmmnn/interactive-avatar-playground) - Next.js starter for HeyGen Interactive Streaming Avatar service with various features.
 - [aws-samples/aws-genai-llm-chatbot](https://github.com/aws-samples/aws-genai-llm-chatbot) - A modular and comprehensive solution to deploy a Multi-LLM and Multi-RAG powered chatbot (Amazon Bedrock, Anthropic, HuggingFace, OpenAI, Meta, AI21, Cohere, Mistral) using AWS CDK on AWS
 - [katspaugh/wavesurfer.js](https://github.com/katspaugh/wavesurfer.js) - Audio waveform player
-- [vercel/ai-chatbot](https://github.com/vercel/ai-chatbot) - A full-featured, hackable Next.js AI chatbot built by Vercel
+- [vercel/openchat](https://github.com/vercel/openchat) - A full-featured, hackable Next.js AI chatbot built by Vercel
 - [fuma-nama/fumadocs](https://github.com/fuma-nama/fumadocs) - The beautiful & flexible React.js docs framework.
 - [Dokploy/dokploy](https://github.com/Dokploy/dokploy) - Open Source Alternative to Vercel, Netlify and Heroku.
 - [ajayyy/SponsorBlock](https://github.com/ajayyy/SponsorBlock) - Skip YouTube video sponsors (browser extension)
