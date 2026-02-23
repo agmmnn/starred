@@ -541,6 +541,7 @@
 
 ## Python 
 
+- [isaacus-dev/semchunk](https://github.com/isaacus-dev/semchunk) - A fast, lightweight and easy-to-use Python library for splitting text into semantically meaningful chunks.
 - [p-e-w/heretic](https://github.com/p-e-w/heretic) - Fully automatic censorship removal for language models
 - [nicotine-plus/nicotine-plus](https://github.com/nicotine-plus/nicotine-plus) - Graphical client for the Soulseek peer-to-peer network
 - [MoonshotAI/kimi-cli](https://github.com/MoonshotAI/kimi-cli) - Kimi Code CLI is your next CLI agent.
