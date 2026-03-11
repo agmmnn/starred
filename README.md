@@ -952,7 +952,7 @@
 - [Ryandonofrio3/osgrep](https://github.com/Ryandonofrio3/osgrep) - Open Source Semantic Search for your AI Agent
 - [blackboardsh/electrobun](https://github.com/blackboardsh/electrobun) - Build ultra fast, tiny, and cross-platform desktop apps with Typescript.
 - [millionco/react-doctor](https://github.com/millionco/react-doctor) - Let coding agents diagnose and fix your React code
-- [vercel-labs/portless](https://github.com/vercel-labs/portless) - Replace port numbers with stable, named .localhost URLs. For humans and agents.
+- [vercel-labs/portless](https://github.com/vercel-labs/portless) - Replace port numbers with stable, named local URLs. For humans and agents.
 - [agmmnn/ray-menu](https://github.com/agmmnn/ray-menu) - 𖤓 Radial (pie) menu for the web. Infinite selection, submenus, keyboard nav, drag & drop, and theming.
 - [TanStack/hotkeys](https://github.com/TanStack/hotkeys) - Type-Safe keyboard shortcuts library with awesome devtools
 - [shadcnspace/shadcnspace](https://github.com/shadcnspace/shadcnspace) - Open-source shadcn/ui blocks, components, and layouts built with React, Tailwind, Radix UI and Base UI.
