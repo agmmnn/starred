@@ -487,6 +487,8 @@
 
 ## Others 
 
+- [hardikpandya/stop-slop](https://github.com/hardikpandya/stop-slop) - A skill file for removing AI tells from prose
+- [emilkowalski/skill](https://github.com/emilkowalski/skill) - A skill file based on the articles written on my personal site. Designed for designers and engineers to help them build better user interfaces.
 - [serenakeyitan/awesome-notebookLM-prompts](https://github.com/serenakeyitan/awesome-notebookLM-prompts) - A curated collection of the strongest NotebookLM slide prompts sourced from the real creative underground . Your go-to resource for AI powerpoint :P
 - [gemini-cli-extensions/stitch](https://github.com/gemini-cli-extensions/stitch) - The Stitch extension for Gemini CLI enables you to interact with the Stitch MCP server using natural language commands.
 - [google-labs-code/jules-action](https://github.com/google-labs-code/jules-action) - Add a powerful cloud coding agent to your GitHub workflows
@@ -548,6 +550,8 @@
 
 ## Python 
 
+- [googlecolab/colab-mcp](https://github.com/googlecolab/colab-mcp) - An MCP server for interacting with Google Colab
+- [mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills) - Open-source database of 700+ cybersecurity skills for AI agents and security practitioners
 - [volcengine/OpenViking](https://github.com/volcengine/OpenViking) - OpenViking is an open-source context database designed specifically for AI Agents(such as openclaw). OpenViking unifies the management of context (memory, resources, and skills) that Agents need throu
 - [666ghj/MiroFish](https://github.com/666ghj/MiroFish) - A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物
 - [teng-lin/notebooklm-py](https://github.com/teng-lin/notebooklm-py) - Unofficial Python API and agentic skill for Google NotebookLM. Full programmatic access to NotebookLM's features—including capabilities the web UI doesn't expose—via Python, CLI, and AI agents like Cl
@@ -958,6 +962,8 @@
 
 ## TypeScript 
 
+- [agmmnn/n8n-nodes-notebooklm-sdk](https://github.com/agmmnn/n8n-nodes-notebooklm-sdk) - n8n community node for NotebookLM. Manage notebooks, sources, artifacts, chat, and notes.
+- [raphaelsalaja/userinterface-wiki](https://github.com/raphaelsalaja/userinterface-wiki) - A Living Manual for Better Interfaces
 - [garrytan/gstack](https://github.com/garrytan/gstack) - Use Garry Tan's exact Claude Code setup: 10 opinionated tools that serve as CEO, Eng Manager, Release Manager, Doc Engineer, and QA
 - [agmmnn/notebooklm-sdk](https://github.com/agmmnn/notebooklm-sdk) - TypeScript/Node.js SDK for NotebookLM. Manage notebooks, chat with sources, and generate podcasts, reports.
 - [paperclipai/paperclip](https://github.com/paperclipai/paperclip) - Open-source orchestration for zero-human companies
