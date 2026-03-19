@@ -143,7 +143,7 @@
 - [alexkay/spek](https://github.com/alexkay/spek) - Acoustic spectrum analyser
 - [WerWolv/ImHex](https://github.com/WerWolv/ImHex) - 🔍 A Hex Editor for Reverse Engineers, Programmers and people who value their retinas when working at 3 AM.
 - [paolo-projects/auto-unlocker](https://github.com/paolo-projects/auto-unlocker) - Unlocker for VMWare macOS
-- [mausimus/ShaderGlass](https://github.com/mausimus/ShaderGlass) - Overlay for running GPU shaders on top of Windows desktop
+- [mausimus/ShaderGlass](https://github.com/mausimus/ShaderGlass) - Overlay for running GPU shaders on top of Windows desktop and Wine
 - [hoffstadt/DearPyGui](https://github.com/hoffstadt/DearPyGui) - Dear PyGui: A fast and powerful Graphical User Interface Toolkit for Python with minimal dependencies
 - [qgis/QGIS](https://github.com/qgis/QGIS) - QGIS is a free, open source, cross platform (lin/win/mac) geographical information system (GIS)
 - [microsoft/wslg](https://github.com/microsoft/wslg) - Enabling the Windows Subsystem for Linux to include support for Wayland and X server related scenarios
@@ -451,7 +451,6 @@
 ## MDX 
 
 - [openui/open-ui](https://github.com/openui/open-ui) - Maintain an open standard for UI and promote its adherence and adoption.
-- [shuding/cobe](https://github.com/shuding/cobe) - 5kB WebGL globe lib.
 - [dair-ai/Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) - 🐙 Guides, papers, lessons, notebooks and resources for prompt engineering, context engineering, RAG, and AI Agents.
 - [uidotdev/usehooks](https://github.com/uidotdev/usehooks) - A collection of modern, server-safe React hooks – from the ui.dev team
 - [phuocng/1loc](https://github.com/phuocng/1loc) - What's your favorite JavaScript single LOC (line of code)?
@@ -487,6 +486,7 @@
 
 ## Others 
 
+- [DeckardGer/tanstack-agent-skills](https://github.com/DeckardGer/tanstack-agent-skills) - TanStack Agent Skills: Best practices for TanStack Query, Router, and Start for AI coding agents
 - [hardikpandya/stop-slop](https://github.com/hardikpandya/stop-slop) - A skill file for removing AI tells from prose
 - [emilkowalski/skill](https://github.com/emilkowalski/skill) - A skill file based on the articles written on my personal site. Designed for designers and engineers to help them build better user interfaces.
 - [serenakeyitan/awesome-notebookLM-prompts](https://github.com/serenakeyitan/awesome-notebookLM-prompts) - A curated collection of the strongest NotebookLM slide prompts sourced from the real creative underground . Your go-to resource for AI powerpoint :P
@@ -800,6 +800,7 @@
 
 ## Rust 
 
+- [voidzero-dev/vite-plus](https://github.com/voidzero-dev/vite-plus) - Vite+ is the unified toolchain and entry point for web development. It manages your runtime, package manager, and frontend toolchain in one place.
 - [googleworkspace/cli](https://github.com/googleworkspace/cli) - Google Workspace CLI — one command-line tool for Drive, Gmail, Calendar, Sheets, Docs, Chat, Admin, and more. Dynamically built from Google Discovery Service. Includes AI agent skills.
 - [karinushka/paneru](https://github.com/karinushka/paneru) - A sliding, tiling window manager for MacOS.
 - [sinelaw/fresh](https://github.com/sinelaw/fresh) - Terminal based IDE & text editor: easy, powerful and fast
@@ -918,6 +919,7 @@
 
 ## Shell 
 
+- [tw93/Mole](https://github.com/tw93/Mole) - 🐹 Deep clean and optimize your Mac.
 - [obra/superpowers](https://github.com/obra/superpowers) - An agentic skills framework & software development methodology that works.
 - [githubnext/monaspace](https://github.com/githubnext/monaspace) - An innovative superfamily of fonts for code
 - [cleanbrowsing/dnsperftest](https://github.com/cleanbrowsing/dnsperftest) - DNS Performance test
@@ -962,6 +964,7 @@
 
 ## TypeScript 
 
+- [google-labs-code/stitch-sdk](https://github.com/google-labs-code/stitch-sdk) - Generate UI screens from text prompts and extract their HTML and screenshots programmatically.
 - [agmmnn/n8n-nodes-notebooklm-sdk](https://github.com/agmmnn/n8n-nodes-notebooklm-sdk) - n8n community node for NotebookLM. Manage notebooks, sources, artifacts, chat, and notes.
 - [raphaelsalaja/userinterface-wiki](https://github.com/raphaelsalaja/userinterface-wiki) - A Living Manual for Better Interfaces
 - [garrytan/gstack](https://github.com/garrytan/gstack) - Use Garry Tan's exact Claude Code setup: 10 opinionated tools that serve as CEO, Eng Manager, Release Manager, Doc Engineer, and QA
@@ -1075,6 +1078,7 @@
 - [lucide-icons/lucide](https://github.com/lucide-icons/lucide) - Beautiful & consistent icon toolkit made by the community. Open-source project and a fork of Feather Icons.
 - [directus/directus](https://github.com/directus/directus) - The flexible backend for all your projects 🐰 Turn your DB into a headless CMS, admin panels, or apps with a custom UI, instant APIs, auth & more.
 - [avitorio/outstatic](https://github.com/avitorio/outstatic) - Outstatic - A static CMS for Next.js
+- [shuding/cobe](https://github.com/shuding/cobe) - 5kB WebGL globe lib.
 - [junhoyeo/threads-api](https://github.com/junhoyeo/threads-api) - Unofficial, Reverse-Engineered Node.js/TypeScript client for Meta's Threads. Web UI Included.
 - [vercel/satori](https://github.com/vercel/satori) - Enlightened library to convert HTML and CSS to SVG
 - [phosphor-icons/homepage](https://github.com/phosphor-icons/homepage) - The homepage of Phosphor Icons, a flexible icon family for everyone
