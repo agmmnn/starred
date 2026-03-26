@@ -563,7 +563,7 @@
 - [teng-lin/notebooklm-py](https://github.com/teng-lin/notebooklm-py) - Unofficial Python API and agentic skill for Google NotebookLM. Full programmatic access to NotebookLM's features—including capabilities the web UI doesn't expose—via Python, CLI, and AI agents like Cl
 - [karpathy/autoresearch](https://github.com/karpathy/autoresearch) - AI agents running research on single-GPU nanochat training automatically
 - [SWE-agent/mini-swe-agent](https://github.com/SWE-agent/mini-swe-agent) - The 100 line AI agent that solves GitHub issues or helps you in your command line. Radically simple, no huge configs, no giant monorepo—but scores &gt;74% on SWE-bench verified!
-- [bytedance/deer-flow](https://github.com/bytedance/deer-flow) - An open-source SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of tasks that coul
+- [bytedance/deer-flow](https://github.com/bytedance/deer-flow) - An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of ta
 - [isaacus-dev/semchunk](https://github.com/isaacus-dev/semchunk) - A fast, lightweight and easy-to-use Python library for splitting text into semantically meaningful chunks.
 - [p-e-w/heretic](https://github.com/p-e-w/heretic) - Fully automatic censorship removal for language models
 - [nicotine-plus/nicotine-plus](https://github.com/nicotine-plus/nicotine-plus) - Graphical client for the Soulseek peer-to-peer network
