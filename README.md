@@ -226,6 +226,8 @@
 
 ## Go 
 
+- [lc/gau](https://github.com/lc/gau) - Fetch known URLs from AlienVault's Open Threat Exchange, the Wayback Machine, and Common Crawl.
+- [sw33tLie/bbscope](https://github.com/sw33tLie/bbscope) - Scope aggregation tool for HackerOne, Bugcrowd, Intigriti, YesWeHack, and Immunefi!
 - [bgreenwell/gitego](https://github.com/bgreenwell/gitego) - Your Git identity manager and automatic profile switcher. Seamlessly manage user profiles, SSH keys, and tokens across different repositories.
 - [steipete/songsee](https://github.com/steipete/songsee) - 🌊 FFT so pretty, your ears will be jealous. See your sound—spectrograms, mel, chroma, and more.
 - [opencode-ai/opencode](https://github.com/opencode-ai/opencode) - A powerful AI coding agent. Built for the terminal.
@@ -276,6 +278,7 @@
 
 ## HTML 
 
+- [OWASP/Top10](https://github.com/OWASP/Top10) - Official OWASP Top 10 Document Repository
 - [vitalets/github-trending-repos](https://github.com/vitalets/github-trending-repos) - Track GitHub trending repositories in your favorite programming language by native GitHub notifications!
 - [antonmedv/textarea](https://github.com/antonmedv/textarea) - A minimalist text editor that lives in URL
 - [tamagui/starter-free](https://github.com/tamagui/starter-free) - Tamagui React Native Starter Repo - Next, Expo, Solito
@@ -809,6 +812,7 @@
 
 ## Rust 
 
+- [junhoyeo/tokscale](https://github.com/junhoyeo/tokscale) - 🛰️ A CLI tool for tracking token usage from OpenCode, Claude Code, 🦞OpenClaw (Clawdbot/Moltbot), Pi, Codex, Gemini, Cursor, AmpCode, Factory Droid, Kimi, and more! • 🏅Global Leaderboard + 2D/3D Contri
 - [oxc-project/oxc](https://github.com/oxc-project/oxc) - ⚓ A collection of high-performance JavaScript tools.
 - [voidzero-dev/vite-plus](https://github.com/voidzero-dev/vite-plus) - Vite+ is the unified toolchain and entry point for web development. It manages your runtime, package manager, and frontend toolchain in one place.
 - [googleworkspace/cli](https://github.com/googleworkspace/cli) - Google Workspace CLI — one command-line tool for Drive, Gmail, Calendar, Sheets, Docs, Chat, Admin, and more. Dynamically built from Google Discovery Service. Includes AI agent skills.
@@ -988,7 +992,7 @@
 - [garrytan/gstack](https://github.com/garrytan/gstack) - Use Garry Tan's exact Claude Code setup: 15 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA
 - [agmmnn/notebooklm-sdk](https://github.com/agmmnn/notebooklm-sdk) - TypeScript/Node.js SDK for NotebookLM. Manage notebooks, chat with sources, and generate podcasts, reports.
 - [paperclipai/paperclip](https://github.com/paperclipai/paperclip) - Open-source orchestration for zero-human companies
-- [superset-sh/superset](https://github.com/superset-sh/superset) - IDE for the AI Agents Era - Run an army of Claude Code, Codex, etc. on your machine
+- [superset-sh/superset](https://github.com/superset-sh/superset) - Code Editor for the AI Agents Era - Run an army of Claude Code, Codex, etc. on your machine
 - [pingdotgg/t3code](https://github.com/pingdotgg/t3code) - 
 - [badlogic/pi-mono](https://github.com/badlogic/pi-mono) - AI agent toolkit: coding agent CLI, unified LLM API, TUI & web UI libraries, Slack bot, vLLM pods
 - [cloudflare/vinext](https://github.com/cloudflare/vinext) - Vite plugin that reimplements the Next.js API surface — deploy anywhere
