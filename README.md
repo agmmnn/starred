@@ -158,7 +158,7 @@
 - [patriciogonzalezvivo/glslViewer](https://github.com/patriciogonzalezvivo/glslViewer) - Console-based GLSL Sandbox for 2D/3D shaders
 - [effekseer/Effekseer](https://github.com/effekseer/Effekseer) - 
 - [opentoonz/opentoonz](https://github.com/opentoonz/opentoonz) - OpenToonz - An open-source full-featured 2D animation creation software
-- [grizzlypeak3d/DJV](https://github.com/grizzlypeak3d/DJV) - DJV is an open source image sequence player built for high resolution film, VFX & animation workflows. Use it for EXR, DPX dailies, shot review, A/B comparison, and rigorous post-production workflows.
+- [grizzlypeak3d/DJV](https://github.com/grizzlypeak3d/DJV) - Free EXR file viewer. DJV is a free, open-source high bit-depth image sequence player built for professional film, VFX & animation workflows. Use it for frame-accurate dailies, shot review, and A/B co
 - [taichi-dev/taichi](https://github.com/taichi-dev/taichi) - Productive, portable, and performant GPU programming in Python.
 - [VirtualGL/virtualgl](https://github.com/VirtualGL/virtualgl) - Main VirtualGL repository
 - [electron/rcedit](https://github.com/electron/rcedit) - Command line tool to edit resources of exe
@@ -740,7 +740,7 @@
 - [vt-vl-lab/3d-photo-inpainting](https://github.com/vt-vl-lab/3d-photo-inpainting) - [CVPR 2020] 3D Photography using Context-aware Layered Depth Inpainting
 - [scrapy/scrapy](https://github.com/scrapy/scrapy) - Scrapy, a fast high-level web crawling & scraping framework for Python.
 - [LanceGin/haishoku](https://github.com/LanceGin/haishoku) - A development tool for grabbing the dominant color or representative color palette from an image
-- [python-pillow/Pillow](https://github.com/python-pillow/Pillow) - Python Imaging Library (Fork)
+- [python-pillow/Pillow](https://github.com/python-pillow/Pillow) - Python Imaging Library (fork)
 - [rsalmei/alive-progress](https://github.com/rsalmei/alive-progress) - A new kind of Progress Bar, with real-time throughput, ETA, and very cool animations!
 - [psf/requests](https://github.com/psf/requests) - A simple, yet elegant, HTTP library.
 - [jagannatharjun/qbt-theme](https://github.com/jagannatharjun/qbt-theme) - collection of themes for qbittorrent
@@ -828,7 +828,7 @@
 - [sinelaw/fresh](https://github.com/sinelaw/fresh) - Terminal based IDE & text editor: easy, powerful and fast
 - [aaif-goose/goose](https://github.com/aaif-goose/goose) - an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM
 - [zeroclaw-labs/zeroclaw](https://github.com/zeroclaw-labs/zeroclaw) - Fast, small, and fully autonomous AI personal assistant infrastructure, ANY OS, ANY PLATFORM — deploy anywhere, swap anything 🦀
-- [kane50613/takumi](https://github.com/kane50613/takumi) - Rust-powered image renderer for JSX. Drop-in replacement for next/og.
+- [kane50613/takumi](https://github.com/kane50613/takumi) - A Rust rendering engine for turning templates into images, with next/og-compatible APIs.
 - [niri-wm/niri](https://github.com/niri-wm/niri) - A scrollable-tiling Wayland compositor.
 - [tree-sitter/tree-sitter](https://github.com/tree-sitter/tree-sitter) - An incremental parsing system for programming tools
 - [get-convex/convex-backend](https://github.com/get-convex/convex-backend) - The open-source reactive database for app developers
