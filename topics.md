@@ -538,7 +538,7 @@
 
 - [tree-sitter/tree-sitter](https://github.com/tree-sitter/tree-sitter) - An incremental parsing system for programming tools
 - [jarun/nnn](https://github.com/jarun/nnn) - n³ The unorthodox terminal file manager
-- [python-pillow/Pillow](https://github.com/python-pillow/Pillow) - Python Imaging Library (Fork)
+- [python-pillow/Pillow](https://github.com/python-pillow/Pillow) - Python Imaging Library (fork)
 - [patriciogonzalezvivo/glslViewer](https://github.com/patriciogonzalezvivo/glslViewer) - Console-based GLSL Sandbox for 2D/3D shaders
 - [raysan5/raygui](https://github.com/raysan5/raygui) - A simple and easy-to-use immediate-mode gui library
 - [CoatiSoftware/Sourcetrail](https://github.com/CoatiSoftware/Sourcetrail) - Sourcetrail - free and open-source interactive source explorer
@@ -1470,7 +1470,7 @@
 
 - [mikeroyal/Photogrammetry-Guide](https://github.com/mikeroyal/Photogrammetry-Guide) - Photogrammetry Guide.  Photogrammetry is widely used for Aerial surveying, Agriculture, Architecture, 3D Games, Robotics, Archaeology, Construction, Emergency management,  and Medical.
 - [advimman/HiDT](https://github.com/advimman/HiDT) - Official repository for the paper "High-Resolution Daytime Translation Without Domain Labels" (CVPR2020, Oral)
-- [python-pillow/Pillow](https://github.com/python-pillow/Pillow) - Python Imaging Library (Fork)
+- [python-pillow/Pillow](https://github.com/python-pillow/Pillow) - Python Imaging Library (fork)
 - [esimov/caire](https://github.com/esimov/caire) - Content aware image resize library
 - [idealo/image-super-resolution](https://github.com/idealo/image-super-resolution) - 🔎 Super-scale your images and run experiments with Residual Dense and Adversarial Networks.
 - [ilia3101/MLV-App](https://github.com/ilia3101/MLV-App) - All in one MLV processing app.
@@ -2396,7 +2396,7 @@
 - [eliemichel/MapsModelsImporter](https://github.com/eliemichel/MapsModelsImporter) - A Blender add-on to import models from google maps
 - [baowenbo/DAIN](https://github.com/baowenbo/DAIN) - Depth-Aware Video Frame Interpolation (CVPR 2019)
 - [opentoonz/opentoonz](https://github.com/opentoonz/opentoonz) - OpenToonz - An open-source full-featured 2D animation creation software
-- [grizzlypeak3d/DJV](https://github.com/grizzlypeak3d/DJV) - DJV is an open source image sequence player built for high resolution film, VFX & animation workflows. Use it for EXR, DPX dailies, shot review, A/B comparison, and rigorous post-production workflows.
+- [grizzlypeak3d/DJV](https://github.com/grizzlypeak3d/DJV) - Free EXR file viewer. DJV is a free, open-source high bit-depth image sequence player built for professional film, VFX & animation workflows. Use it for frame-accurate dailies, shot review, and A/B co
 - [DavidXanatos/priv10](https://github.com/DavidXanatos/priv10) - Privacy tool for windows with a built in firewall
 - [sybrenstuvel/random-blender-addons](https://github.com/sybrenstuvel/random-blender-addons) - My Blender addon scripts, in no particular order.
 - [mantissa-/SuperPoke](https://github.com/mantissa-/SuperPoke) - Iterative poking tool for Blender
@@ -2676,7 +2676,7 @@
 - [Textualize/rich](https://github.com/Textualize/rich) - Rich is a Python library for rich text and beautiful formatting in the terminal.
 - [3b1b/manim](https://github.com/3b1b/manim) - Animation engine for explanatory math videos
 - [scrapy/scrapy](https://github.com/scrapy/scrapy) - Scrapy, a fast high-level web crawling & scraping framework for Python.
-- [python-pillow/Pillow](https://github.com/python-pillow/Pillow) - Python Imaging Library (Fork)
+- [python-pillow/Pillow](https://github.com/python-pillow/Pillow) - Python Imaging Library (fork)
 - [rsalmei/alive-progress](https://github.com/rsalmei/alive-progress) - A new kind of Progress Bar, with real-time throughput, ETA, and very cool animations!
 - [psf/requests](https://github.com/psf/requests) - A simple, yet elegant, HTTP library.
 - [njanakiev/blender-scripting](https://github.com/njanakiev/blender-scripting) - Introduction to blender scripting
@@ -2763,7 +2763,7 @@
 - [millionco/react-doctor](https://github.com/millionco/react-doctor) - Let coding agents diagnose and fix your React code
 - [shadcnspace/shadcnspace](https://github.com/shadcnspace/shadcnspace) - Open-source shadcn/ui blocks, components, Templates and layouts built with React, Tailwind, Radix UI and Base UI.
 - [bklit/bklit-ui](https://github.com/bklit/bklit-ui) - Open-source UI & Charts library
-- [kane50613/takumi](https://github.com/kane50613/takumi) - Rust-powered image renderer for JSX. Drop-in replacement for next/og.
+- [kane50613/takumi](https://github.com/kane50613/takumi) - A Rust rendering engine for turning templates into images, with next/og-compatible APIs.
 - [inokawa/virtua](https://github.com/inokawa/virtua) - A zero-config, fast and small (~3kB) virtual list (and grid) component for React, Vue, Solid and Svelte.
 - [aidenybai/bippy](https://github.com/aidenybai/bippy) - ⚠️ hack into react internals
 - [aidenybai/react-grab](https://github.com/aidenybai/react-grab) - Select context for coding agents directly from your website
