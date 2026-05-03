@@ -988,7 +988,7 @@
 ## TypeScript 
 
 - [ilkerzg/text-to-360](https://github.com/ilkerzg/text-to-360) - Generate immersive 360° equirectangular panoramas from text or images. Powered by fal.ai.
-- [agmmnn/tauri-ui](https://github.com/agmmnn/tauri-ui) - 🦀 Tauri + shadcn/ui starter. Pick your framework and start building — Vite, Next.js, React Router, Astro, TanStack Start.
+- [agmmnn/tauri-ui](https://github.com/agmmnn/tauri-ui) - 🦀 Tauri + shadcn/ui starter. Pick your framework and start building. Vite, Next.js, React Router, Astro, TanStack Start.
 - [Eronred/expo-agent-spinners](https://github.com/Eronred/expo-agent-spinners) - 54 terminal-style agent-like spinners for React Native & Expo. Lightweight, zero native dependencies — just Text. No heavy UI threads
 - [resend/sonare](https://github.com/resend/sonare) - Pronounceable and organic words that feel natural.
 - [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes) - Write HTML. Render video. Built for agents.
