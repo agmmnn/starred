@@ -701,7 +701,7 @@
 - [tbillington/kondo](https://github.com/tbillington/kondo) - Cleans dependencies and build artifacts from your projects.
 - [cli/cli](https://github.com/cli/cli) - GitHub’s official command line tool
 - [EmbarkStudios/texture-synthesis](https://github.com/EmbarkStudios/texture-synthesis) - 🎨 Example-based texture synthesis written in Rust 🦀
-- [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,400+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
+- [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,500+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
 
 ## clojure 
 
@@ -1199,7 +1199,7 @@
 
 ## frontend 
 
-- [web-infra-dev/rsbuild](https://github.com/web-infra-dev/rsbuild) - Simple, fast, extensible build tool. Powered by Rspack 🦀
+- [web-infra-dev/rsbuild](https://github.com/web-infra-dev/rsbuild) - Fast, extensible build tool for modern web development.
 - [Dokploy/dokploy](https://github.com/Dokploy/dokploy) - Open Source Alternative to Vercel, Netlify and Heroku.
 - [expo/expo](https://github.com/expo/expo) - An open-source framework for making universal native apps with React. Expo runs on Android, iOS, and the web.
 - [facebook/react](https://github.com/facebook/react) - The library for web and native user interfaces.
@@ -1545,7 +1545,7 @@
 ## javascript 
 
 - [oxc-project/oxc](https://github.com/oxc-project/oxc) - ⚓ A collection of high-performance JavaScript tools.
-- [web-infra-dev/rsbuild](https://github.com/web-infra-dev/rsbuild) - Simple, fast, extensible build tool. Powered by Rspack 🦀
+- [web-infra-dev/rsbuild](https://github.com/web-infra-dev/rsbuild) - Fast, extensible build tool for modern web development.
 - [captbaritone/webamp](https://github.com/captbaritone/webamp) - Winamp 2 reimplemented for the browser
 - [software-mansion/TypeGPU](https://github.com/software-mansion/TypeGPU) - A modular and open-ended toolkit for WebGPU, with advanced type inference and the ability to write shaders in TypeScript
 - [crxjs/chrome-extension-tools](https://github.com/crxjs/chrome-extension-tools) - Build cross-browser extensions with native HMR and zero-config setup
@@ -2582,7 +2582,7 @@
 - [sayanarijit/xplr](https://github.com/sayanarijit/xplr) - A hackable, minimal, fast TUI file explorer
 - [files-community/Files](https://github.com/files-community/Files) - A modern file manager that helps users organize their files and folders.
 - [jarun/nnn](https://github.com/jarun/nnn) - n³ The unorthodox terminal file manager
-- [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,400+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
+- [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,500+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
 - [ShareX/ShareX](https://github.com/ShareX/ShareX) - ShareX is a free and open-source application that enables users to capture or record any area of their screen with a single keystroke. It also supports uploading images, text, and various file types t
 
 ## programming 
@@ -3089,7 +3089,7 @@
 - [fastapi/typer](https://github.com/fastapi/typer) - Typer, build great CLIs. Easy to code. Based on Python type hints.
 - [ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts) - Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more
 - [orf/gping](https://github.com/orf/gping) - Ping, but with a graph
-- [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,400+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
+- [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,500+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
 - [GitSquared/edex-ui](https://github.com/GitSquared/edex-ui) - A cross-platform, customizable science fiction terminal emulator with advanced monitoring & touchscreen support.
 
 ## software 
@@ -3245,7 +3245,7 @@
 - [rsalmei/alive-progress](https://github.com/rsalmei/alive-progress) - A new kind of Progress Bar, with real-time throughput, ETA, and very cool animations!
 - [Eugeny/tabby](https://github.com/Eugeny/tabby) - A terminal for a more modern age
 - [Powerlevel9k/powerlevel9k](https://github.com/Powerlevel9k/powerlevel9k) - Powerlevel9k was a tool for building a beautiful and highly functional CLI, customized for you. P9k had a substantial impact on CLI UX, and its legacy is now continued by P10k.
-- [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,400+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
+- [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,500+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
 - [GitSquared/edex-ui](https://github.com/GitSquared/edex-ui) - A cross-platform, customizable science fiction terminal emulator with advanced monitoring & touchscreen support.
 - [Swordfish90/cool-retro-term](https://github.com/Swordfish90/cool-retro-term) - A good looking terminal emulator which mimics the old cathode display...
 
@@ -3306,7 +3306,7 @@
 - [bytedance/deer-flow](https://github.com/bytedance/deer-flow) - An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of ta
 - [shadcnspace/shadcnspace](https://github.com/shadcnspace/shadcnspace) - Open-source shadcn/ui blocks, components, Templates and layouts built with React, Tailwind, Radix UI and Base UI.
 - [bklit/bklit-ui](https://github.com/bklit/bklit-ui) - Open-source UI & Charts library
-- [web-infra-dev/rsbuild](https://github.com/web-infra-dev/rsbuild) - Simple, fast, extensible build tool. Powered by Rspack 🦀
+- [web-infra-dev/rsbuild](https://github.com/web-infra-dev/rsbuild) - Fast, extensible build tool for modern web development.
 - [software-mansion/TypeGPU](https://github.com/software-mansion/TypeGPU) - A modular and open-ended toolkit for WebGPU, with advanced type inference and the ability to write shaders in TypeScript
 - [get-convex/convex-backend](https://github.com/get-convex/convex-backend) - The open-source reactive database for app developers
 - [crxjs/chrome-extension-tools](https://github.com/crxjs/chrome-extension-tools) - Build cross-browser extensions with native HMR and zero-config setup
@@ -3515,7 +3515,7 @@
 
 ## webpack 
 
-- [web-infra-dev/rsbuild](https://github.com/web-infra-dev/rsbuild) - Simple, fast, extensible build tool. Powered by Rspack 🦀
+- [web-infra-dev/rsbuild](https://github.com/web-infra-dev/rsbuild) - Fast, extensible build tool for modern web development.
 - [pastelsky/bundlephobia](https://github.com/pastelsky/bundlephobia) - 🏋️ Find out the cost of adding a new frontend dependency to your project
 - [tamagui/tamagui](https://github.com/tamagui/tamagui) - Style React fast with 100% parity on React Native, an optional UI kit, and optimizing compiler.
 - [electron-react-boilerplate/electron-react-boilerplate](https://github.com/electron-react-boilerplate/electron-react-boilerplate) - A Foundation for Scalable Cross-Platform Apps
@@ -3592,7 +3592,7 @@
 - [starship/starship](https://github.com/starship/starship) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
 - [junegunn/fzf](https://github.com/junegunn/fzf) - :cherry_blossom: A command-line fuzzy finder
 - [Powerlevel9k/powerlevel9k](https://github.com/Powerlevel9k/powerlevel9k) - Powerlevel9k was a tool for building a beautiful and highly functional CLI, customized for you. P9k had a substantial impact on CLI UX, and its legacy is now continued by P10k.
-- [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,400+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
+- [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,500+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
 
 
 ## License
