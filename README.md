@@ -702,7 +702,7 @@
 - [mkdocs/mkdocs](https://github.com/mkdocs/mkdocs) - Project documentation with Markdown.
 - [r1chardj0n3s/parse](https://github.com/r1chardj0n3s/parse) - Parse strings using a specification based on the Python format() syntax.
 - [searx/searx](https://github.com/searx/searx) - Privacy-respecting metasearch engine
-- [maxhumber/gazpacho](https://github.com/maxhumber/gazpacho) - 🥫 The simple, fast, and modern web scraping library
+- [maxhumber/gazpacho](https://github.com/maxhumber/gazpacho) - The simple, fast, and modern web scraping library
 - [pycountry/pycountry](https://github.com/pycountry/pycountry) - A Python library to access ISO country, subdivision, language, currency and script definitions and their translations.
 - [pytest-dev/pytest](https://github.com/pytest-dev/pytest) - The pytest framework makes it easy to write small tests, yet scales to support complex functional testing
 - [jmsv/ety-python](https://github.com/jmsv/ety-python) - A Python module to discover the etymology of words
