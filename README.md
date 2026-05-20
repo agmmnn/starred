@@ -782,7 +782,6 @@
 - [google-research/football](https://github.com/google-research/football) - Check out the new game server:
 - [docopt/docopt](https://github.com/docopt/docopt) - Create *beautiful* command-line interfaces with Python
 - [satoshiiizuka/siggraphasia2019_remastering](https://github.com/satoshiiizuka/siggraphasia2019_remastering) - Code for the paper "DeepRemaster: Temporal Source-Reference Attention Networks for Comprehensive Video Enhancement". http://iizuka.cs.tsukuba.ac.jp/projects/remastering/
-- [alicevision/Meshroom](https://github.com/alicevision/Meshroom) - Node-based Visual Programming Toolbox
 - [nshepperd/gpt-2](https://github.com/nshepperd/gpt-2) - Code for the paper "Language Models are Unsupervised Multitask Learners"
 - [minimaxir/textgenrnn](https://github.com/minimaxir/textgenrnn) - Easily train your own text-generating neural network of any size and complexity on any text dataset with a few lines of code.
 - [hunkim/word-rnn-tensorflow](https://github.com/hunkim/word-rnn-tensorflow) - Multi-layer Recurrent Neural Networks (LSTM, RNN) for word-level language models in Python using TensorFlow.
@@ -801,6 +800,7 @@
 
 ## QML 
 
+- [alicevision/Meshroom](https://github.com/alicevision/Meshroom) - Node-based Visual Programming Toolbox
 - [Swordfish90/cool-retro-term](https://github.com/Swordfish90/cool-retro-term) - A good looking terminal emulator which mimics the old cathode display...
 
 ## RenderScript 
