@@ -384,7 +384,6 @@
 - [electron-userland/electron-json-storage](https://github.com/electron-userland/electron-json-storage) - :package: Easily write and read user settings in Electron apps
 - [swapagarwal/mediumship](https://github.com/swapagarwal/mediumship) - :books: Read all Medium stories for free!
 - [beakerbrowser/beaker](https://github.com/beakerbrowser/beaker) - An experimental peer-to-peer Web browser
-- [marktext/marktext](https://github.com/marktext/marktext) - 📝A simple and elegant markdown editor, available for Linux, macOS and Windows.
 - [tholman/zenpen](https://github.com/tholman/zenpen) - A minimalist writing zone.
 - [zusorio/GoodTwitterChrome](https://github.com/zusorio/GoodTwitterChrome) - 
 - [blurymind/YarnClassic](https://github.com/blurymind/YarnClassic) - A tool for writing interactive dialogue in games!
@@ -1224,6 +1223,7 @@
 - [max-mapper/menubar](https://github.com/max-mapper/menubar) - ➖ high level way to create menubar desktop applications with electron
 - [sentialx/multrin](https://github.com/sentialx/multrin) - Organize apps windows in tabs like in abandoned Windows Sets and more
 - [electron-userland/electron-builder](https://github.com/electron-userland/electron-builder) - A complete solution to package and build a ready for distribution Electron app with “auto update” support out of the box
+- [marktext/marktext](https://github.com/marktext/marktext) - 📝A simple and elegant markdown editor, available for Linux, macOS and Windows.
 - [Eugeny/tabby](https://github.com/Eugeny/tabby) - A terminal for a more modern age
 - [microsoft/vscode](https://github.com/microsoft/vscode) - Visual Studio Code
 - [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) - freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.
