@@ -313,13 +313,13 @@
 - [bethington/ghidra-mcp](https://github.com/bethington/ghidra-mcp) - Ghidra MCP Server — 200+ MCP tools for AI-powered reverse engineering. GUI plugin + headless server, lazy tool loading, convention enforcement, batch operations, Ghidra Server integration, and Docker 
 - [supertokens/supertokens-core](https://github.com/supertokens/supertokens-core) - Open source alternative to Auth0 / Firebase Auth / AWS Cognito
 - [ahmetaa/zemberek-nlp](https://github.com/ahmetaa/zemberek-nlp) - NLP tools for Turkish.
-- [ccxt/ccxt](https://github.com/ccxt/ccxt) - A cryptocurrency trading API with more than 100 exchanges in JavaScript / TypeScript / Python / C# / PHP / Go / Java
 
 ## JavaScript 
 
 - [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) - 🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman
 - [horsicq/Detect-It-Easy](https://github.com/horsicq/Detect-It-Easy) - Program for determining types of files for Windows, Linux and MacOS.
 - [expo/skills](https://github.com/expo/skills) - A collection of AI agent skills for working with Expo projects and Expo Application Services
+- [manaflow-ai/cmux](https://github.com/manaflow-ai/cmux) - Ghostty-based macOS terminal with vertical tabs and notifications for AI coding agents
 - [pbakaus/impeccable](https://github.com/pbakaus/impeccable) - The design language that makes your AI harness better at design.
 - [gsd-build/get-shit-done](https://github.com/gsd-build/get-shit-done) - A light-weight and powerful meta-prompting, context engineering and spec-driven development system for Claude Code by TÂCHES.
 - [coreyhaines31/marketingskills](https://github.com/coreyhaines31/marketingskills) - Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.
@@ -798,6 +798,7 @@
 - [keras-team/keras](https://github.com/keras-team/keras) - Deep Learning for humans
 - [ericjang/cryptocurrency_arbitrage](https://github.com/ericjang/cryptocurrency_arbitrage) - Automated Trading program that detects pairwise and triangular arbitrage opportunities on altcoin/bitcoin exchanges
 - [maxme/bitcoin-arbitrage](https://github.com/maxme/bitcoin-arbitrage) - Bitcoin arbitrage - opportunity detector
+- [ccxt/ccxt](https://github.com/ccxt/ccxt) - A cryptocurrency trading API with more than 100 exchanges in JavaScript / TypeScript / Python / C# / PHP / Go / Java
 
 ## QML 
 
@@ -972,7 +973,6 @@
 
 ## Swift 
 
-- [manaflow-ai/cmux](https://github.com/manaflow-ai/cmux) - Ghostty-based macOS terminal with vertical tabs and notifications for AI coding agents
 - [ELPROFUG0/TexTab](https://github.com/ELPROFUG0/TexTab) - TexTab - macOS text utility app
 - [mrkai77/Loop](https://github.com/mrkai77/Loop) - Window management made elegant.
 - [steipete/CodexBar](https://github.com/steipete/CodexBar) - Show usage stats for OpenAI Codex and Claude Code, without having to login.
