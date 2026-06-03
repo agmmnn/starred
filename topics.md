@@ -266,7 +266,7 @@
 - [microsoft/TRELLIS](https://github.com/microsoft/TRELLIS) - Official repo for paper "Structured 3D Latents for Scalable and Versatile 3D Generation" (CVPR'25 Spotlight).
 - [pmndrs/react-three-fiber](https://github.com/pmndrs/react-three-fiber) - 🇨🇭 A React renderer for Three.js
 - [nerfstudio-project/nerfstudio](https://github.com/nerfstudio-project/nerfstudio) - A collaboration friendly studio for NeRFs
-- [armory3d/armorpaint](https://github.com/armory3d/armorpaint) - 3D Content Creation Tools
+- [armory3d/armorpaint](https://github.com/armory3d/armorpaint) - Graphics Creation Tools
 - [ssloy/tinyraytracer](https://github.com/ssloy/tinyraytracer) - A brief computer graphics / rendering course
 - [agmmnn/awesome-blender](https://github.com/agmmnn/awesome-blender) - 🪐 A curated list of awesome Blender addons, tools, tutorials; and 3D resources for everyone.
 - [radiatoryang/hedera](https://github.com/radiatoryang/hedera) - paint 3D ivy in the Unity Editor, watch procedurally generated meshes simulate growth and clinging in real-time
