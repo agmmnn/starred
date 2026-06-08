@@ -816,7 +816,7 @@
 
 ## Rust 
 
-- [TX230/winproc-tui](https://github.com/TX230/winproc-tui) - Rust/Ratatui TUI for Windows 11 process investigation with live metrics, time-series graphs, A/B comparison, recording.
+- [TX230/winproc-tui](https://github.com/TX230/winproc-tui) - Process monitoring TUI with live metrics, time-series graphs, A/B comparison, and recording. Built with Rust/Ratatui; currently for Windows 11.
 - [d10n/mullvad-tui](https://github.com/d10n/mullvad-tui) - Full-featured terminal user interface for Mullvad VPN, with mouse support
 - [ultraworkers/claw-code](https://github.com/ultraworkers/claw-code) - The repo is finally unlocked. enjoy the party! The fastest repo in history to surpass 100K stars ⭐. Join Discord: https://discord.gg/5TUQKqFWd Built in Rust using oh-my-codex.
 - [clarifei/tauri-plugin-frame](https://github.com/clarifei/tauri-plugin-frame) - Opinionated window decorations for Tauri apps
