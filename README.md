@@ -82,6 +82,7 @@
 - [jqlang/jq](https://github.com/jqlang/jq) - Command-line JSON processor
 - [jart/cosmopolitan](https://github.com/jart/cosmopolitan) - build-once run-anywhere c library
 - [redis/redis](https://github.com/redis/redis) - For developers, who are building real-time data-driven applications, Redis is the preferred, fastest, and most feature-rich cache, data structure server, and document and vector query engine.
+- [microsoft/PowerToys](https://github.com/microsoft/PowerToys) - Microsoft PowerToys is a collection of utilities that supercharge productivity and customization on Windows
 - [rxi/microui](https://github.com/rxi/microui) - A tiny immediate-mode UI library
 - [armory3d/armorpaint](https://github.com/armory3d/armorpaint) - Graphics Creation Tools
 - [effekseer/Effekseer](https://github.com/effekseer/Effekseer) - 
@@ -105,7 +106,6 @@
 - [Sanaxen/tecoGAN_app](https://github.com/Sanaxen/tecoGAN_app) - tecoGAN Windows application ( EXE )
 - [alelievr/HDRP-Custom-Passes](https://github.com/alelievr/HDRP-Custom-Passes) - A bunch of custom passes made for HDRP
 - [mxgmn/WaveFunctionCollapse](https://github.com/mxgmn/WaveFunctionCollapse) - Bitmap & tilemap generation from a single example with the help of ideas from quantum mechanics
-- [microsoft/PowerToys](https://github.com/microsoft/PowerToys) - Microsoft PowerToys is a collection of utilities that supercharge productivity and customization on Windows
 - [keijiro/Lasp](https://github.com/keijiro/Lasp) - Low-latency Audio Signal Processing plugin for Unity
 - [keijiro/LaspVfx](https://github.com/keijiro/LaspVfx) - Audio reactive Unity VFX with LASP
 - [keijiro/Rsvfx](https://github.com/keijiro/Rsvfx) - An example that shows how to connect RealSense depth camera to Unity VFX Graph
