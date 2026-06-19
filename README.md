@@ -496,7 +496,7 @@
 - [utkusen/sast-skills](https://github.com/utkusen/sast-skills) - Collection of agent skills that turn your AI coder into a SAST scanner
 - [greensock/gsap-skills](https://github.com/greensock/gsap-skills) - Official AI skills for GSAP. These skills teach AI coding agents how to correctly use GSAP (GreenSock Animation Platform), including best practices, common animation patterns, and plugin usage.
 - [hardikpandya/stop-slop](https://github.com/hardikpandya/stop-slop) - A skill file for removing AI tells from prose
-- [emilkowalski/skill](https://github.com/emilkowalski/skill) - A skill file based on the articles written on my personal site. Designed for designers and engineers to help them build better user interfaces.
+- [emilkowalski/skills](https://github.com/emilkowalski/skills) - Skills for Design Engineers.
 - [serenakeyitan/awesome-notebookLM-prompts](https://github.com/serenakeyitan/awesome-notebookLM-prompts) - A curated collection of the strongest NotebookLM slide prompts sourced from the real creative underground . Your go-to resource for AI powerpoint :P
 - [gemini-cli-extensions/stitch](https://github.com/gemini-cli-extensions/stitch) - The Stitch extension for Gemini CLI enables you to interact with the Stitch MCP server using natural language commands.
 - [google-labs-code/jules-action](https://github.com/google-labs-code/jules-action) - Add a powerful cloud coding agent to your GitHub workflows
