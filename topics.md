@@ -260,7 +260,6 @@
 - [xcode](#xcode)
 - [xml](#xml)
 - [youtube](#youtube)
-- [zig](#zig)
 - [zsh](#zsh)
 
 ## 3d 
@@ -2960,6 +2959,7 @@
 - [yetone/get-selected-text](https://github.com/yetone/get-selected-text) - A tiny Rust library that allows you to easily obtain selected text across all platforms (macOS, Windows, Linux).
 - [ratatui/ratatui](https://github.com/ratatui/ratatui) - A Rust crate for cooking up terminal user interfaces (TUIs) 👨‍🍳🐀 https://ratatui.rs
 - [atilafassina/quantum](https://github.com/atilafassina/quantum) - Tauri + SolidStart. Batteries Included 🔋
+- [oven-sh/bun](https://github.com/oven-sh/bun) - Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
 - [rust-windowing/winit](https://github.com/rust-windowing/winit) - Window handling library in pure Rust
 - [dimusic/active-win-pos-rs](https://github.com/dimusic/active-win-pos-rs) - A small Rust library that lets you get position, size, title and a few other properties of the active window on Windows, MacOS and Linux
 - [rustformers/llm](https://github.com/rustformers/llm) - [Unmaintained, see README] An ecosystem of Rust libraries for working with large language models
@@ -3589,10 +3589,6 @@
 - [gautamkrishnar/blog-post-workflow](https://github.com/gautamkrishnar/blog-post-workflow) - Show your latest blog posts from any sources or StackOverflow activity or Youtube Videos on your GitHub profile/project readme automatically using the RSS feed
 - [m1guelpf/yt-whisper](https://github.com/m1guelpf/yt-whisper) - Using OpenAI's Whisper to automatically generate YouTube subtitles
 - [Anarios/return-youtube-dislike](https://github.com/Anarios/return-youtube-dislike) - Chrome extension to return youtube dislikes
-
-## zig 
-
-- [oven-sh/bun](https://github.com/oven-sh/bun) - Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
 
 ## zsh 
 
