@@ -89,7 +89,6 @@
 - [raysan5/raygui](https://github.com/raysan5/raygui) - A simple and easy-to-use immediate-mode gui library
 - [radareorg/radare2](https://github.com/radareorg/radare2) - UNIX-like reverse engineering framework and command-line toolset
 - [AlexeyAB/darknet](https://github.com/AlexeyAB/darknet) - YOLOv4 / Scaled-YOLOv4 / YOLO - Neural Networks for Object Detection (Windows and Linux version of Darknet )
-- [ilia3101/MLV-App](https://github.com/ilia3101/MLV-App) - All in one MLV processing app.
 
 ## C# # 
 
@@ -176,6 +175,7 @@
 - [upx/upx](https://github.com/upx/upx) - UPX - the Ultimate Packer for eXecutables
 - [x64dbg/x64dbg](https://github.com/x64dbg/x64dbg) - An open-source user mode debugger for Windows. Optimized for reverse engineering and malware analysis.
 - [withmorten/spek-alternative](https://github.com/withmorten/spek-alternative) - Acoustic spectrum analyser
+- [ilia3101/MLV-App](https://github.com/ilia3101/MLV-App) - All in one MLV processing app.
 - [RenderKit/oidn](https://github.com/RenderKit/oidn) - Intel® Open Image Denoise library
 - [electron/electron](https://github.com/electron/electron) - :electron: Build cross-platform desktop apps with JavaScript, HTML, and CSS
 - [AutoHotkey/AutoHotkey](https://github.com/AutoHotkey/AutoHotkey) - AutoHotkey - macro-creation and automation-oriented scripting utility for Windows.
@@ -990,6 +990,7 @@
 
 ## TypeScript 
 
+- [diffusionstudio/lottie](https://github.com/diffusionstudio/lottie) - Generate production-ready Lottie animations with Claude Code or Codex
 - [shuding/better-all](https://github.com/shuding/better-all) - Better Promise.all with automatic dependency optimization
 - [ilkerzg/text-to-360](https://github.com/ilkerzg/text-to-360) - Generate immersive 360° equirectangular panoramas from text or images. Powered by fal.ai.
 - [agmmnn/tauri-ui](https://github.com/agmmnn/tauri-ui) - 🦀 Tauri + shadcn/ui starter. Pick your framework and start building. Vite, Next.js, React Router, Astro, TanStack Start.
