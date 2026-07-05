@@ -2161,6 +2161,7 @@
 
 ## others 
 
+- [teamchong/pxpipe](https://github.com/teamchong/pxpipe) - cut Fable 5 token usage by rendering text context as images
 - [diffusionstudio/lottie](https://github.com/diffusionstudio/lottie) - Generate production-ready Lottie animations with Claude Code or Codex
 - [baidu/Unlimited-OCR](https://github.com/baidu/Unlimited-OCR) - Unlimited OCR Works: Welcome the Era of One-shot Long-horizon Parsing.
 - [d10n/mullvad-tui](https://github.com/d10n/mullvad-tui) - Full-featured terminal user interface for Mullvad VPN, with mouse support
