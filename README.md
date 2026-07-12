@@ -316,6 +316,7 @@
 
 ## JavaScript 
 
+- [agmmnn/x-bulk-clean](https://github.com/agmmnn/x-bulk-clean) - 🧹Bulk delete X/Twitter posts, replies, likes, reposts, and unfollow accounts. With safe preview, selection, local backups, and CSV exports.
 - [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) - 🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman
 - [horsicq/Detect-It-Easy](https://github.com/horsicq/Detect-It-Easy) - Program for determining types of files for Windows, Linux and MacOS.
 - [pbakaus/impeccable](https://github.com/pbakaus/impeccable) - The design language that makes your AI harness better at design.
