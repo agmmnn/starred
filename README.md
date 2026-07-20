@@ -136,6 +136,7 @@
 
 ## C++ 
 
+- [daijro/camoufox](https://github.com/daijro/camoufox) - 🦊 Anti-detect browser
 - [allenk/GeminiWatermarkTool](https://github.com/allenk/GeminiWatermarkTool) - VEO / Gemini 3.5 Nano Banana Pro watermark maintenance tool
 - [lynx-family/lynx](https://github.com/lynx-family/lynx) - Empower the Web community and invite more to build across platforms.
 - [ggml-org/whisper.cpp](https://github.com/ggml-org/whisper.cpp) - Port of OpenAI's Whisper model in C/C++
@@ -340,7 +341,7 @@
 - [vercel/next.js](https://github.com/vercel/next.js) - The React Framework
 - [react/react](https://github.com/react/react) - The library for web and native user interfaces.
 - [gautamkrishnar/blog-post-workflow](https://github.com/gautamkrishnar/blog-post-workflow) - Show your latest blog posts from any sources or StackOverflow activity or Youtube Videos on your GitHub profile/project readme automatically using the RSS feed
-- [michael/editable](https://github.com/michael/editable) - The Svelte website you can edit on the page
+- [michael/editable](https://github.com/michael/editable) - The website you can edit on the page
 - [handlebars-lang/handlebars.js](https://github.com/handlebars-lang/handlebars.js) - Minimal templating on steroids.
 - [developit/snarkdown](https://github.com/developit/snarkdown) - :smirk_cat: A snarky 1kb Markdown parser written in JavaScript
 - [reactjs/react.dev](https://github.com/reactjs/react.dev) - The React documentation website
@@ -996,6 +997,10 @@
 
 ## TypeScript 
 
+- [lidge-jun/opencodex](https://github.com/lidge-jun/opencodex) - Universal provider proxy for OpenAI Codex & Claude Code — use any LLM (Claude, Gemini, Grok, DeepSeek, Ollama…) with Codex CLI, App, SDK, and Claude Code
+- [oblien/openship](https://github.com/oblien/openship) - Self-hosted deployment platform
+- [ouestlabs/audio-ui](https://github.com/ouestlabs/audio-ui) - A set of accessible and composable components for building audio interfaces in your React apps. Built on top of shadcn/ui, it's designed for you to copy, paste, and own.
+- [Vanilagy/mediabunny](https://github.com/Vanilagy/mediabunny) - Pure TypeScript media toolkit for reading, writing, and converting video and audio files, directly in the browser.
 - [OpenCut-app/OpenCut](https://github.com/OpenCut-app/OpenCut) - The open-source CapCut alternative
 - [teamchong/pxpipe](https://github.com/teamchong/pxpipe) - cut Fable 5 token usage by rendering text context as images
 - [diffusionstudio/lottie](https://github.com/diffusionstudio/lottie) - Generate production-ready Lottie animations with Claude Code or Codex
