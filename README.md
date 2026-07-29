@@ -563,6 +563,7 @@
 
 ## Python 
 
+- [googleanalytics/google-analytics-mcp](https://github.com/googleanalytics/google-analytics-mcp) - 
 - [baidu/Unlimited-OCR](https://github.com/baidu/Unlimited-OCR) - Unlimited OCR Works: Welcome the Era of One-shot Long-horizon Parsing.
 - [CloakHQ/CloakBrowser](https://github.com/CloakHQ/CloakBrowser) - Stealth Chromium that passes every bot detection test. Drop-in Playwright replacement with source-level fingerprint patches. 30/30 tests passed.
 - [theori-io/copy-fail-CVE-2026-31431](https://github.com/theori-io/copy-fail-CVE-2026-31431) - Copy Fail (CVE-2026-31431): 9-year-old Linux kernel LPE found by Theori's Xint Code
