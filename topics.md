@@ -2191,6 +2191,7 @@
 
 ## others 
 
+- [googleanalytics/google-analytics-mcp](https://github.com/googleanalytics/google-analytics-mcp) - 
 - [heygen-com/hyperframes-launches](https://github.com/heygen-com/hyperframes-launches) - Open-source HyperFrames compositions behind HeyGen's product launch videos.
 - [Jakubantalik/thinking-orbs](https://github.com/Jakubantalik/thinking-orbs) - Dotted thought-orb loading indicators for AI & agent UIs — six tuned states, two sizes, auto dark/light
 - [block/buzz](https://github.com/block/buzz) - A hive mind communication platform
