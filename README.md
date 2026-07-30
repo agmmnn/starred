@@ -319,6 +319,7 @@
 
 ## JavaScript 
 
+- [woosal1337/blog](https://github.com/woosal1337/blog) - My blog website.
 - [agmmnn/x-bulk-clean](https://github.com/agmmnn/x-bulk-clean) - 🧹Bulk delete X/Twitter posts, replies, likes, reposts, and unfollow accounts. With safe preview, selection, local backups, and CSV exports.
 - [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) - 🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman
 - [horsicq/Detect-It-Easy](https://github.com/horsicq/Detect-It-Easy) - Program for determining types of files for Windows, Linux and MacOS.
@@ -826,7 +827,7 @@
 ## Rust 
 
 - [block/buzz](https://github.com/block/buzz) - A hive mind communication platform
-- [ogulcancelik/herdr](https://github.com/ogulcancelik/herdr) - agent multiplexer that lives in your terminal.
+- [herdrdev/herdr](https://github.com/herdrdev/herdr) - agent multiplexer that lives in your terminal.
 - [TX230/winproc-tui](https://github.com/TX230/winproc-tui) - Process monitoring TUI with live metrics, time-series graphs, A/B comparison, and recording. Built with Rust/Ratatui; currently for Windows 11.
 - [d10n/mullvad-tui](https://github.com/d10n/mullvad-tui) - Full-featured terminal user interface for Mullvad VPN, with mouse support
 - [ultraworkers/claw-code](https://github.com/ultraworkers/claw-code) - An agent-managed museum exhibit, built in Rust with Gajae-Code / LazyCodex — developed and maintained with no human intervention.
@@ -1056,7 +1057,7 @@
 - [sanity-labs/logo-soup](https://github.com/sanity-labs/logo-soup) - normalizes and harmonizes logo visuals
 - [bklit/bklit-ui](https://github.com/bklit/bklit-ui) - Open-source UI & Charts library
 - [web-infra-dev/rsbuild](https://github.com/web-infra-dev/rsbuild) - Fast, extensible build tool for modern web development
-- [KeygraphHQ/shannon](https://github.com/KeygraphHQ/shannon) - Shannon is an autonomous, white-box AI pentester for web applications and APIs. It analyzes your source code, identifies attack vectors, and executes real exploits to prove vulnerabilities before they
+- [KeygraphHQ/shannon](https://github.com/KeygraphHQ/shannon) - Shannon is an AI pentester for web applications and APIs. It analyzes your source code, identifies attack vectors, and executes real exploits to prove vulnerabilities before they reach production.
 - [inokawa/virtua](https://github.com/inokawa/virtua) - A zero-config, fast and small (~3kB) virtual list (and grid) component for React, Vue, Solid, Svelte and Angular.
 - [captbaritone/webamp](https://github.com/captbaritone/webamp) - Winamp 2 reimplemented for the browser
 - [google-labs-code/jules-sdk](https://github.com/google-labs-code/jules-sdk) - 
