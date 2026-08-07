@@ -3013,7 +3013,7 @@
 ## reverse-engineering 
 
 - [horsicq/Detect-It-Easy](https://github.com/horsicq/Detect-It-Easy) - Program for determining types of files for Windows, Linux and MacOS.
-- [agmmnn/eksiapi](https://github.com/agmmnn/eksiapi) - Reverse-engineered Ekşi Sözlük mobile API — Python client with RSA auth.
+- [agmmnn/eksiapi](https://github.com/agmmnn/eksiapi) - Unofficial API client and MCP server for Ekşi Sözlük, powered by a reverse-engineered mobile API with RSA authentication.
 - [mrexodia/ida-pro-mcp](https://github.com/mrexodia/ida-pro-mcp) - AI-powered reverse engineering assistant that bridges IDA Pro with language models through MCP.
 - [bethington/ghidra-mcp](https://github.com/bethington/ghidra-mcp) - Ghidra MCP Server — 200+ MCP tools for AI-powered reverse engineering. GUI plugin + headless server, lazy tool loading, convention enforcement, batch operations, Ghidra Server integration, and Docker 
 - [xtekky/gpt4free](https://github.com/xtekky/gpt4free) - The official gpt4free repository | various collection of powerful language models | opus 4.6 gpt 5.3 kimi 2.5 deepseek v3.2 gemini 3
