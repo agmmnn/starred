@@ -2217,7 +2217,7 @@
 
 ## others 
 
-- [diffusionstudio/editor](https://github.com/diffusionstudio/editor) - The open-source video editor built for your coding agents
+- [diffusionstudio/editor](https://github.com/diffusionstudio/editor) - A video editor built for coding agents
 - [shadcn-ui/chatbot-template](https://github.com/shadcn-ui/chatbot-template) - A minimal chatbot template built with Next.js, AI SDK, shadcn/ui, shadcn/react, shadcn/typeset. It runs on the Vercel AI Gateway.
 - [vercel-labs/agent-browser](https://github.com/vercel-labs/agent-browser) - Browser automation CLI for AI agents
 - [winmin/evil-opencode](https://github.com/winmin/evil-opencode) - The open source coding agent. (Unleashed 、Removing LLM safety guardrails）
@@ -2243,7 +2243,7 @@
 - [theori-io/copy-fail-CVE-2026-31431](https://github.com/theori-io/copy-fail-CVE-2026-31431) - Copy Fail (CVE-2026-31431): 9-year-old Linux kernel LPE found by Theori's Xint Code
 - [ilkerzg/text-to-360](https://github.com/ilkerzg/text-to-360) - Generate immersive 360° equirectangular panoramas from text or images. Powered by fal.ai.
 - [resend/sonare](https://github.com/resend/sonare) - Pronounceable and organic words that feel natural.
-- [jakubkrehel/make-interfaces-feel-better](https://github.com/jakubkrehel/make-interfaces-feel-better) - Skill that makes your interfaces feel better.
+- [jakubkrehel/make-interfaces-feel-better](https://github.com/jakubkrehel/make-interfaces-feel-better) - An agent skill that helps make your interface feel better.
 - [excalidraw/excalidraw-mcp](https://github.com/excalidraw/excalidraw-mcp) - Fast and streamable Excalidraw MCP App
 - [KingOfBugbounty/KingOfBugBountyTips](https://github.com/KingOfBugbounty/KingOfBugBountyTips) - Our main goal is to share tips from some well-known bughunters. Using recon methodology, we are able to find subdomains, apis, and tokens that are already exploitable, so we can report them. We wish t
 - [ultraworkers/claw-code](https://github.com/ultraworkers/claw-code) - An agent-managed museum exhibit, built in Rust with Gajae-Code / LazyCodex — developed and maintained with no human intervention.
