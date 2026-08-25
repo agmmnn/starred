@@ -2231,6 +2231,7 @@
 
 ## others 
 
+- [cloudflare/computer](https://github.com/cloudflare/computer) - Give your agent a computer 👾
 - [SimoneAvogadro/android-reverse-engineering-skill](https://github.com/SimoneAvogadro/android-reverse-engineering-skill) - Claude Code skill to support Android app's reverse engineering
 - [arknow91/liquid-taffy](https://github.com/arknow91/liquid-taffy) - Three liquid interactions you can grab, pull, and let snap back — anchored dropdown, morphing dropdown and speed dial on one goo engine.
 - [Mr-VincentW/PhotoShow](https://github.com/Mr-VincentW/PhotoShow) - PhotoShow is a browser extension helping you view/copy/download high-definition images simply by hovering mouse on image thumbnails, improving your productivity and online experience!
@@ -2423,7 +2424,6 @@
 - [streaak/keyhacks](https://github.com/streaak/keyhacks) - Keyhacks is a repository which shows quick ways in which API keys leaked by a bug bounty program can be checked to see if they're valid.
 - [aykutkardas/enwords](https://github.com/aykutkardas/enwords) - Analyze and Track English Words - Chrome Extension
 - [johnlindquist/kit](https://github.com/johnlindquist/kit) - Script Kit. Automate Anything.
-- [pdparchitect/ChatGPT-Assistant](https://github.com/pdparchitect/ChatGPT-Assistant) - 
 - [sw33tLie/impressive-chatgpt](https://github.com/sw33tLie/impressive-chatgpt) - A collection of impressive and useful results from OpenAI's chatgpt
 - [up209d/ResourcesSaverExt](https://github.com/up209d/ResourcesSaverExt) - Chrome Extension for one click downloading all resources files and keeping folder structures.
 - [p0dalirius/Coercer](https://github.com/p0dalirius/Coercer) - A python script to automatically coerce a Windows server to authenticate on an arbitrary machine through 12 methods.
