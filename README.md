@@ -7,6 +7,7 @@
 
 - [AngelScript](#angelscript)
 - [Assembly](#assembly)
+- [Astro](#astro)
 - [C](#c)
 - [C#](#c#)
 - [C++](#c++)
@@ -62,6 +63,10 @@
 ## Assembly 
 
 - [corkami/pics](https://github.com/corkami/pics) - File formats dissections and more...
+
+## Astro 
+
+- [bryllim/workout-guide](https://github.com/bryllim/workout-guide) - 302 open exercise illustrations and a framework-neutral npm package by Bryl Lim
 
 ## C 
 
@@ -228,6 +233,7 @@
 
 ## Go 
 
+- [TecharoHQ/anubis](https://github.com/TecharoHQ/anubis) - Weighs the soul of incoming HTTP requests to stop AI crawlers
 - [rclone/rclone](https://github.com/rclone/rclone) - "rsync for cloud storage" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Azure Blob, Azure Files, Yandex Files
 - [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) - 🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman
 - [lc/gau](https://github.com/lc/gau) - Fetch known URLs from AlienVault's Open Threat Exchange, the Wayback Machine, and Common Crawl.
@@ -1015,6 +1021,8 @@
 
 ## TypeScript 
 
+- [vercel-labs/vgpu](https://github.com/vercel-labs/vgpu) - Modular cross-runtime WebGPU library for shaders, 3D scenes, GPU tensors, neural networks, and math viz
+- [Olkre/Sasha-s-Body-Map](https://github.com/Olkre/Sasha-s-Body-Map) - A body map library with clean SVG and React implementation. Support transitions, muscle naming, hover effects etc.
 - [cloudflare/computer](https://github.com/cloudflare/computer) - Give your agent a computer 👾
 - [Jakubantalik/Libraries](https://github.com/Jakubantalik/Libraries) - Collection of effects for React: Border beam, Liquid Gooey, Thinking orbs
 - [arknow91/liquid-taffy](https://github.com/arknow91/liquid-taffy) - Three liquid interactions you can grab, pull, and let snap back — anchored dropdown, morphing dropdown and speed dial on one goo engine.
