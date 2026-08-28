@@ -2175,6 +2175,7 @@
 
 ## open-source 
 
+- [bryllim/workout-guide](https://github.com/bryllim/workout-guide) - 302 open exercise illustrations and a framework-neutral npm package by Bryl Lim
 - [jal-co/shieldcn](https://github.com/jal-co/shieldcn) - Beautiful README badges, inspired by shields.io and styled like shadcn/ui.
 - [CapSoftware/Cap](https://github.com/CapSoftware/Cap) - Open source Loom alternative. Beautiful, shareable screen recordings.
 - [Openpanel-dev/openpanel](https://github.com/Openpanel-dev/openpanel) - OpenPanel is an open-source web and product analytics platform, an open-source alternative to Mixpanel with optional self-hosting.
@@ -2231,6 +2232,8 @@
 
 ## others 
 
+- [vercel-labs/vgpu](https://github.com/vercel-labs/vgpu) - Modular cross-runtime WebGPU library for shaders, 3D scenes, GPU tensors, neural networks, and math viz
+- [Olkre/Sasha-s-Body-Map](https://github.com/Olkre/Sasha-s-Body-Map) - A body map library with clean SVG and React implementation. Support transitions, muscle naming, hover effects etc.
 - [gepa-ai/gepa](https://github.com/gepa-ai/gepa) - Optimize prompts, code, and more with AI-powered Reflective Optimization
 - [acamposuribe/p5.brush](https://github.com/acamposuribe/p5.brush) - Unlock custom brushes, natural fill effects and intuitive hatching in p5.js
 - [cloudflare/computer](https://github.com/cloudflare/computer) - Give your agent a computer 👾
@@ -2993,6 +2996,7 @@
 
 ## react-native 
 
+- [bryllim/workout-guide](https://github.com/bryllim/workout-guide) - 302 open exercise illustrations and a framework-neutral npm package by Bryl Lim
 - [Eronred/expo-agent-spinners](https://github.com/Eronred/expo-agent-spinners) - 54 terminal-style agent-like spinners for React Native & Expo. Lightweight, zero native dependencies — just Text. No heavy UI threads
 - [timothymiller/t4-app](https://github.com/timothymiller/t4-app) - Full stack meta-framework for building iOS, Android, and Progressive Web Apps with Tamagui and deploying to Cloudflare.
 - [chen-rn/CUA](https://github.com/chen-rn/CUA) - (deprecateed) create-universal-app(CUA) is an opinionated template for creating fullstack universal apps (Expo, Next, tRPC, Prisma, Clerk, Solito, Tamagui)
@@ -3151,6 +3155,7 @@
 
 ## security 
 
+- [TecharoHQ/anubis](https://github.com/TecharoHQ/anubis) - Weighs the soul of incoming HTTP requests to stop AI crawlers
 - [lc/gau](https://github.com/lc/gau) - Fetch known URLs from AlienVault's Open Threat Exchange, the Wayback Machine, and Common Crawl.
 - [mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills) - 817 structured cybersecurity skills for AI agents · Mapped to 6 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND, NIST AI RMF & MITRE F3 (Fight Fraud) · agentskills.io standard · Works with
 - [KeygraphHQ/shannon](https://github.com/KeygraphHQ/shannon) - Shannon is an AI pentester for web applications and APIs. It analyzes your source code, identifies attack vectors, and executes real exploits to prove vulnerabilities before they reach production.
