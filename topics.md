@@ -307,6 +307,7 @@
 - [livekit/agents](https://github.com/livekit/agents) - A framework for building realtime voice AI agents 🤖🎙️📹
 - [Dokploy/dokploy](https://github.com/Dokploy/dokploy) - Open Source Alternative to Vercel, Netlify and Heroku.
 - [microsoft/autogen](https://github.com/microsoft/autogen) - A programming framework for agentic AI
+- [ax-llm/ax](https://github.com/ax-llm/ax) - The pretty much "official" DSPy framework for Typescript
 - [dair-ai/Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) - 🐙 Guides, papers, lessons, notebooks and resources for prompt engineering, context engineering, RAG, and AI Agents.
 - [neuml/txtai](https://github.com/neuml/txtai) - 💡 All-in-one AI framework for semantic search, LLM orchestration and language model workflows
 
@@ -1416,6 +1417,7 @@
 
 ## gui 
 
+- [kageroumado/rilmazafone](https://github.com/kageroumado/rilmazafone) - A macOS GUI app for designing and building custom DMG disk images
 - [rust-windowing/winit](https://github.com/rust-windowing/winit) - Window handling library in pure Rust
 - [lkwq007/stablediffusion-infinity](https://github.com/lkwq007/stablediffusion-infinity) - Outpainting with Stable Diffusion on an infinite canvas
 - [hoffstadt/DearPyGui](https://github.com/hoffstadt/DearPyGui) - Dear PyGui: A fast and powerful Graphical User Interface Toolkit for Python with minimal dependencies
@@ -1581,6 +1583,7 @@
 
 ## ios 
 
+- [kageroumado/piru](https://github.com/kageroumado/piru) - iOS substance dose tracker with pharmacokinetic timelines and interaction warnings
 - [konstaui/konsta](https://github.com/konstaui/konsta) - Mobile UI components made with Tailwind CSS
 - [atilafassina/quantum](https://github.com/atilafassina/quantum) - Tauri + SolidStart. Batteries Included 🔋
 - [rust-windowing/winit](https://github.com/rust-windowing/winit) - Window handling library in pure Rust
@@ -1883,6 +1886,7 @@
 
 ## macos 
 
+- [kageroumado/rilmazafone](https://github.com/kageroumado/rilmazafone) - A macOS GUI app for designing and building custom DMG disk images
 - [webadderallorg/Recordly](https://github.com/webadderallorg/Recordly) - Create polished demo videos without editing skills. Mac/Windows/Linux
 - [tw93/Mole](https://github.com/tw93/Mole) - 🐹 Clean, uninstall, analyze, optimize, and monitor your Mac. Free open-source CLI, plus a native Mac app.
 - [manaflow-ai/cmux](https://github.com/manaflow-ai/cmux) - Open source Ghostty-based macOS terminal with vertical tabs and notifications for AI coding agents. Built for multitasking, organization, and programmability.
@@ -2902,7 +2906,6 @@
 ## rag 
 
 - [NirDiamant/agents-towards-production](https://github.com/NirDiamant/agents-towards-production) - End-to-end, code-first tutorials for building production-grade GenAI agents. From prototype to enterprise deployment.
-- [ax-llm/ax](https://github.com/ax-llm/ax) - The pretty much "official" DSPy framework for Typescript
 - [dair-ai/Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) - 🐙 Guides, papers, lessons, notebooks and resources for prompt engineering, context engineering, RAG, and AI Agents.
 - [neuml/txtai](https://github.com/neuml/txtai) - 💡 All-in-one AI framework for semantic search, LLM orchestration and language model workflows
 
@@ -3286,6 +3289,7 @@
 
 ## swift 
 
+- [kageroumado/piru](https://github.com/kageroumado/piru) - iOS substance dose tracker with pharmacokinetic timelines and interaction warnings
 - [tw93/Mole](https://github.com/tw93/Mole) - 🐹 Clean, uninstall, analyze, optimize, and monitor your Mac. Free open-source CLI, plus a native Mac app.
 - [mrkai77/Loop](https://github.com/mrkai77/Loop) - Window management made elegant.
 - [steipete/CodexBar](https://github.com/steipete/CodexBar) - Show usage stats for OpenAI Codex and Claude Code, without having to login.
