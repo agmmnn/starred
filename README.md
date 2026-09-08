@@ -825,6 +825,7 @@
 - [keras-team/keras](https://github.com/keras-team/keras) - Deep Learning for humans
 - [ericjang/cryptocurrency_arbitrage](https://github.com/ericjang/cryptocurrency_arbitrage) - Automated Trading program that detects pairwise and triangular arbitrage opportunities on altcoin/bitcoin exchanges
 - [maxme/bitcoin-arbitrage](https://github.com/maxme/bitcoin-arbitrage) - Bitcoin arbitrage - opportunity detector
+- [ccxt/ccxt](https://github.com/ccxt/ccxt) - A unified trading API with more than 100 crypto exchanges and prediction markets in JavaScript / TypeScript / Python / C# / PHP / Go / Java / Rust
 
 ## QML 
 
@@ -958,7 +959,6 @@
 - [rust-lang/rust](https://github.com/rust-lang/rust) - Empowering everyone to build reliable and efficient software.
 - [lovasoa/dezoomify-rs](https://github.com/lovasoa/dezoomify-rs) - Zoomable image downloader for Google Arts & Culture, Zoomify, IIIF, and others
 - [lovasoa/dezoomify](https://github.com/lovasoa/dezoomify) - Dezoomify is a web application to download zoomable images from museum websites, image galleries, and map viewers. Many different zoomable image technologies are supported.
-- [ccxt/ccxt](https://github.com/ccxt/ccxt) - A unified trading API with more than 100 crypto exchanges and prediction markets in JavaScript / TypeScript / Python / C# / PHP / Go / Java / Rust
 
 ## SCSS 
 
@@ -1005,6 +1005,7 @@
 - [BlackShoreTech/gittok.dev](https://github.com/BlackShoreTech/gittok.dev) - tiktok like interface for discovering github repos
 - [paoloricciuti/svelte-action-balancer](https://github.com/paoloricciuti/svelte-action-balancer) - A svelte action to balance the text inside the an html node. Heavily inspired by react-wrap-balancer
 - [animotionjs/animotion](https://github.com/animotionjs/animotion) - 🪄 Create beautiful presentations with Svelte
+- [michael/editable](https://github.com/michael/editable) - The website you can edit on the page
 
 ## Swift 
 
@@ -1040,7 +1041,7 @@
 - [shadcn-ui/chatbot-template](https://github.com/shadcn-ui/chatbot-template) - A minimal chatbot template built with Next.js, AI SDK, shadcn/ui, shadcn/react, shadcn/typeset. It runs on the Vercel AI Gateway.
 - [mintlify/index](https://github.com/mintlify/index) - Mintlify Index: retrieval engine and MCP server. Install: npx mint index
 - [winmin/evil-opencode](https://github.com/winmin/evil-opencode) - The open source coding agent. (Unleashed 、Removing LLM safety guardrails）
-- [miuuyy/codex-chatgpt-web](https://github.com/miuuyy/codex-chatgpt-web) - Use ChatGPT Web (including Pro) as a native model in the Codex app — with context, tools, streaming and images beyond Codex usage limits.
+- [miuuyy/codex-chatgpt-web](https://github.com/miuuyy/codex-chatgpt-web) - Use ChatGPT Web (including Pro) as a native model in Codex — with context, tools, streaming and images, without using Codex quota.
 - [Openpanel-dev/openpanel](https://github.com/Openpanel-dev/openpanel) - OpenPanel is an open-source web and product analytics platform, an open-source alternative to Mixpanel with optional self-hosting.
 - [anomalyco/models.dev](https://github.com/anomalyco/models.dev) - An open-source database of AI models.
 - [Jakubantalik/thinking-orbs](https://github.com/Jakubantalik/thinking-orbs) - Dotted thought-orb loading indicators for AI & agent UIs, 9 tuned types, two sizes, auto dark/light
@@ -1200,7 +1201,6 @@
 - [vadimdemedes/ink-ui](https://github.com/vadimdemedes/ink-ui) - 💄 Ink-redible command-line interfaces made easy
 - [vadimdemedes/ink](https://github.com/vadimdemedes/ink) - 🌈 React for interactive command-line apps
 - [alexewerlof/micromustache](https://github.com/alexewerlof/micromustache) - Ⓜ An extremely fast and small sub-implementation of the {{mustache}} template engine for JavaScript
-- [michael/editable](https://github.com/michael/editable) - The website you can edit on the page
 - [steven-tey/precedent](https://github.com/steven-tey/precedent) - An opinionated collection of components, hooks, and utilities for your Next.js project.
 - [yoavbls/pretty-ts-errors](https://github.com/yoavbls/pretty-ts-errors) - 🔵 Make TypeScript errors prettier and human-readable in VSCode 🎀
 - [unocss/unocss](https://github.com/unocss/unocss) - The instant on-demand atomic CSS engine.
