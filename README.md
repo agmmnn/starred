@@ -400,6 +400,7 @@
 - [electron-userland/electron-json-storage](https://github.com/electron-userland/electron-json-storage) - :package: Easily write and read user settings in Electron apps
 - [swapagarwal/mediumship](https://github.com/swapagarwal/mediumship) - :books: Read all Medium stories for free!
 - [beakerbrowser/beaker](https://github.com/beakerbrowser/beaker) - An experimental peer-to-peer Web browser
+- [MaxBittker/sandspiel](https://github.com/MaxBittker/sandspiel) - Creative cellular automata browser game
 - [tholman/zenpen](https://github.com/tholman/zenpen) - A minimalist writing zone.
 - [zusorio/GoodTwitterChrome](https://github.com/zusorio/GoodTwitterChrome) - 
 - [blurymind/YarnClassic](https://github.com/blurymind/YarnClassic) - A tool for writing interactive dialogue in games!
@@ -825,7 +826,6 @@
 - [keras-team/keras](https://github.com/keras-team/keras) - Deep Learning for humans
 - [ericjang/cryptocurrency_arbitrage](https://github.com/ericjang/cryptocurrency_arbitrage) - Automated Trading program that detects pairwise and triangular arbitrage opportunities on altcoin/bitcoin exchanges
 - [maxme/bitcoin-arbitrage](https://github.com/maxme/bitcoin-arbitrage) - Bitcoin arbitrage - opportunity detector
-- [ccxt/ccxt](https://github.com/ccxt/ccxt) - A unified trading API with more than 100 crypto exchanges and prediction markets in JavaScript / TypeScript / Python / C# / PHP / Go / Java / Rust
 
 ## QML 
 
@@ -950,7 +950,6 @@
 - [EmbarkStudios/texture-synthesis](https://github.com/EmbarkStudios/texture-synthesis) - 🎨 Example-based texture synthesis written in Rust 🦀
 - [TheAlgorithms/Rust](https://github.com/TheAlgorithms/Rust) - All Algorithms implemented in Rust
 - [redox-os/orbtk](https://github.com/redox-os/orbtk) - The Rust UI-Toolkit.
-- [MaxBittker/sandspiel](https://github.com/MaxBittker/sandspiel) - Creative cellular automata browser game
 - [onur/chip8](https://github.com/onur/chip8) - Rust ile CHIP-8 Emülatörü Geliştirme
 - [servo/servo](https://github.com/servo/servo) - Servo aims to empower developers with a lightweight, high-performance alternative for embedding web technologies in applications.
 - [rust-lang/regex](https://github.com/rust-lang/regex) - An implementation of regular expressions for Rust. This implementation uses finite automata and guarantees linear time matching on all inputs.
@@ -959,6 +958,7 @@
 - [rust-lang/rust](https://github.com/rust-lang/rust) - Empowering everyone to build reliable and efficient software.
 - [lovasoa/dezoomify-rs](https://github.com/lovasoa/dezoomify-rs) - Zoomable image downloader for Google Arts & Culture, Zoomify, IIIF, and others
 - [lovasoa/dezoomify](https://github.com/lovasoa/dezoomify) - Dezoomify is a web application to download zoomable images from museum websites, image galleries, and map viewers. Many different zoomable image technologies are supported.
+- [ccxt/ccxt](https://github.com/ccxt/ccxt) - A unified trading API with more than 100 crypto exchanges and prediction markets in JavaScript / TypeScript / Python / C# / PHP / Go / Java / Rust
 
 ## SCSS 
 
