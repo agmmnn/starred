@@ -2310,7 +2310,7 @@
 - [pbakaus/impeccable](https://github.com/pbakaus/impeccable) - The design language that makes your AI harness better at design.
 - [bgreenwell/git-ego](https://github.com/bgreenwell/git-ego) - Your Git identity manager and automatic profile switcher. Seamlessly manage user profiles, SSH keys, and tokens across different repositories.
 - [karpathy/autoresearch](https://github.com/karpathy/autoresearch) - AI agents running research on single-GPU nanochat training automatically
-- [allenk/GeminiWatermarkTool](https://github.com/allenk/GeminiWatermarkTool) - VEO / Gemini 3.5 Nano Banana Pro watermark maintenance tool
+- [allenk/GeminiWatermarkTool](https://github.com/allenk/GeminiWatermarkTool) - Offline Gemini image watermark restoration with reverse alpha blending. Native C++ GUI/CLI, batch processing, and optional GPU denoise.
 - [paperclipai/paperclip](https://github.com/paperclipai/paperclip) - The open-source app everyone uses to manage agents at work
 - [openai/symphony](https://github.com/openai/symphony) - Symphony turns project work into isolated, autonomous implementation runs, allowing teams to manage work instead of supervising coding agents.
 - [pingdotgg/t3code](https://github.com/pingdotgg/t3code) - 
