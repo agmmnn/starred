@@ -142,7 +142,7 @@
 ## C++ 
 
 - [daijro/camoufox](https://github.com/daijro/camoufox) - 🦊 Anti-detect browser
-- [allenk/GeminiWatermarkTool](https://github.com/allenk/GeminiWatermarkTool) - VEO / Gemini 3.5 Nano Banana Pro watermark maintenance tool
+- [allenk/GeminiWatermarkTool](https://github.com/allenk/GeminiWatermarkTool) - Offline Gemini image watermark restoration with reverse alpha blending. Native C++ GUI/CLI, batch processing, and optional GPU denoise.
 - [lynx-family/lynx](https://github.com/lynx-family/lynx) - Empower the Web community and invite more to build across platforms.
 - [ggml-org/whisper.cpp](https://github.com/ggml-org/whisper.cpp) - Port of OpenAI's Whisper model in C/C++
 - [acidanthera/MacHyperVSupport](https://github.com/acidanthera/MacHyperVSupport) - Hyper-V integration support for macOS
