@@ -2328,7 +2328,7 @@
 - [sanity-labs/logo-soup](https://github.com/sanity-labs/logo-soup) - normalizes and harmonizes logo visuals
 - [anvaka/map-of-reddit](https://github.com/anvaka/map-of-reddit) - Interactive map of reddit
 - [sanyuan0704/sanyuan-skills](https://github.com/sanyuan0704/sanyuan-skills) - Expert code review skill: SOLID, security, performance, error handling, boundary conditions
-- [MoonshotAI/kimi-cli](https://github.com/MoonshotAI/kimi-cli) - Kimi Code CLI is your next CLI agent.
+- [MoonshotAI/kimi-cli](https://github.com/MoonshotAI/kimi-cli) - [Archived] Legacy Python Kimi CLI, no longer maintained. Please use Kimi Code CLI: https://github.com/MoonshotAI/kimi-code
 - [google-labs-code/jules-sdk](https://github.com/google-labs-code/jules-sdk) - 
 - [lukilabs/beautiful-mermaid](https://github.com/lukilabs/beautiful-mermaid) - 
 - [exo-explore/exo](https://github.com/exo-explore/exo) - Run frontier AI locally.
