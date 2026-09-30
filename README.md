@@ -1073,7 +1073,7 @@
 - [gsd-build/gsd-2](https://github.com/gsd-build/gsd-2) - A powerful meta-prompting, context engineering and spec-driven development system that enables agents to work for long periods of time autonomously without losing track of the big picture
 - [google-labs-code/stitch-skills](https://github.com/google-labs-code/stitch-skills) - A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude C
 - [FuzzySecurity/kahlo-mcp](https://github.com/FuzzySecurity/kahlo-mcp) - A Frida MCP server to enable autonomous AI assistance for Android instrumentation
-- [vercel/chat](https://github.com/vercel/chat) - A unified TypeScript SDK for building chat bots across Slack, Microsoft Teams, Google Chat, Discord, and more.
+- [vercel/chat](https://github.com/vercel/chat) - Universal chat layer for building bots and agents.
 - [google-labs-code/stitch-sdk](https://github.com/google-labs-code/stitch-sdk) - Generate UI screens from text prompts and extract their HTML and screenshots programmatically.
 - [agmmnn/n8n-nodes-notebooklm-sdk](https://github.com/agmmnn/n8n-nodes-notebooklm-sdk) - 🔌 n8n community node for NotebookLM. Manage notebooks, sources, artifacts, chat, and notes.
 - [raphaelsalaja/userinterface-wiki](https://github.com/raphaelsalaja/userinterface-wiki) - A Living Manual for Better Interfaces
