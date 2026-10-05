@@ -997,7 +997,6 @@
 
 ## Svelte 
 
-- [VERT-sh/VERT](https://github.com/VERT-sh/VERT) - The next-generation file converter. Open source, fully local* and free forever.
 - [paoloricciuti/svelte-action-balancer](https://github.com/paoloricciuti/svelte-action-balancer) - A svelte action to balance the text inside the an html node. Heavily inspired by react-wrap-balancer
 - [animotionjs/animotion](https://github.com/animotionjs/animotion) - 🪄 Create beautiful presentations with Svelte
 
@@ -1073,6 +1072,7 @@
 - [agmmnn/n8n-nodes-notebooklm-sdk](https://github.com/agmmnn/n8n-nodes-notebooklm-sdk) - 🔌 n8n community node for NotebookLM. Manage notebooks, sources, artifacts, chat, and notes.
 - [raphaelsalaja/userinterface-wiki](https://github.com/raphaelsalaja/userinterface-wiki) - A Living Manual for Better Interfaces
 - [garrytan/gstack](https://github.com/garrytan/gstack) - Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA
+- [VERT-sh/VERT](https://github.com/VERT-sh/VERT) - The next-generation file converter. Open source, fully local* and free forever.
 - [agmmnn/notebooklm-sdk](https://github.com/agmmnn/notebooklm-sdk) - 📚 TypeScript/Node.js SDK for NotebookLM. Manage notebooks, chat with sources, and generate podcasts, reports.
 - [paperclipai/paperclip](https://github.com/paperclipai/paperclip) - The open-source app everyone uses to manage agents at work
 - [superset-sh/superset](https://github.com/superset-sh/superset) - Superset is an agentic IDE to orchestrate 100+ coding agents in parallel. Run any agent with your own subscription.
@@ -1095,7 +1095,7 @@
 - [bklit/bklit-ui](https://github.com/bklit/bklit-ui) - Open-source UI & Charts library
 - [web-infra-dev/rsbuild](https://github.com/web-infra-dev/rsbuild) - Fast, extensible build tool for modern web development
 - [KeygraphHQ/shannon](https://github.com/KeygraphHQ/shannon) - Shannon is an AI pentester for web applications and APIs. It analyzes your source code, identifies attack vectors, and executes real exploits to prove vulnerabilities before they reach production.
-- [inokawa/virtua](https://github.com/inokawa/virtua) - A zero-config, fast and small virtual list and grid component for React, Vue, Solid, Svelte and Angular.
+- [inokawa/virtua](https://github.com/inokawa/virtua) - A zero-config, fast and small virtual list, grid and masonry component for React, Vue, Solid, Svelte and Angular.
 - [captbaritone/webamp](https://github.com/captbaritone/webamp) - Winamp 2 reimplemented for the browser
 - [google-labs-code/jules-sdk](https://github.com/google-labs-code/jules-sdk) - 
 - [lukilabs/beautiful-mermaid](https://github.com/lukilabs/beautiful-mermaid) - 
