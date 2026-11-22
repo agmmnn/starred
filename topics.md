@@ -306,6 +306,7 @@
 
 ## agent-skills 
 
+- [danielwh2/sprite-stacking](https://github.com/danielwh2/sprite-stacking) - Agent skill: turn four pixel art views into fake-3D sprites you can spin. Works with Claude Code, Codex, Cursor, OpenCode, Gemini CLI, Pi.
 - [patch-gg/pixelfx](https://github.com/patch-gg/pixelfx) - 244 pixel art effects, every one a small piece of code. Plus a Claude Code skill to make your own.
 - [gokayfem/shader-skills](https://github.com/gokayfem/shader-skills) - Procedural GLSL for AI coding agents. Includes 197 distinct function names across 21 modules, 27 interactive Shadertoy/WebGL2 studies, two WebGPU worlds, a shader bundler and a checker.
 - [JuneYaooo/rea-video](https://github.com/JuneYaooo/rea-video) - Reverse-engineer any video, shot by shot: filmed, AI-generated or coded, and how to remake it. Breakdowns in the open VIDEO.md format. 逆向一切视频，逐个镜头看是拍的、AI 生成的还是代码做的，再告诉你怎么复刻；拆解结果按 VIDEO.md 格式输出。
@@ -761,6 +762,7 @@
 
 ## claude-code 
 
+- [danielwh2/sprite-stacking](https://github.com/danielwh2/sprite-stacking) - Agent skill: turn four pixel art views into fake-3D sprites you can spin. Works with Claude Code, Codex, Cursor, OpenCode, Gemini CLI, Pi.
 - [gokayfem/shader-skills](https://github.com/gokayfem/shader-skills) - Procedural GLSL for AI coding agents. Includes 197 distinct function names across 21 modules, 27 interactive Shadertoy/WebGL2 studies, two WebGPU worlds, a shader bundler and a checker.
 - [kitlangton/scrawl](https://github.com/kitlangton/scrawl) - Show an agent a problem: mark up, record, send
 - [JuneYaooo/rea-video](https://github.com/JuneYaooo/rea-video) - Reverse-engineer any video, shot by shot: filmed, AI-generated or coded, and how to remake it. Breakdowns in the open VIDEO.md format. 逆向一切视频，逐个镜头看是拍的、AI 生成的还是代码做的，再告诉你怎么复刻；拆解结果按 VIDEO.md 格式输出。
@@ -1408,6 +1410,7 @@
 
 ## gamedev 
 
+- [danielwh2/sprite-stacking](https://github.com/danielwh2/sprite-stacking) - Agent skill: turn four pixel art views into fake-3D sprites you can spin. Works with Claude Code, Codex, Cursor, OpenCode, Gemini CLI, Pi.
 - [patch-gg/pixelfx](https://github.com/patch-gg/pixelfx) - 244 pixel art effects, every one a small piece of code. Plus a Claude Code skill to make your own.
 - [mxgmn/WaveFunctionCollapse](https://github.com/mxgmn/WaveFunctionCollapse) - Bitmap & tilemap generation from a single example with the help of ideas from quantum mechanics
 - [agmmnn/awesome-blender](https://github.com/agmmnn/awesome-blender) - 🪐 A curated list of awesome Blender add-ons, AI/MCP tools, tutorials, and 3D resources.
@@ -2229,6 +2232,7 @@
 
 ## nextjs 
 
+- [shadcn-labs/pin-ui](https://github.com/shadcn-labs/pin-ui) - 
 - [marclou/mailcheap](https://github.com/marclou/mailcheap) - Newsletters where you pay for the emails you send, not for dormant subscribers, at a fraction of the price of beehiiv and the like. Open source: self-host it, or use mailcheap.ai.
 - [CapSoftware/Cap](https://github.com/CapSoftware/Cap) - Open source Loom alternative. Beautiful, shareable screen recordings.
 - [agmmnn/tauri-ui](https://github.com/agmmnn/tauri-ui) - 🦀 Tauri + shadcn/ui desktop app scaffolder with desktop-ready defaults and optional batteries. Supports: Vite, Next.js, Astro, TanStack Start.
@@ -2420,6 +2424,7 @@
 
 ## others 
 
+- [0xpratzyy/subtle](https://github.com/0xpratzyy/subtle) - Local animated captions and beat-synced lyric videos. 26 styles for Codex, Claude Code and the command line.
 - [speridlabs/idol-sdk](https://github.com/speridlabs/idol-sdk) - Idol: a single image to 3D Gaussians. Inference SDK and demo.
 - [shuding/spec-01](https://github.com/shuding/spec-01) - A hardware theme for Vercel UI SDK
 - [GoogleChrome/modern-web-guidance-src](https://github.com/GoogleChrome/modern-web-guidance-src) - Keep your coding agent up to date with the latest web best practices
@@ -2854,6 +2859,7 @@
 
 ## pixel-art 
 
+- [danielwh2/sprite-stacking](https://github.com/danielwh2/sprite-stacking) - Agent skill: turn four pixel art views into fake-3D sprites you can spin. Works with Claude Code, Codex, Cursor, OpenCode, Gemini CLI, Pi.
 - [patch-gg/pixelfx](https://github.com/patch-gg/pixelfx) - 244 pixel art effects, every one a small piece of code. Plus a Claude Code skill to make your own.
 
 ## postgresql 
@@ -3209,6 +3215,7 @@
 
 ## reactjs 
 
+- [shadcn-labs/pin-ui](https://github.com/shadcn-labs/pin-ui) - 
 - [ruucm/shadergradient](https://github.com/ruucm/shadergradient) - Create beautiful moving gradients on Framer, Figma and React
 - [heroui-inc/heroui](https://github.com/heroui-inc/heroui) - 🚀 Beautiful, fast and modern React UI library. (Previously NextUI)
 - [chen-rn/CUA](https://github.com/chen-rn/CUA) - (deprecateed) create-universal-app(CUA) is an opinionated template for creating fullstack universal apps (Expo, Next, tRPC, Prisma, Clerk, Solito, Tamagui)
@@ -3764,6 +3771,7 @@
 
 ## ui 
 
+- [shadcn-labs/pin-ui](https://github.com/shadcn-labs/pin-ui) - 
 - [Jakubantalik/thinking-orbs](https://github.com/Jakubantalik/thinking-orbs) - Dotted thought-orb loading indicators for AI & agent UIs, 9 tuned types, two sizes, auto dark/light
 - [agmmnn/ray-menu](https://github.com/agmmnn/ray-menu) - 𖤓 Radial (pie) menu for the modern web. Infinite selection, submenus, keyboard nav, drag & drop, and theming.
 - [bklit/bklit-ui](https://github.com/bklit/bklit-ui) - Open-source UI & Charts library
